@@ -1,4 +1,4 @@
-#-*- mode: org; -*-
+#-*- mode: mandoku-view; -*-
 #+DATE: 2015-08-29 17:47:53.211068
 #+PROPERTY: ID KR5i0001
 #+TITLE: 元始大洞玉經 Yuanshi Dadong Yujing
