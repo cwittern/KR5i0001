@@ -64,10 +64,10 @@
     </surface>
     <surface lry="684" lrx="512" uly="0" ulx="0" xml:id="fac-02p003a">
       <graphic url="facs/02p003a.png"/>
-      <zone xml:id="zone_pbr_2by_lw" lry="283" lrx="304" uly="96" ulx="167"/>
-      <zone xml:id="zone_gcj_fby_lw" lry="84" lrx="304" uly="36" ulx="166"/>
-      <zone xml:id="zone_em1_gby_lw" lry="353" lrx="299" uly="296" ulx="165"/>
-      <zone xml:id="zone_pjt_gby_lw" lry="558" lrx="304" uly="363" ulx="161"/>
+      <zone xml:id="zone_02p003a_1" lry="84" lrx="304" uly="36" ulx="166"/>
+      <zone xml:id="zone_02p003a_2" lry="283" lrx="304" uly="96" ulx="167"/>
+      <zone xml:id="zone_02p003a_3" lry="353" lrx="299" uly="296" ulx="165"/>
+      <zone xml:id="zone_02p003a_4" lry="558" lrx="304" uly="363" ulx="161"/>
     </surface>
     <surface xml:id="fac-02p003b" lry="684" lrx="512" uly="0" ulx="0">
       <graphic url="facs/02p003b.png"/>
@@ -756,14 +756,18 @@
 <lb/>鍊我一身萬神，七祖旣度，我得仙也。只在人心精思勤誦，三年
 <lb/>九載，何患不證道成眞乎！
 <lb/>
-<lb/>　照辟符【圖images/KR5i0001_KR5i0001-02_3a5-7a.jpg】正心符【圖images/KR5i0001_KR5i0001-02_3a5-7b.jpg】
+<lb/>　照辟符
+
+<graphic url="images/KR5i0001_02_3a5-7a.jpg"/>
+正心符<graphic url="images/KR5i0001_02_3a5-7b.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
 <lb/>　此二符，檀香板刻之，硃砂鈎畫，外面刻五岳眞形，下排靈書
 <lb/>　中篇，包褁黃羅，貯紬袋内，佩掛胸前。
 <lb/><pb ed="CK-KZ" n="02p003b" facs="#fac-02p003b"/>
-<lb/>　　震靈符【圖images/KR5i0001_KR5i0001-02_3b1-6.jpg】
+  <lb/>　　震靈符<graphic url="images/KR5i0001_02_3b1-6.jpg"/>
 <lb/>
 <lb/>
 <lb/>
@@ -819,7 +823,8 @@
 <lb/>運發三昧火， 　合我至陽明。 　擒妖化爲汁， 　燒鬼化爲塵。
 <lb/>厭穢速淸淨， 　人道得長生。』
 <lb/></l></lg> 　　
-<lb/>　　足步【圖images/KR5i0001_KR5i0001-02_5b4-7.jpg】
+<lb/>　　足步<graphic url="images/KR5i0001_02_5b4-7.jpg"/>
+
 　　　　　　　　　　　　九鳳破穢，精邪滅亡。天將吏兵，
 <lb/>　　　　　　　　　　　　速下雲罡。斗轉星移，照耀三光。
 <lb/>　　　　　　　　　　　　上映九天，下映九地。雷公霹𩆝，
@@ -901,16 +906,19 @@
 <lb/>　頋，退至單上，行九叩首禮。拜畢，起立，從門限東首起，足斜步
 <lb/>　八星罡。每走一步，心念二字。至洞案前，左手剔子文，至午文
 <lb/><pb ed="CK-KZ" n="02p009a" facs="#fac-02p009a"/>
-<lb/>　出。　【圖images/KR5i0001_KR5i0001-02_9a1-4.jpg】
+<lb/>　出。　<graphic url="images/KR5i0001_02_9a1-4.jpg"/>
+
 <lb/>　　　　　　　　　　　玉淸　勅素，　大梵　分靈。
 <lb/>　　　　　　　　　　　元罡　流演，　星珠　冠周。
 <lb/>
-<lb/>天目運【圖images/KR5i0001_KR5i0001-02_9a5-7.jpg】 　　　　　　　　　　『靈光梵炁，下注臣身。
+<lb/>天目運<graphic url="images/KR5i0001_02_9a5-7.jpg"/>
+ 　　　　　　　　　　『靈光梵炁，下注臣身。
 <lb/>　　　　　　　　　　默念：　飛香進御，道合帝庭。
 <lb/>　　　　　　　　　　　　　　急急如律令。』
 <lb/>　　左手上香一炷，　念：
 <lb/>　『(臣某)至心，初拈上香(一叩齒)，上詣
-<lb/>淸微天宫(天目運書)。【圖images/KR5i0001_KR5i0001-02_9a10.jpg】(卽淸微，天眞形)供養
+<lb/>淸微天宫(天目運書)。<graphic url="images/KR5i0001_02_9a10.jpg"/>
+(卽淸微，天眞形)供養
 <lb/><pb ed="CK-KZ" n="02p009b" facs="#fac-02p009b"/>
 <lb/>大羅金闕上帝元始天尊。(念達信章)𩅘[雨/杰][雨/欽]雲攝。朱陽九霄，玉靄元
 <lb/>明，靈鳳朱翔，上騰玉京。願此丹懇，隨烟迅昇
@@ -946,7 +954,8 @@
 <lb/>　　左手上香一炷，　念：
 <lb/><pb ed="CK-KZ" n="02p011a" facs="#fac-02p011a"/>
 <lb/>　『(臣某)至心，三捻上香(一叩齒)。上詣
-<lb/>大赤天宫(天目運書)【圖images/KR5i0001_KR5i0001-02_11a2.jpg】⬤　　(卽大赤天眞形)供養
+<lb/>大赤天宫(天目運書)<graphic url="images/KR5i0001_02_11a2.jpg"/>
+⬤　　(卽大赤天眞形)供養
 <lb/>太上混元老君道德天尊。(念入聖章)唆𠰂唔叮，心玄語靈。朱陽九霄，
 <lb/>玉靄元明。靈鳳朱翔，上騰玉京。願此丹懇，隨烟上昇
 <lb/>大赤元精淸虛太空(一拜)。上祝
@@ -1139,11 +1148,14 @@ facs="#fac-02p019a"/>
 <lb/>　也，名玉訣，一氣書完，加三五筆。
 <lb/><pb ed="CK-KZ" n="02p020a" facs="#fac-02p020a"/>
 <lb/>　　第一章
-<lb/>太微玉篆【圖images/KR5i0001_KR5i0001-02_20a2-5.jpg】
+<lb/>太微玉篆<graphic url="images/KR5i0001_02_20a2-5.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
-<lb/>　五筆(明)(帝天合)(日)(卽五老諱)【圖images/KR5i0001_KR5i0001-02_20b6-7a.jpg】三筆(泓)(澄)(明)【圖images/KR5i0001_20b6-7b.jpg】
+<lb/>　五筆(明)(帝天合)(日)(卽五老諱)<graphic url="images/KR5i0001_02_20b6-7a.jpg"/>
+三筆(泓)(澄)(明)<graphic url="images/KR5i0001_02_20b6-7b.jpg"/>
+
 <lb/>　　
 <lb/>　　(只用五撇三撇，口中默誦五字三字，觀想五方眞炁，三淸境界。)
 <lb/>　　(以後三十八道，一一依此加筆。)
@@ -1178,7 +1190,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　玄契曰：『誦至一章，消一切罪，身有六根，皆獲洞淸，六天自降，
 <lb/>　羣魔束首，召眞使仙，萬炁齊正，得无礙門。』
 <lb/>　　第二章
-<lb/>太一玉篆【圖images/KR5i0001_KR5i0001-02_21b4-7.jpg】
+<lb/>太一玉篆<graphic url="images/KR5i0001_02_21b4-7.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1209,7 +1222,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　得入定門。』
 <lb/>　　第三章
 <lb/><pb ed="CK-KZ" n="02p023a" facs="#fac-02p023a"/>
-<lb/>天皇玉篆【圖images/KR5i0001_KR5i0001-02_23a1-4.jpg】
+<lb/>天皇玉篆<graphic url="images/KR5i0001_02_23a1-4.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1238,7 +1252,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　玄契曰：『誦至三章，得自在智，度一切厄，入玄上關，萬炁齊淸，
 <lb/>　入希夷門。』
 <lb/>　　第四章
-<lb/>無英玉篆【圖images/KR5i0001_KR5i0001-02_24a7-10.jpg】
+<lb/>無英玉篆<graphic url="images/KR5i0001_02_24a7-10.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1271,7 +1286,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/><pb ed="CK-KZ" n="02p025b" facs="#fac-02p025b"/>
 <lb/>　得自在門。』
 <lb/>　　第五章
-<lb/>白元玉篆【圖images/KR5i0001_KR5i0001-02_25b3-6.jpg】
+<lb/>白元玉篆<graphic url="images/KR5i0001_02_25b3-6.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1297,7 +1313,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/></l></lg> 　咒三遍，畢，叩齒咽津，如前。
 <lb/>　玄契曰：『誦至五章，永絕死炁，浸茂生根，萬炁齊生，得長生門。』
 <lb/>　　第六章
-<lb/>司命玉篆【圖images/KR5i0001_KR5i0001-02_26b6-9.jpg】
+<lb/>司命玉篆<graphic url="images/KR5i0001_02_26b6-9.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1326,7 +1343,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　萬炁齊光，卽得度世，進登仙門。』
 <lb/>　　第七章
 <lb/><pb ed="CK-KZ" n="02p028a" facs="#fac-02p028a"/>
-<lb/>桃康玉篆【圖images/KR5i0001_KR5i0001-02_28a1-4.jpg】
+<lb/>桃康玉篆<graphic url="images/KR5i0001_02_28a1-4.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1354,7 +1372,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　玄契曰：『誦至七章，七元斗辰皇妃下降，爲我削落死籍，移注
 <lb/>　南宮，萬炁齊超，得飛仙門。』
 <lb/>　　第八章
-<lb/>上一玉篆【圖images/KR5i0001_KR5i0001-02_29a5-8.jpg】
+<lb/>上一玉篆<graphic url="images/KR5i0001_02_29a5-8.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1384,7 +1403,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　注舉仙名，斬絕地戶，永斷惡根，萬炁齊明，得飛神門。』
 <lb/>　　第九章
 <lb/><pb ed="CK-KZ" n="02p030b" facs="#fac-02p030b"/>
-<lb/>丹皇玉篆【圖images/KR5i0001_KR5i0001-02_30b1-4.jpg】
+<lb/>丹皇玉篆<graphic url="images/KR5i0001_02_30b1-4.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1419,7 +1439,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　八會游集，朝應九天，萬炁齊仙，得登眞門。』
 <lb/>　　第十章
 <lb/><pb ed="CK-KZ" n="02p032a" facs="#fac-02p032a"/>
-<lb/>黃庭玉篆【圖images/KR5i0001_KR5i0001-02_32a1-4.jpg】
+<lb/>黃庭玉篆<graphic url="images/KR5i0001_02_32a1-4.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1462,7 +1483,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　十仙，遂化十眞，六位己陞，妙行大全，形神炁鍊，號曰眞人，入
 <lb/>　眾妙門。』
 <lb/>　　第十一章
-<lb/>九眞玉篆【圖images/KR5i0001_KR5i0001-02_33b7-10.jpg】
+<lb/>九眞玉篆<graphic url="images/KR5i0001_02_33b7-10.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1495,7 +1517,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　玄契曰：『十回功竟，更至十一，境地重光，心身益擴，百邪遠避，
 <lb/>　諸障不干，金童默相，玉女欣傳，呼吸週通，入逍遙門。』
 <lb/>　　第十二章
-<lb/>八眞玉篆【圖images/KR5i0001_KR5i0001-02_35a5-8.jpg】
+<lb/>八眞玉篆<graphic url="images/KR5i0001_02_35a5-8.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1542,7 +1565,8 @@ n="02p021b" facs="#fac-02p021b"/>
 道言：『元始天王眉放靑毫，頂旋紫炁，萬華寶蓋，浮羅覆形，玉光
 <lb/>金霞，紆絢晃耀，玉晨道君，太玄道父，稽首容伫，願聽洞章。』
 <lb/>　　第十三章
-<lb/>左七眞篆【圖images/KR5i0001_KR5i0001-02_37a7-10.jpg】
+<lb/>左七眞篆<graphic url="images/KR5i0001_02_37a7-10.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1551,7 +1575,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>『謹請左腎間七眞，名玄陽君，字冥光，一名元生，一名五帝。常鎭
 <lb/>我背骨盡際、地戶大椎骨七節左腎腰之下。玄陽君嚴固守之，
 <lb/>使地戶生眞炁，窮骨受神液，六津充滿，生根深密。』
-<lb/>右七眞篆【圖images/KR5i0001_KR5i0001-02_37b5-8.jpg】
+<lb/>右七眞篆<graphic url="images/KR5i0001_02_37b5-8.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1584,7 +1609,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/><pb ed="CK-KZ" n="02p039a" facs="#fac-02p039a"/>
 <lb/>　常以上品香花供養天王進登天仙
 <lb/>　　第十四章
-<lb/>六眞玉篆【圖images/KR5i0001_KR5i0001-02_39a3-6.jpg】
+<lb/>六眞玉篆<graphic url="images/KR5i0001_02_39a3-6.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1619,7 +1645,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　以丹菓，供養天王，結蒂生核，飛登上仙。』
 <lb/><pb ed="CK-KZ" n="02p040b" facs="#fac-02p040b"/>
 <lb/>　　第十五章
-<lb/>五眞玉篆【圖images/KR5i0001_KR5i0001-02_40b2-5.jpg】
+<lb/>五眞玉篆<graphic url="images/KR5i0001_02_40b2-5.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1653,7 +1680,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　魔籍鬼賬。勤以信香，供奉天王，進登神仙。』
 <lb/>　　第十六章
 <lb/><pb ed="CK-KZ" n="02p042a" facs="#fac-02p042a"/>
-<lb/>四眞玉篆【圖images/KR5i0001_KR5i0001-02_42a1-4.jpg】
+<lb/>四眞玉篆<graphic url="images/KR5i0001_02_42a1-4.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1687,7 +1715,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>
 <lb/>
 <lb/><pb ed="CK-KZ" n="02p043b" facs="#fac-02p043b"/>
-<lb/>三眞玉篆【圖images/KR5i0001_KR5i0001-02_43b1-4.jpg】
+<lb/>三眞玉篆<graphic url="images/KR5i0001_02_43b1-4.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1717,7 +1746,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　地根，魔籍鬼賬。常以靈茶黃芽金蕊，供奉天王，輪步九光。進
 <lb/>　登天仙。』
 <lb/>　　第十八章
-<lb/>一眞玉篆【圖images/KR5i0001_KR5i0001-02_44b8-10.jpg】
+<lb/>一眞玉篆<graphic url="images/KR5i0001_02_44b8-10.jpg"/>
+
 <lb/>
 <lb/>
 <lb/><pb ed="CK-KZ" n="02p045a" facs="#fac-02p045a"/>
@@ -1751,7 +1781,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　他身皆得自在。能脱九幽地獄地根，惡根魔籍鬼賬。常以天
 <lb/>　衣地裳，供奉天王，上下垂覆，進登上仙。』
 <lb/>　　第十九章
-<lb/>一眞玉篆【圖images/KR5i0001_KR5i0001-02_46a7-10.jpg】
+<lb/>一眞玉篆<graphic url="images/KR5i0001_02_46a7-10.jpg"/>
+
 <lb/>
 <lb/>
 <lb/><pb ed="CK-KZ" n="02p046b" facs="#fac-02p046b"/>
@@ -1782,7 +1813,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/><pb ed="CK-KZ" n="02p047b" facs="#fac-02p047b"/>
 <lb/>　合延，執符把籙，宗孝上道，位登眞仙，名證眞人。妙行全眞。』
 <lb/>　　第二十章
-<lb/>九元玉篆【圖images/KR5i0001_KR5i0001-02_47b3-6.jpg】
+<lb/>九元玉篆<graphic url="images/KR5i0001_02_47b3-6.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1817,7 +1849,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/><pb ed="CK-KZ" n="02p049a" facs="#fac-02p049a"/>
 <lb/>　供養天王，滋潤玄英，仙登聖聰。』
 <lb/>　　第二十一章
-<lb/>皇一玉篆【圖images/KR5i0001_KR5i0001-02_49a3-6.jpg】
+<lb/>皇一玉篆<graphic url="images/KR5i0001_02_49a3-6.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1852,7 +1885,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/><pb ed="CK-KZ" n="02p050b" facs="#fac-02p050b"/>
 <lb/>　王，生炁潤根，通明朗惠，妙覺大度，進登聖仙。』
 <lb/>　　第二十二章
-<lb/>紫素玉篆【圖images/KR5i0001_KR5i0001-02_50b3-6.jpg】
+<lb/>紫素玉篆<graphic url="images/KR5i0001_02_50b3-6.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1912,7 +1946,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/><pb ed="CK-KZ" n="02p054a" facs="#fac-02p054a"/>
 <lb/>　檀熾是先天無形法器，鈞音是先天無形法音。』
 <lb/>　　第二十三章
-<lb/>黃素玉篆【圖images/KR5i0001_KR5i0001-02_54a3-6.jpg】
+<lb/>黃素玉篆<graphic url="images/KR5i0001_02_54a3-6.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1946,7 +1981,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　　第二十四章
 <lb/>
 <lb/><pb ed="CK-KZ" n="02p055b" facs="#fac-02p055b"/>
-<lb/>白素玉篆【圖images/KR5i0001_KR5i0001-02_55b1-4.jpg】
+<lb/>白素玉篆<graphic url="images/KR5i0001_02_55b1-4.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -1982,7 +2018,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　通和之炁，南斗上生，注記丹文。』
 <lb/><pb ed="CK-KZ" n="02p057a" facs="#fac-02p057a"/>
 <lb/>　　第二十五章
-<lb/>日中玉篆【圖images/KR5i0001_KR5i0001-02_57a2-5.jpg】
+<lb/>日中玉篆<graphic url="images/KR5i0001_02_57a2-5.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2024,7 +2061,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　從聞入見，從見入道。由是神寶爲之制萬靈，靑帝爲之護魂
 <lb/>　爽，東斗注長生之算，木公書靑簡之名，乃誦此經得力也。』
 <lb/>　　第二十六章
-<lb/>月中玉篆【圖images/KR5i0001_KR5i0001-02_58b-8-10.jpg】
+<lb/>月中玉篆<graphic url="images/KR5i0001_02_58b8-10.jpg"/>
+
 <lb/>
 <lb/>
 <lb/><pb ed="CK-KZ" n="02p059a" facs="#fac-02p059a"/>
@@ -2056,7 +2094,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　和。四度克成四金，地數五百功分。由是太一以具神身，白帝
 <lb/>　以侍魄元，西斗記名，玉靈瑤篇。』
 <lb/>　　第二十七章
-<lb/>陽光玉篆【圖images/KR5i0001_KR5i0001-02_60a4-7.jpg】
+<lb/>陽光玉篆<graphic url="images/KR5i0001_02_60a4-7.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2090,7 +2129,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/><pb ed="CK-KZ" n="02p061b" facs="#fac-02p061b"/>
 <lb/>　形，黃帝中主，萬神衞屯，中斗大魁，總監眾靈。』
 <lb/>　　第二十八章
-<lb/>陰精玉篆【圖images/KR5i0001_KR5i0001-02_61b3-6.jpg】
+<lb/>陰精玉篆<graphic url="images/KR5i0001_02_61b3-6.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2123,7 +2163,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　景㝠合而肇玄玄。』
 <lb/>　　第二十九章
 <lb/><pb ed="CK-KZ" n="02p063a" facs="#fac-02p063a"/>
-<lb/>胎仙玉篆【圖images/KR5i0001_KR5i0001-02_63a1-4.jpg】
+<lb/>胎仙玉篆<graphic url="images/KR5i0001_02_63a1-4.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2158,7 +2199,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　　第三十章
 <lb/>
 <lb/><pb ed="CK-KZ" n="02p064b" facs="#fac-02p064b"/>
-<lb/>胎神玉篆【圖images/KR5i0001_KR5i0001-02_64b1-4.jpg】
+<lb/>胎神玉篆<graphic url="images/KR5i0001_02_64b1-4.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2192,7 +2234,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　德合道合，保子萬神，洞曜八冥。由是中理五炁，混合百神。』
 <lb/>　　第三十一章
 <lb/><pb ed="CK-KZ" n="02p066a" facs="#fac-02p066a"/>
-<lb/>結中玉篆【圖images/KR5i0001_KR5i0001-02_66a1-4.jpg】
+<lb/>結中玉篆<graphic url="images/KR5i0001_02_66a1-4.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2221,7 +2264,8 @@ n="02p021b" facs="#fac-02p021b"/>
 <lb/>　炁玄炁道炁，中理眞人。變眞化神，三千行成。丿文含潄。靑炁
 <lb/>　自然，十轉回靈，萬炁齊仙，乃誦經所致也。』
 <lb/>　　第三十二章
-<lb/>節中玉篆【圖images/KR5i0001_KR5i0001-02_67a6-10.jpg】
+<lb/>節中玉篆<graphic url="images/KR5i0001_02_67a6-10.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2258,7 +2302,8 @@ facs="#fac-02p068b"/>
 <lb/>　己陞，妙行大全，形成炁精，鍊化紫金。長生无窮，太玄眞人，皆
 <lb/>　誦經所致也。』
 <lb/>　　第三十三章
-<lb/>胞中玉篆【圖images/KR5i0001_KR5i0001-02_68b8-10.jpg】
+<lb/>胞中玉篆<graphic url="images/KR5i0001_02_68b8-10.jpg"/>
+
 <lb/>
 <lb/>
 <lb/><pb ed="CK-KZ" n="02p069a" facs="#fac-02p069a"/>
@@ -2302,7 +2347,8 @@ facs="#fac-02p068b"/>
 <lb/>　超眞王，和合萬炁，妙行並全，皆號太玄，會明陽天，我獨超出，
 <lb/>　證大洞尊帝一龍光，號上玄通。』
 <lb/>　　第三十四章
-<lb/>血中玉篆【圖images/KR5i0001_KR5i0001-02_70b4-7.jpg】
+<lb/>血中玉篆<graphic url="images/KR5i0001_02_70b4-7.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2336,7 +2382,8 @@ facs="#fac-02p068b"/>
 <lb/>　謫鬼賬，隨大洞經一時和平，地惡二根削除落滅，與道爲一，
 <lb/>　長生自然。』
 <lb/>　　第三十五章
-<lb/>七神玉篆【圖images/KR5i0001_KR5i0001-02_72a5-8.jpg】
+<lb/>七神玉篆<graphic url="images/KR5i0001_02_72a5-8.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2372,7 +2419,8 @@ ed="CK-KZ" n="02p073b" facs="#fac-02p073b"/>
 <lb/>　玄契曰：『修士誦經，證无上乘門，可以宏慈，回度天人，登太淸
 <lb/>　仙王，太極眞人也。』
 <lb/>　　第三十六章
-<lb/>三素玉篆【圖images/KR5i0001_KR5i0001-02_73b5-8.jpg】
+<lb/>三素玉篆<graphic url="images/KR5i0001_02_73b5-8.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2406,7 +2454,8 @@ ed="CK-KZ" n="02p073b" facs="#fac-02p073b"/>
 <lb/><pb ed="CK-KZ" n="02p075a" facs="#fac-02p075a"/>
 <lb/>　同放光明，蔭庇成功。』
 <lb/>　　第三十七章
-<lb/>五帝玉篆【圖images/KR5i0001_KR5i0001-02_75a3-6.jpg】
+<lb/>五帝玉篆<graphic url="images/KR5i0001_02_75a3-6.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2455,7 +2504,8 @@ ed="CK-KZ" n="02p073b" facs="#fac-02p073b"/>
 <lb/>　玄契曰：『修士久久持誦，兆身祖族皆位眞仙，位登上淸眞王，
 <lb/>　太一眞人之果。』
 <lb/>　　第三十八章
-<lb/>三元玉篆【圖images/KR5i0001_KR5i0001-02_77a6-9.jpg】
+<lb/>三元玉篆<graphic url="images/KR5i0001_02_77a6-9.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2486,7 +2536,8 @@ ed="CK-KZ" n="02p073b" facs="#fac-02p073b"/>
 <lb/>　玄契曰：『修士誦經至此，超登無上妙道，位登玉淸聖王大一
 <lb/>　聖君。』
 <lb/>　　第三十九章
-<lb/>帝一玉篆【圖images/KR5i0001_KR5i0001-02_78b4-7.jpg】
+<lb/>帝一玉篆<graphic url="images/KR5i0001_02_78b4-7.jpg"/>
+
 <lb/>
 <lb/>
 <lb/>
@@ -2543,7 +2594,7 @@ ed="CK-KZ" n="02p073b" facs="#fac-02p073b"/>
 <lb/>眞。道備登宸，超脱飛昇，過度三界，往來三淸，證品大洞太一帝
 <lb/>尊，六度十通，功圓行成，千和萬合，自然成眞。』
 <lb/>　　大洞總眞玉符
-<lb/>　　【圖images/KR5i0001_KR5i0001-02_81a4-10.jpg】
+<lb/>　　<graphic url="images/KR5i0001_02_81a4-10.jpg"/>
 <lb/>
 <lb/>
 <lb/>
