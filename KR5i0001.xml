@@ -1,3202 +1,1534 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR5i0001">
   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>元始大洞玉經</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Published on: 2015-08-29 17 47:53.462706</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Baseedition: CK-KZ, witness: CK-KZ</p>
-         </sourceDesc>
-      </fileDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>元始大洞玉經</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Published on: 2015-08-29 17 47:53.462706</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Baseedition: CK-KZ, witness: CK-KZ</p>
+      </sourceDesc>
+    </fileDesc>
   </teiHeader>
+  <facsimile>
+    <surface xml:id="fac-01p001a" lry="674" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p001a.png"/>
+    </surface>
+    <surface xml:id="fac-01p001b" lry="674" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p001b.png"/>
+    </surface>
+    <surface xml:id="fac-01p002a" lry="680" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p002a.png"/>
+    </surface>
+    <surface xml:id="fac-01p002b" lry="680" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p002b.png"/>
+    </surface>
+    <surface xml:id="fac-01p003a" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p003a.png"/>
+    </surface>
+    <surface xml:id="fac-01p003b" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p003b.png"/>
+    </surface>
+    <surface xml:id="fac-01p004a" lry="679" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p004a.png"/>
+    </surface>
+    <surface xml:id="fac-01p004b" lry="679" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p004b.png"/>
+    </surface>
+    <surface xml:id="fac-01p005a" lry="683" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p005a.png"/>
+    </surface>
+    <surface xml:id="fac-01p005b" lry="683" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p005b.png"/>
+    </surface>
+    <surface xml:id="fac-01p006a" lry="683" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p006a.png"/>
+    </surface>
+    <surface xml:id="fac-01p006b" lry="683" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/01p006b.png"/>
+    </surface>
+    <surface xml:id="fac-02p001a" lry="684" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p001a.png"/>
+    </surface>
+    <surface xml:id="fac-02p001b" lry="684" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p001b.png"/>
+    </surface>
+    <surface xml:id="fac-02p002a" lry="682" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p002a.png"/>
+    </surface>
+    <surface xml:id="fac-02p002b" lry="683" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p002b.png"/>
+    </surface>
+    <surface lry="684" lrx="512" uly="0" ulx="0" xml:id="fac-02p003a">
+      <graphic url="facs/02p003a.png"/>
+      <zone xml:id="zone_pbr_2by_lw" lry="283" lrx="304" uly="96" ulx="167"/>
+      <zone xml:id="zone_gcj_fby_lw" lry="84" lrx="304" uly="36" ulx="166"/>
+      <zone xml:id="zone_em1_gby_lw" lry="353" lrx="299" uly="296" ulx="165"/>
+      <zone xml:id="zone_pjt_gby_lw" lry="558" lrx="304" uly="363" ulx="161"/>
+    </surface>
+    <surface xml:id="fac-02p003b" lry="684" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p003b.png"/>
+    </surface>
+    <surface xml:id="fac-02p004a" lry="695" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p004a.png"/>
+    </surface>
+    <surface xml:id="fac-02p004b" lry="695" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p004b.png"/>
+    </surface>
+    <surface xml:id="fac-02p005a" lry="665" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p005a.png"/>
+    </surface>
+    <surface xml:id="fac-02p005b" lry="666" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p005b.png"/>
+    </surface>
+    <surface xml:id="fac-02p006a" lry="670" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p006a.png"/>
+    </surface>
+    <surface xml:id="fac-02p006b" lry="670" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p006b.png"/>
+    </surface>
+    <surface xml:id="fac-02p007a" lry="669" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p007a.png"/>
+    </surface>
+    <surface xml:id="fac-02p007b" lry="669" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p007b.png"/>
+    </surface>
+    <surface xml:id="fac-02p008a" lry="679" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p008a.png"/>
+    </surface>
+    <surface xml:id="fac-02p008b" lry="679" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p008b.png"/>
+    </surface>
+    <surface xml:id="fac-02p009a" lry="680" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p009a.png"/>
+    </surface>
+    <surface xml:id="fac-02p009b" lry="681" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p009b.png"/>
+    </surface>
+    <surface xml:id="fac-02p010a" lry="683" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p010a.png"/>
+    </surface>
+    <surface xml:id="fac-02p010b" lry="683" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p010b.png"/>
+    </surface>
+    <surface xml:id="fac-02p011a" lry="668" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p011a.png"/>
+    </surface>
+    <surface xml:id="fac-02p011b" lry="669" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p011b.png"/>
+    </surface>
+    <surface xml:id="fac-02p012a" lry="681" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p012a.png"/>
+    </surface>
+    <surface xml:id="fac-02p012b" lry="681" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p012b.png"/>
+    </surface>
+    <surface xml:id="fac-02p013a" lry="676" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p013a.png"/>
+    </surface>
+    <surface xml:id="fac-02p013b" lry="676" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p013b.png"/>
+    </surface>
+    <surface xml:id="fac-02p014a" lry="678" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p014a.png"/>
+    </surface>
+    <surface xml:id="fac-02p014b" lry="678" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p014b.png"/>
+    </surface>
+    <surface xml:id="fac-02p015a" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p015a.png"/>
+    </surface>
+    <surface xml:id="fac-02p015b" lry="676" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p015b.png"/>
+    </surface>
+    <surface xml:id="fac-02p016a" lry="679" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p016a.png"/>
+    </surface>
+    <surface xml:id="fac-02p016b" lry="680" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p016b.png"/>
+    </surface>
+    <surface xml:id="fac-02p017a" lry="678" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p017a.png"/>
+    </surface>
+    <surface xml:id="fac-02p017b" lry="678" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p017b.png"/>
+    </surface>
+    <surface xml:id="fac-02p018a" lry="677" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p018a.png"/>
+    </surface>
+    <surface xml:id="fac-02p018b" lry="677" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p018b.png"/>
+    </surface>
+    <surface xml:id="fac-02p019a" lry="686" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p019a.png"/>
+    </surface>
+    <surface xml:id="fac-02p019b" lry="686" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p019b.png"/>
+    </surface>
+    <surface xml:id="fac-02p020a" lry="682" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p020a.png"/>
+    </surface>
+    <surface xml:id="fac-02p020b" lry="682" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p020b.png"/>
+    </surface>
+    <surface xml:id="fac-02p021a" lry="669" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p021a.png"/>
+    </surface>
+    <surface xml:id="fac-02p021b" lry="669" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p021b.png"/>
+    </surface>
+    <surface xml:id="fac-02p022a" lry="669" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p022a.png"/>
+    </surface>
+    <surface xml:id="fac-02p022b" lry="669" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p022b.png"/>
+    </surface>
+    <surface xml:id="fac-02p023a" lry="684" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p023a.png"/>
+    </surface>
+    <surface xml:id="fac-02p023b" lry="684" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p023b.png"/>
+    </surface>
+    <surface xml:id="fac-02p024a" lry="685" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p024a.png"/>
+    </surface>
+    <surface xml:id="fac-02p024b" lry="686" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p024b.png"/>
+    </surface>
+    <surface xml:id="fac-02p025a" lry="674" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p025a.png"/>
+    </surface>
+    <surface xml:id="fac-02p025b" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p025b.png"/>
+    </surface>
+    <surface xml:id="fac-02p026a" lry="678" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p026a.png"/>
+    </surface>
+    <surface xml:id="fac-02p026b" lry="678" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p026b.png"/>
+    </surface>
+    <surface xml:id="fac-02p027a" lry="677" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p027a.png"/>
+    </surface>
+    <surface xml:id="fac-02p027b" lry="677" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p027b.png"/>
+    </surface>
+    <surface xml:id="fac-02p028a" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p028a.png"/>
+    </surface>
+    <surface xml:id="fac-02p028b" lry="676" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p028b.png"/>
+    </surface>
+    <surface xml:id="fac-02p029a" lry="664" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p029a.png"/>
+    </surface>
+    <surface xml:id="fac-02p029b" lry="664" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p029b.png"/>
+    </surface>
+    <surface xml:id="fac-02p030a" lry="671" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p030a.png"/>
+    </surface>
+    <surface xml:id="fac-02p030b" lry="671" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p030b.png"/>
+    </surface>
+    <surface xml:id="fac-02p031a" lry="670" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p031a.png"/>
+    </surface>
+    <surface xml:id="fac-02p031b" lry="670" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p031b.png"/>
+    </surface>
+    <surface xml:id="fac-02p032a" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p032a.png"/>
+    </surface>
+    <surface xml:id="fac-02p032b" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p032b.png"/>
+    </surface>
+    <surface xml:id="fac-02p033a" lry="669" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p033a.png"/>
+    </surface>
+    <surface xml:id="fac-02p033b" lry="670" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p033b.png"/>
+    </surface>
+    <surface xml:id="fac-02p034a" lry="676" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p034a.png"/>
+    </surface>
+    <surface xml:id="fac-02p034b" lry="676" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p034b.png"/>
+    </surface>
+    <surface xml:id="fac-02p035a" lry="685" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p035a.png"/>
+    </surface>
+    <surface xml:id="fac-02p035b" lry="685" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p035b.png"/>
+    </surface>
+    <surface xml:id="fac-02p036a" lry="688" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p036a.png"/>
+    </surface>
+    <surface xml:id="fac-02p036b" lry="689" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p036b.png"/>
+    </surface>
+    <surface xml:id="fac-02p037a" lry="679" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p037a.png"/>
+    </surface>
+    <surface xml:id="fac-02p037b" lry="680" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p037b.png"/>
+    </surface>
+    <surface xml:id="fac-02p038a" lry="690" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p038a.png"/>
+    </surface>
+    <surface xml:id="fac-02p038b" lry="690" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p038b.png"/>
+    </surface>
+    <surface xml:id="fac-02p039a" lry="677" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p039a.png"/>
+    </surface>
+    <surface xml:id="fac-02p039b" lry="677" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p039b.png"/>
+    </surface>
+    <surface xml:id="fac-02p040a" lry="680" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p040a.png"/>
+    </surface>
+    <surface xml:id="fac-02p040b" lry="680" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p040b.png"/>
+    </surface>
+    <surface xml:id="fac-02p041a" lry="671" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p041a.png"/>
+    </surface>
+    <surface xml:id="fac-02p041b" lry="671" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p041b.png"/>
+    </surface>
+    <surface xml:id="fac-02p042a" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p042a.png"/>
+    </surface>
+    <surface xml:id="fac-02p042b" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p042b.png"/>
+    </surface>
+    <surface xml:id="fac-02p043a" lry="690" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p043a.png"/>
+    </surface>
+    <surface xml:id="fac-02p043b" lry="690" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p043b.png"/>
+    </surface>
+    <surface xml:id="fac-02p044a" lry="724" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p044a.png"/>
+    </surface>
+    <surface xml:id="fac-02p044b" lry="724" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p044b.png"/>
+    </surface>
+    <surface xml:id="fac-02p045a" lry="681" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p045a.png"/>
+    </surface>
+    <surface xml:id="fac-02p045b" lry="681" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p045b.png"/>
+    </surface>
+    <surface xml:id="fac-02p046a" lry="682" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p046a.png"/>
+    </surface>
+    <surface xml:id="fac-02p046b" lry="683" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p046b.png"/>
+    </surface>
+    <surface xml:id="fac-02p047a" lry="668" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p047a.png"/>
+    </surface>
+    <surface xml:id="fac-02p047b" lry="668" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p047b.png"/>
+    </surface>
+    <surface xml:id="fac-02p048a" lry="676" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p048a.png"/>
+    </surface>
+    <surface xml:id="fac-02p048b" lry="677" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p048b.png"/>
+    </surface>
+    <surface xml:id="fac-02p049a" lry="672" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p049a.png"/>
+    </surface>
+    <surface xml:id="fac-02p049b" lry="672" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p049b.png"/>
+    </surface>
+    <surface xml:id="fac-02p050a" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p050a.png"/>
+    </surface>
+    <surface xml:id="fac-02p050b" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p050b.png"/>
+    </surface>
+    <surface xml:id="fac-02p051a" lry="690" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p051a.png"/>
+    </surface>
+    <surface xml:id="fac-02p051b" lry="690" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p051b.png"/>
+    </surface>
+    <surface xml:id="fac-02p052a" lry="686" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p052a.png"/>
+    </surface>
+    <surface xml:id="fac-02p052b" lry="686" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p052b.png"/>
+    </surface>
+    <surface xml:id="fac-02p053a" lry="684" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p053a.png"/>
+    </surface>
+    <surface xml:id="fac-02p053b" lry="684" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p053b.png"/>
+    </surface>
+    <surface xml:id="fac-02p054a" lry="678" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p054a.png"/>
+    </surface>
+    <surface xml:id="fac-02p054b" lry="679" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p054b.png"/>
+    </surface>
+    <surface xml:id="fac-02p055a" lry="671" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p055a.png"/>
+    </surface>
+    <surface xml:id="fac-02p055b" lry="671" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p055b.png"/>
+    </surface>
+    <surface xml:id="fac-02p056a" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p056a.png"/>
+    </surface>
+    <surface xml:id="fac-02p056b" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p056b.png"/>
+    </surface>
+    <surface xml:id="fac-02p057a" lry="674" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p057a.png"/>
+    </surface>
+    <surface xml:id="fac-02p057b" lry="674" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p057b.png"/>
+    </surface>
+    <surface xml:id="fac-02p058a" lry="673" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p058a.png"/>
+    </surface>
+    <surface xml:id="fac-02p058b" lry="673" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p058b.png"/>
+    </surface>
+    <surface xml:id="fac-02p059a" lry="679" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p059a.png"/>
+    </surface>
+    <surface xml:id="fac-02p059b" lry="680" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p059b.png"/>
+    </surface>
+    <surface xml:id="fac-02p060a" lry="682" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p060a.png"/>
+    </surface>
+    <surface xml:id="fac-02p060b" lry="683" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p060b.png"/>
+    </surface>
+    <surface xml:id="fac-02p061a" lry="673" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p061a.png"/>
+    </surface>
+    <surface xml:id="fac-02p061b" lry="674" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p061b.png"/>
+    </surface>
+    <surface xml:id="fac-02p062a" lry="676" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p062a.png"/>
+    </surface>
+    <surface xml:id="fac-02p062b" lry="677" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p062b.png"/>
+    </surface>
+    <surface xml:id="fac-02p063a" lry="668" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p063a.png"/>
+    </surface>
+    <surface xml:id="fac-02p063b" lry="668" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p063b.png"/>
+    </surface>
+    <surface xml:id="fac-02p064a" lry="680" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p064a.png"/>
+    </surface>
+    <surface xml:id="fac-02p064b" lry="680" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p064b.png"/>
+    </surface>
+    <surface xml:id="fac-02p065a" lry="673" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p065a.png"/>
+    </surface>
+    <surface xml:id="fac-02p065b" lry="674" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p065b.png"/>
+    </surface>
+    <surface xml:id="fac-02p066a" lry="672" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p066a.png"/>
+    </surface>
+    <surface xml:id="fac-02p066b" lry="672" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p066b.png"/>
+    </surface>
+    <surface xml:id="fac-02p067a" lry="667" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p067a.png"/>
+    </surface>
+    <surface xml:id="fac-02p067b" lry="667" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p067b.png"/>
+    </surface>
+    <surface xml:id="fac-02p068a" lry="666" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p068a.png"/>
+    </surface>
+    <surface xml:id="fac-02p068b" lry="666" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p068b.png"/>
+    </surface>
+    <surface xml:id="fac-02p069a" lry="670" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p069a.png"/>
+    </surface>
+    <surface xml:id="fac-02p069b" lry="670" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p069b.png"/>
+    </surface>
+    <surface xml:id="fac-02p070a" lry="673" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p070a.png"/>
+    </surface>
+    <surface xml:id="fac-02p070b" lry="674" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p070b.png"/>
+    </surface>
+    <surface xml:id="fac-02p071a" lry="673" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p071a.png"/>
+    </surface>
+    <surface xml:id="fac-02p071b" lry="673" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p071b.png"/>
+    </surface>
+    <surface xml:id="fac-02p072a" lry="677" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p072a.png"/>
+    </surface>
+    <surface xml:id="fac-02p072b" lry="677" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p072b.png"/>
+    </surface>
+    <surface xml:id="fac-02p073a" lry="679" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p073a.png"/>
+    </surface>
+    <surface xml:id="fac-02p073b" lry="680" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p073b.png"/>
+    </surface>
+    <surface xml:id="fac-02p074a" lry="691" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p074a.png"/>
+    </surface>
+    <surface xml:id="fac-02p074b" lry="691" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p074b.png"/>
+    </surface>
+    <surface xml:id="fac-02p075a" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p075a.png"/>
+    </surface>
+    <surface xml:id="fac-02p075b" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p075b.png"/>
+    </surface>
+    <surface xml:id="fac-02p076a" lry="690" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p076a.png"/>
+    </surface>
+    <surface xml:id="fac-02p076b" lry="690" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p076b.png"/>
+    </surface>
+    <surface xml:id="fac-02p077a" lry="673" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p077a.png"/>
+    </surface>
+    <surface xml:id="fac-02p077b" lry="673" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p077b.png"/>
+    </surface>
+    <surface xml:id="fac-02p078a" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p078a.png"/>
+    </surface>
+    <surface xml:id="fac-02p078b" lry="675" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p078b.png"/>
+    </surface>
+    <surface xml:id="fac-02p079a" lry="687" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p079a.png"/>
+    </surface>
+    <surface xml:id="fac-02p079b" lry="687" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p079b.png"/>
+    </surface>
+    <surface xml:id="fac-02p080a" lry="694" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p080a.png"/>
+    </surface>
+    <surface xml:id="fac-02p080b" lry="694" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p080b.png"/>
+    </surface>
+    <surface xml:id="fac-02p081a" lry="664" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p081a.png"/>
+    </surface>
+    <surface xml:id="fac-02p081b" lry="665" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p081b.png"/>
+    </surface>
+    <surface xml:id="fac-02p082a" lry="665" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p082a.png"/>
+    </surface>
+    <surface xml:id="fac-02p082b" lry="665" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p082b.png"/>
+    </surface>
+    <surface xml:id="fac-02p083a" lry="682" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p083a.png"/>
+    </surface>
+    <surface xml:id="fac-02p083b" lry="682" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p083b.png"/>
+    </surface>
+    <surface xml:id="fac-02p084a" lry="685" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p084a.png"/>
+    </surface>
+    <surface xml:id="fac-02p084b" lry="685" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p084b.png"/>
+    </surface>
+    <surface xml:id="fac-02p085a" lry="693" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p085a.png"/>
+    </surface>
+    <surface xml:id="fac-02p085b" lry="694" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p085b.png"/>
+    </surface>
+    <surface xml:id="fac-02p086a" lry="691" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p086a.png"/>
+    </surface>
+    <surface xml:id="fac-02p086b" lry="692" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p086b.png"/>
+    </surface>
+    <surface xml:id="fac-02p087a" lry="686" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p087a.png"/>
+    </surface>
+    <surface xml:id="fac-02p087b" lry="687" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p087b.png"/>
+    </surface>
+    <surface xml:id="fac-02p088a" lry="692" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p088a.png"/>
+    </surface>
+    <surface xml:id="fac-02p088b" lry="692" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p088b.png"/>
+    </surface>
+    <surface xml:id="fac-02p089a" lry="682" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p089a.png"/>
+    </surface>
+    <surface xml:id="fac-02p089b" lry="682" lrx="512" uly="0" ulx="0">
+      <graphic url="facs/02p089b.png"/>
+    </surface>
+  </facsimile>
   <text>
-      <body>
-       <div>
-<p>        
-<pb ed='CK-KZ' n='01p001a'/><lb/>
-爕元贊運孚佑帝君重刻大洞玉經敘<lb/>
-
-道可得而言乎，不可得而言也。道可得而秘乎，不可得而秘也。<lb/>
-道不容終秘，又難以言傳。二者之所不居，而經典之所由宜示<lb/>
-也。經之旨，有在於言字之内者，由淺以厯深；有在於糸微之際<lb/>
-者，由表以窺裏。得其解者，抉經之心，司道之契，卽經中之語言<lb/>
-文字，符籙咒訣，均可不存。得言忘象，筌蹄可棄。然知之者鮮矣。<lb/>
-故古來高眞上聖，有不得不由解識而入，則經之爲予以津梁，<lb/>
-使登彼岸，其度濟之益，莫可名言。至於消災救劫，拔厄延生，乃<lb/>
-靈通所藴，萬古不磨，其神妙固出於言思擬議之外者也。兹編<lb/>
-乃<lb/>
-<pb ed='CK-KZ' n='01p001b'/><lb/>
-
-元始天王，爲神禹治水，鎭伏諸瀆而傳。厥後一授於天台，再授<lb/>
-於七曲，奉而行之，皆證妙果，不特爲救護小劫也。今夏南水盛<lb/>
-漲，侍壇超子曾爲河帥，故欲其積誠感召，以應天和。幸覺子等<lb/>
-同志，贊勷發愿，刋刻《大洞玉經》，以弭患於未然，志良善也。夫此<lb/>
-經之足以消弭水厄，巳著於<lb/>
-
-文帝前敘，徵信巳久，自不必更述。故爲闡傳道之初旨，更爲述<lb/>
-復刋之由，以付諸子。尙望讀是經者，窺測玄奥，其大義不外以<lb/>
-人合天，其究竟歸於以天從人。學道者知人所固有之天，復無<lb/>
-始以來自然之天，天外之天旣得，而本心之天全矣。<lb/>
-<pb ed='CK-KZ' n='01p002a'/><lb/>
-
-九天開化文昌帝君自敘<lb/>
-
-余之居事畎澮，忽於鋤下得一金像。詢之父老，曰：乃元始天王<lb/>
-相。昔夏禹治水，冶金爲像，以鎭方岳。余香火奉事，未嘗少[忄*觧]。因<lb/>
-海風翻浪，人力不能支，余爲眾捨金像，投駭浪中，由是風潮遂<lb/>
-囘，一境獲免。思仰之久，一夕於沙磧中，有光亘天，掘之再得舊<lb/>
-像，歸築宫安奉，同邦人共事之。積年靈感，不可勝記。余考妣不<lb/>
-幸死於瘟疫，余喪葬廬墓，培壅旣周。偶有三神人，葛巾羽褐芒<lb/>
-鞋，訪余。因以《大洞仙經》一帙，賜余。曰：『晨夕諷誦，必獲善果於三<lb/>
-才中。上可以資奉父母祖先靈魂，出離幽苦。中可懴罪消災，增<lb/>
-福延夀。下可以庇族救人，同保安全。汝可捨金寶，拜吾三人，吾<lb/>
-<pb ed='CK-KZ' n='01p002b'/><lb/>
-爲汝傳奏。』余卽日依命設齋，貢金繒，奉師受之。爾後晨夕誦持<lb/>
-不輟，屢獲靈騐。因盛暑洪水奫浸考妣墳墓，余禮奉金像，誦大<lb/>
-洞經，期以千卷爲滿，用保無虞。次年秋雨霖霪，傍溪湧漲，數流<lb/>
-爲一，余益恐怖。及水落視之，則墳前谿谷變成堅壟，廣一里餘，<lb/>
-自是松楸無害。余常思雙親死於瘟疫，切骨爲讐，幽明路殊，力<lb/>
-不能報。每旦夕勤誦《大洞玉經》，䖍懇金像，願賜威力，以治瘟鬼。<lb/>
-又三年，忽夣金像語余曰：『大洞玉經汝熟記矣，大洞法籙汝未<lb/>
-見也。今當授汝，以治邪魔。非唯可以契汝初心，亦可以佐天行<lb/>
-化，助國救民也。』袖中出書一卷，余拜受之。一曰大洞法，一曰大<lb/>
-洞籙。旣覺，見二書宛在枕前。因設香供謝恩，置櫃收[貝*㝉]，擇日出<lb/>
-<pb ed='CK-KZ' n='01p003a'/><lb/>
-而閱之。讀至大洞天騶甲卒一萬人度之句，忽風雷晝暝，金甲<lb/>
-朱綬者無數，列於余前，俯而聽命。三人執紅旗，立於眾先，曰：願<lb/>
-聽法令。余方恍惚，不覺厲聲謂之曰：『吾要汝等治瘟鬼。此鄉張<lb/>
-屯使家闔門病瘟，爲吾驅來。』語畢，一持旌者，領百餘人入其家。<lb/>
-俄頃，執鬼五人出。有䝉虎皮者，冠雄雞者，貌若人者，若烏頭者，<lb/>
-若驢頭者，所執有水火羽霎斧鑿之具。余怒而叱之，將滅其形。<lb/>
-彼乃有辭曰：『元伯等𡻕運所生，𡻕氣所成，所遊有方，所病有人。<lb/>
-陰譴重者受其災，天命絕者致其死。亦非元伯等所敢私行，始<lb/>
-自三官五嶽，上奏玉帝，呈世人罪狀，由是帝命行下三官五岳<lb/>
-行病曹司，案下給牒，分遣元伯等，一依定籍行之。若䝉太一眞<lb/>
-<pb ed='CK-KZ' n='01p003b'/><lb/>
-官，賜以寛貸，以後願遵約朿。遇有行瘟，見眞官符籙所在，卽不<lb/>
-敢至矣。』余因依經法，授以教勅，而去。閭里病瘟者，余與之符法，<lb/>
-皆得全活。余以此法籙，救人之疾者眾矣，名聞遠方，其士庶官<lb/>
-吏踵門求治者，不可枚舉。余積玄功妙行，皆由持此《大洞玉經》，<lb/>
-而獲大洞法籙。故能全收神功，輔正袪邪，濟生度死，消災延夀。<lb/>
-其後冥冥中有大力鬼神、社廟英爽，來求余誦經囘施者，皆謝<lb/>
-云：『承眞官經力，增助威德遷，神善籍矣。』或有沉魂滯魄，不得往<lb/>
-生，託夢附形，來求余誦經資薦者，皆謝云：『承眞官經力，巳出苦<lb/>
-趣，俱得更生矣。』若爲天行時疫，侵染不止，但行此經，行法籙中<lb/>
-遣瘟符、絕瘟符、止瘟符，天騶甲卒以上，收瘟食瘟吏，收毒食毒<lb/>
-<pb ed='CK-KZ' n='01p004a'/><lb/>
-吏，收邪食邪吏，收炁食炁吏，收鬼食鬼吏，收殃食殃吏，收精食<lb/>
-精吏，治病神醫吏，誅符破廟吏等九部，各領甲卒，及北方黑騎<lb/>
-天官五億萬騎，蒼老麻姑，金剛力士等，收捕之先。牒閻王，次申<lb/>
-岱岳，分委城隍社令，劄遣瘟疫使者。聞經不依盟約，拒正不伏<lb/>
-退㪚者，然後奏而滅之。夫大道尙慈，太淸尙善，上帝好生，推仁<lb/>
-止殺。行經法籙者，不可循私苛暴，以招天譴。但以禮遣之，以經<lb/>
-奉之，以法籙威之，以善功勸之，亦方便修行之㨗徑也。此經能<lb/>
-解𡨚結，除獄訟，止譴拷，釋咒詛，解觸犯，安墳宅，甯寧府，息兵革，<lb/>
-止疾疫，祈風雨，降祥瑞，阜蠶穀，保形命，庇族屬，蔭鄉社，安邊陲，<lb/>
-禁蟲虎，拯旱澇，滅妖怪息羣凶，延嗣息，顯仕宦，安奉祀典鬼神，<lb/>
-<pb ed='CK-KZ' n='01p004b'/><lb/>
-資薦祖宗靈爽。濟度窮魂滯魄，皆可設齋誦經，以禳謝之。其餘<lb/>
-治病消毒，有紫庭天醫之神方，乃禹皇金石，餘恩及乎萬世，使<lb/>
-人無夭橫之傷，時免札瘥之患。奉教之士，當尋訪受習，以助仙<lb/>
-功。余證果太上不驕樂育天帝，澄眞正觀寶光慈應更生永命<lb/>
-天尊。由誦經之勤，遂上淸之貴。得受誦者，勉而行之。願與文昌<lb/>
-一會中人，齊登妙果。<lb/>
-<pb ed='CK-KZ' n='01p005a'/><lb/>
-
-《太上玉淸大洞玉經》序<lb/>
-
-世傳文昌帝君，得元始天王金像，奉之。遂遘三神人，賜大洞經。<lb/>
-誦經懇像，圖報父母。忽大洞法籙二書，感夢而至，竟臻上乘妙<lb/>
-果。今大洞經，羽士類能誦之，大洞籙功令，必受諸上淸宫。若大<lb/>
-洞法，則槪乎未有聞也。嘉靖間我肅宗皇帝，遣臺臣徧訪巖穴，<lb/>
-乃奉上大洞符法。當是時藏諸中祕，世鮮有之。卽有之，又非人<lb/>
-不授，則世之知者益鮮。吾里中高士虛亭楊君，至性孝友，博綜<lb/>
-羣書，少好爲子，長遊溯沅湘，涉秦淮，而徜徉於大江巨浸之閒。<lb/>
-齋心習志，神與道俱，日捐貲周濟，施食利幽。一以焚修還丹爲<lb/>
-務，精誠感格，乃獲大洞符法於明菴劉散人。㪚人嘗逮事世廟，<lb/>
-<pb ed='CK-KZ' n='01p005b'/><lb/>
-獨保奇祕，未嘗輕出以示人。感虛亭好道之誠，出書授之。楊君<lb/>
-恍然覺，豁然悟，如躬登鬱羅蕭臺之上，覿蒼胡頡寶聆檀熾鈞<lb/>
-音也。亟與其弟東渚君，校正刋行於世。余偕計吏來，邂逅伯仲，<lb/>
-手出經示余，俾作敘，以弁首。余夙佩籙譯經，而恒以未覩符法<lb/>
-爲憾。今具著冊籍炳，如躍如詎，非天幸哉！楊君刋而傳之，眞知<lb/>
-經與法籙旨矣。且夫經文所闡，咒籙所秉，符法所運，皆身中神<lb/>
-也。吾身果一人身乎！卽天地所付余身也，卽億萬生人，同得於<lb/>
-天地身也。身之形殊，身之神合，修身中神，則形神俱妙，天地人<lb/>
-物皆吾身神矣。迴風混合，生天生地，無人無我，外身而有身，身<lb/>
-可滅而無滅，離神而有神，神不存而常存。以故總提玄黃，包羅<lb/>
-<pb ed='CK-KZ' n='01p006a'/><lb/>
-象類，把握幽明，朗徹今古，無窮巳時。而世之人，乃卒昧之。則以<lb/>
-莫相，指示故也。夫不知而不求知者，惑也。知之而不覺人知者，<lb/>
-隘也。覺之知而不知信者，棄也。知信而不求滿其知者，畫也。皆<lb/>
-非元皇開化意也。是編顯布寰區，庶幾哉！人人知身一神一，而<lb/>
-葆其同然之天矣。楊君之功，洵大矣哉！後之幸有全知者，愼毋<lb/>
-忘所自焉，可耳。<lb/>
-
-萬厯十一年𡻕次癸未冬月，瀟水漁樵致陽子蕭允儒盥手書。<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p001a'/><lb/>
-重刋道藏輯要<lb/>
-
-元始太洞玉經<lb/>
-　　　　　　　　　　　　　　　　文昌帝君傳本<lb/>
-
-《大洞仙經》觀想要訣<lb/>
-
-夫《大洞仙經》，請自太玄道父，傳付梓潼帝君。勤行修奉，全家白<lb/>
-日上昇之道也。經中三十九章，内除三章，以按三天。餘三十六<lb/>
-章，上則安鎭三十六天，下則統御三十六地，中則通人身三十<lb/>
-六宫。《救苦經》云：天上三十六，地下三十六，太玄無邊際，妙哉大<lb/>
-洞經。非此謂乎！夫經中語句，天眞隱諱，總領人身中諸神。三部<lb/>
-八景，九宫三谷，十二神室，五臟六腑，七政關節等穴，各有神以<lb/>
-<pb ed='CK-KZ' n='02p001b'/><lb/>
-主之。杜眾戸死氣之門，解七祖胎結之氣。不持經存運，命神守<lb/>
-之，則祖玄墮落，神死奔逃，雖百計千修，終落空亡也。人能存養<lb/>
-神炁，吟咏寶章，則天眞下降，我身渾融，神炁嚴守失氣之門，神<lb/>
-因經化，經由神靈，使神不奔潰而爲仙也。要明身中三一之訣，<lb/>
-每日遇閒睱，入室，收拾身心，斂藏神炁。先存想臍下一寸三分<lb/>
-爲下丹田，宫中有嬰兒，如出胎之狀，向外端坐。喚谷下玄，一名<lb/>
-玄谷，字元陽昌，乃生精炁之主也。次思心絳宫，内有嬰兒，紅衣，<lb/>
-名子南丹，字中光堅，乃生神之主也。復存兩眉間卻入一寸爲<lb/>
-明堂宫，左爲紫房，右爲朱戸，上爲天庭宫，眉間卻入二寸爲洞<lb/>
-房宫，宫上一寸爲極眞宫，眉間卻入三寸爲上丹田宫。中有赤<lb/>
-<pb ed='CK-KZ' n='02p002a'/><lb/>
-子，紅衣，端坐，名帝卿仲玄生，字三元先。又總收下田、中田二赤<lb/>
-子，同昇上丹田，與赤子品坐，卽三素君也。丹田上爲玄丹宫，眉<lb/>
-間卻入四寸爲流珠宫，宫上一寸爲天皇宫，眉間卻入一寸爲<lb/>
-泥丸玉帝宫，一名天谷。又存想鼻下人中，有一嬰兒，五色衣、端<lb/>
-坐，號大洞帝一尊君，鎭任督二脈交會之所。名父甯在，字合母<lb/>
-延精，乘祥雲，上昇泥丸。掌《大洞玉經》語句，毋令㪚漫，爲萬神之<lb/>
-主，指揮一身，百神所居之位，名曰三一。行住坐卧，囘光内視頂<lb/>
-門，守之勿失，辟凶趨吉却百惡，得上仙也。又存想左有靑龍，右<lb/>
-有白虎，前有朱雀(卽丹鳳也)，後有玄武(卽龜蛇也)，四靈護身。存思身坐九<lb/>
-色色花之内，下有九頭獅子，乘住我身。存左腎氣從左耳出，唐<lb/>
-<pb ed='CK-KZ' n='02p002b'/><lb/>
-將軍朝冠紅衣，手執符軸，立於左。又存右腎炁從右耳出，葛將<lb/>
-軍朝冠紅衣，執㦸立於右。又存心中炁從天目眉中出，周將軍<lb/>
-朝冠紅衣，執節立於前，辛天君立於左，馬靈官立於右。次思頭<lb/>
-上三淸九霄諸帝，放九色光，射注頂上。次思身中三部八景上<lb/>
-下，虛明洞徹。存想畢，微微開聲誦經，不必粗氣大聲喊呌，但存<lb/>
-精意微密而已。此乃古仙持誦之訣，自有五帝，金童玉女，護法<lb/>
-威神，隨經匡護，不可輕忽。久則目覩天眞下降，地祇奉迎。或身<lb/>
-中神出，四靈現形，叱咤風雷，役使萬神，皆是存想精詳所致也。<lb/>
-修誦一年得地仙，二年得神仙，三年得天仙，九年不怠者，白晝<lb/>
-乘龍上昇。自古上聖高眞，如玄帝、魏元君、天師、仙翁、旌陽，曁三<lb/>
-<pb ed='CK-KZ' n='02p003a'/><lb/>
-茅、周義山等仙，皆由持誦洞章，而得道果。此經能解七祖胎結，<lb/>
-鍊我一身萬神，七祖旣度，我得仙也。只在人心精思勤誦，三年<lb/>
-九載，何患不證道成眞乎！<lb/>
-<lb/>
-　照辟符【圖images/KR5i0001_KR5i0001-02_3a5-7a.jpg】正心符【圖images/KR5i0001_KR5i0001-02_3a5-7b.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　此二符，檀香板刻之，硃砂鈎畫，外面刻五岳眞形，下排靈書<lb/>
-　中篇，包褁黃羅，貯紬袋内，佩掛胸前。<lb/>
-<pb ed='CK-KZ' n='02p003b'/><lb/>
-　　震靈符【圖images/KR5i0001_KR5i0001-02_3b1-6.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-　上符用黃綃三尺三寸，白芨水調硃砂，書綃上。用細布作裡，<lb/>
-　縫成夾單。請聖鋪氊條上，拜畢，移作椅帔，搭椅壩上，剔三台<lb/>
-　蓋頂，二斗肩上，存想身在北斗口中。　又用黃綃五寸，上書<lb/>
-　此符，縫向衣裡，背心佩之。<lb/>
-<pb ed='CK-KZ' n='02p004a'/><lb/>
-大洞經持誦儀式<lb/>
-　凡登壇誦經，左足先動，左手上香。啟聖畢，向東端坐，叩齒二<lb/>
-　十四通，洗心滌慮，絕念忘機。依章或焚符服，或焚鑪上，存運<lb/>
-　身中神，貴乎迅速，升降混合，心至神隨，思眞如對。然後正聲<lb/>
-　持念：<lb/>
-#+BEGIN_VERSE
- 『樂法以爲妻，
- 　愛經如珠玉。
- 　持戒制六情，
- 　念道遣所欲。<lb/>
- 淡泊正炁停，
- 　蕭然神靜默。
- 　天魔常敬護，
- 　世世享大福。』<lb/>
-#+END_VERSE
-　　淨身業神咒(淨水灑頂，盥手，左手搯玉文。右手劍訣。)<lb/>
-#+BEGIN_VERSE
- 身中諸内境，
- 　三萬六千神。
- 　動作履行藏，
- 　前劫並後劫。<lb/>
- 願身常淸淨，
- 　常住三寶中。
- 　當於劫壞時，
- 　我身常不滅。<lb/>
-<pb ed='CK-KZ' n='02p004b'/><lb/>
- 急急如律令。<lb/>
-#+END_VERSE
-(申文)太上三天虛無攝。<lb/>
-　　淨心業神咒(傳手鑪，上香，吸香一口，左手搯午文。)<lb/>
-#+BEGIN_VERSE
- 大道降眞炁，
- 　吐納鍊五神。
- 　願使攝諸魔，
- 　心業常淸淨。<lb/>
- 斷除萬種障，
- 　驅蕩一切殃。
- 　降伏諸有情，
- 　動念歸正道。<lb/>
- 急急如律令。<lb/>
-#+END_VERSE
-(未文)上淸靈寶虛無攝。<lb/>
-　　淨口業神咒(左手搯子文。以枝滴水入口。)<lb/>
-#+BEGIN_VERSE
- 口爲太和宫，
- 　吐納降眞炁。
- 　時時誦寶經，
- 　日日飱法味。<lb/>
- 勿發諸惡言，
- 　莫起邪淫意。
- 　願滅罪苦根，
- 　常論眞實意。<lb/>
-<pb ed='CK-KZ' n='02p005a'/><lb/>
- 急急如律令。<lb/>
-#+END_VERSE
-(辰文)丹朱正倫淸淨攝。<lb/>
-　　安土地神咒(左手搯寅訣。)<lb/>
-#+BEGIN_VERSE
- 元始安鎭，
- 　普告萬神。
- 　岳瀆眞官，
- 　土地祇靈。
- 　左社右稷，<lb/>
- 不得妄驚。
- 　囘向正道，
- 　内外澄淸。
- 　各安方位，
- 　備守壇庭。<lb/>
- 太有上命，
- 　搜捕邪精。
- 　護法神王，
- 　保衞誦經。
- 　皈依大道，<lb/>
- 元亨利貞。
- 　急急如律令。<lb/>
-#+END_VERSE
-　左手捧水盂，右手執楊枝，灑淨。　口念：<lb/>
-#+BEGIN_VERSE
- 『九鳳破穢君，
- 　朱衣絳履神。
- 　手執烈火劍，
- 　天下鬼神驚。<lb/>
- 銀毫並鐵爪，
- 　玉嘴揮金睛。
- 　展翅乾坤暗，
- 　翻身日月昏。<lb/>
-<pb ed='CK-KZ' n='02p005b'/><lb/>
- 運發三昧火，
- 　合我至陽明。
- 　擒妖化爲汁，
- 　燒鬼化爲塵。<lb/>
- 厭穢速淸淨，
- 　人道得長生。』<lb/>
-#+END_VERSE
-　　<lb/>
-　　足步【圖images/KR5i0001_KR5i0001-02_5b4-7.jpg】
-　　　　　　　　　　　　九鳳破穢，精邪滅亡。天將吏兵，<lb/>
-　　　　　　　　　　　　速下雲罡。斗轉星移，照耀三光。<lb/>
-　　　　　　　　　　　　上映九天，下映九地。雷公霹𩆝，<lb/>
-　　　　　　　　　　　　風雲慶會。徧滿十方，乾坤定位。<lb/>
-　　下令　　　　　　　　鬼哭神愁，百靈護衞。　(急急如律令。)<lb/>
-　　　　　謹召<lb/>
-南極九鳳破穢宋將軍，金剛密跡神王，九天運穢解穢神君，九<lb/>
-<pb ed='CK-KZ' n='02p006a'/><lb/>
-天收穢卻穢神君，九天除穢斷穢神君，九天滅穢洗穢神君，九<lb/>
-天滌穢蕩穢神君，天河東井君浣濯夫人，五方五帝，五龍君，五<lb/>
-方生炁旺炁君，天月二德靑龍君，八方大力威神，解穢局中全<lb/>
-司官將。各各運玄初之水軸，起天外之恩波，助我行持，蕩除魔<lb/>
-穢。兹水也，德冠五行，功滋萬物，爲九天之雨露，作四海之波濤。<lb/>
-聖人出而黃河淸，王道平而泉源湧。徧灑法壇内外，掃除魔穢。<lb/>
-淸明一滴纔沾，十方俱潔。眞科有咒，謹用宣揚。<lb/>
-吙[口*頭]嘧[口*跡]喗吒唎。　　　(左手剔，向上。)<lb/>
-<lb/>
-又念：　(『金剛密跡象頭王火輪童子破穢攝。』)　(口吸面前離南炁，呵入水中。)<lb/>
-<pb ed='CK-KZ' n='02p006b'/><lb/>
-　右手劍訣，向水盂，書日月星辰諱。<lb/>
-[雨/晅](音卽)。　念『唵嚩(音韈)[口*日](音卽)囉(音來)喗哪唎娑訶。』(左手掐卯文，噓炁，剔貪斗入水中。)　(貪斗，在手心子方上<lb/>
-　一位。)　又加：<lb/>
-[雨/朒](音札)。　念『唵嚩𠯲(音滅)囉㗶拏唎薩娑訶。』(左手掐酉文，呬炁，剔魁斗入水中。)　(魁斗，在手心午<lb/>
-　方下一位。)　又加：<lb/>
-[雨/炓](音掃)。　念『唵吽(音興)喗噠唎娑訶。』(左手掐辰文，呵炁，剔辰戌斗，入水中。)　(辰斗，在辰位左偏。戌斗，在戌位<lb/>
-　右偏。)<lb/>
-赤陽三五置爾攝。(若焚修，單書入下九字。)<lb/>
-[雨/淸][雨/明][雨/聖][雨/潔]霐[雨/澄][雨/𣷠](又加破月厭諱。)[雨/(鬼*灘)](初一至初十，去雲頭。十一至二十日，全用。二十一至月盡，去鬼脚。)<lb/>
-　又加[雨/(⺡*(斬/耳))](音你)(治鬼之號。)　(如濟幽，則不用上九字，只加靑玄金蓮諱十一字。)[雨/維][雨/(口*檀)][雨/哪][雨/遮][雨/噋][雨/(口*陽)][雨/炎]<lb/>
-<pb ed='CK-KZ' n='02p007a'/><lb/>
-[雨/焱][雨/口*(扛-工)*(你-亻)][雨/？][雨/訛]。<lb/>
-　以楊枝，存爲靑龍攪水，三轉，向上，作一圓光☉。以枝書一心<lb/>
-　字，以淨吾心之炁。又以枝向我腹點明合天帝日，以淨五臟<lb/>
-　之穢。又以枝向壇上點三點，念泓澄𣷠，化爲三天之境。又從<lb/>
-　月厭方，正月戌，二月酉，逆數之。遇本月方，宜動步灑淨。<lb/>
-　　五星神咒<lb/>
-#+BEGIN_VERSE
- 五星列照，　
- 煥明五方。　
- 水星卻災，　
- 木德致昌。　
- 熒惑消禍，<lb/>
- 太白辟兵。　
- 鎭星四據，　
- 家國利亨。　
- 名刋王簡，　
- 字錄帝房。<lb/>
- 乘飈扇景，　
- 飛騰太空。　
- 出入冥無，　
- 遊宴十方。　
- 五雲浮蓋，<lb/>
- 招神攝風。　
- 役使萬靈，　
- 上衞仙翁。<lb/>
-<pb ed='CK-KZ' n='02p007b'/><lb/>
-#+END_VERSE
-　　淨壇神咒<lb/>
-#+BEGIN_VERSE
- 唵叱咄吒，　
- 天地自然。　
- 穢氣分散，　
- 洞中玄虛。　
- 晃朗太元，<lb/>
- 三淸玉勅。　
- 光耀八衢，　
- 八方威神。　
- 使我自然，　
- 東方威神。<lb/>
- 靑炁揚芳，　
- 南方威神。　
- 赤炁汪洋，　
- 西方威神。　
- 白炁周梁，<lb/>
- 北方威神。　
- 黑炁張剛，　
- 東北威神。　
- 白炁何當，　
- 天上天下。<lb/>
- 掃蕩兇殃，　
- 雷霆霹𩆝。　
- 威鎭八方，　
- 乾羅答那。　
- 洞罡太玄，<lb/>
- 斬妖縛邪。　
- 度鬼萬千，　
- (默念)唵耶許。　
- 帝奴攝。(三遍。)　
- 體道元眞，<lb/>
- 受命金闕。　
- 韓君好生，　
- 上窮九府，　
- 下達杳冥，　
- 遵禀玉府。<lb/>
- 奉命帝京。　
- 唵鬱靈羅，　
- 晃耀太元，　
- 賓發盧强，　
- 帝輪伽耶。<lb/>
- 夷帝夷帝，　
- 多那育何。　
- 魔靈赫奕，　
- 無極太華。　
- 帝輪婆耶。<lb/>
-<pb ed='CK-KZ' n='02p008a'/><lb/>
- 那輪帝吒。　
- 帝眞帝靈，　
- 帝吽帝臨。　
- 急那急那，　
- 急吒急吒。<lb/>
- 吽吽𠰢𠰢，　
- 元亨利貞。　
- 急急如律令。(向月厭方，噀水一口，天目書炓字，左手剔玉文。<lb/>
-於月厭方上。)念『唵(子文)摩(未下文)呢(午下文)厯(辰文)黑(寅文)吒(丑文)噓(申文)鳴(午文出)。』舉<lb/>
-#+END_VERSE
-　常淸常靜天尊(三稱)。<lb/>
-　　集神咒<lb/>
-#+BEGIN_VERSE
- 元始大眞，　
- 五雷高尊。　
- 太華皓映，　
- 洞朗八門。　
- 五老誥命，<lb/>
- 無幽不聞。　
- 上御九天，　
- 中制酆山。　
- 下鎭河海，　
- 十二水源。<lb/>
- 八威神咒，　
- 靈策玉文。　
- 召龍致雨，　
- 收氣聚烟。　
- 日月五星，<lb/>
- 北斗七元。　
- 合明天帝，　
- 勅下太玄。　
- 宣威三界，　
- 不得稽延。<lb/>
- 諸天諸地，　
- 諸水諸山。　
- 玉眞所部，　
- 溟泠大神。　
- 仙王遊宴，<lb/>
-<pb ed='CK-KZ' n='02p008b'/><lb/>
- 大帥仗幡。　
- 天丁前驅，　
- 金虎後奔。　
- 玃天猛獸，　
- 羅備四門。<lb/>
- 所呼立至，　
- 所招立前。　
- 赤書煥落，　
- 風火無間。　
- 攝籙應命，<lb/>
- 金馬驛傳。<lb/>
-#+END_VERSE
-　　祝香神咒<lb/>
-#+BEGIN_VERSE
- 香乃玉華㪚景，
- 九炁凝烟，　
- 香雲密羅，　
- 徑冲九天。　
- 侍香<lb/>
-金童，　
- 傳言玉女，　
- 爲臣關奏，　
- 上聞帝前。　
- 令臣長生，　
- 世<lb/>
-爲神仙，　
- 所啓所願，　
- 咸賜如言。<lb/>
-#+END_VERSE
-　左手執圭，左足先動，至香案前，左手上香，不得内有邪思。囘<lb/>
-　頋，退至單上，行九叩首禮。拜畢，起立，從門限東首起，足斜步<lb/>
-　八星罡。每走一步，心念二字。至洞案前，左手剔子文，至午文<lb/>
-<pb ed='CK-KZ' n='02p009a'/><lb/>
-　出。　【圖images/KR5i0001_KR5i0001-02_9a1-4.jpg】<lb/>
-　　　　　　　　　　　玉淸　勅素，　大梵　分靈。<lb/>
-　　　　　　　　　　　元罡　流演，　星珠　冠周。<lb/>
-<lb/>
-天目運【圖images/KR5i0001_KR5i0001-02_9a5-7.jpg】
-　　　　　　　　　　『靈光梵炁，下注臣身。<lb/>
-　　　　　　　　　　默念：　飛香進御，道合帝庭。<lb/>
-　　　　　　　　　　　　　　急急如律令。』<lb/>
-　　左手上香一炷，　念：<lb/>
-　『(臣某)至心，初拈上香(一叩齒)，上詣<lb/>
-淸微天宫(天目運書)。【圖images/KR5i0001_KR5i0001-02_9a10.jpg】(卽淸微，天眞形)供養<lb/>
-<pb ed='CK-KZ' n='02p009b'/><lb/>
-大羅金闕上帝元始天尊。(念達信章)𩅘[雨/杰][雨/欽]雲攝。朱陽九霄，玉靄元<lb/>
-明，靈鳳朱翔，上騰玉京。願此丹懇，隨烟迅昇<lb/>
-淸微混沌玉虛太無(一拜)。上祝<lb/>
-帝夀無彊，統治萬世。願經師得仙，上登高眞，與我超度。一切宗<lb/>
-親，皆成道眞。我得昇度，逍遥紫庭。』<lb/>
-　存想泥丸上靑炁，正中昇出，隨香烟直沖霄漢，結成雲蓋。倐<lb/>
-　忽之間，見天宫靑炁萬丈，正中飛下，結成[雨/(夭/(夭*夭))]字，從吾頂入居<lb/>
-　上丹田，混合帝卿赤子之神。<lb/>
-　　上洞寶章<lb/>
-碧海靑童君，駕龍朝紫宸。九曜要八極，五斗臨生門。二十八宿<lb/>
-<pb ed='CK-KZ' n='02p010a'/><lb/>
-君，燦爛明天閽。五帝來玉軿，三官降玄恩。祥光動天地，瑞氣靄<lb/>
-陽春。天司定仙籍，丁甲除妖氛。金章啟玉帝，日月停朱輪。萬神<lb/>
-合我室，夀與天地存。<lb/>
-　　左手上香一炷，　念：<lb/>
-　『(臣某)至心，二捻上香(一叩齒)，上詣<lb/>
-禹餘天宫(天目運書)⬤　　(卽禹餘天眞形)。供養<lb/>
-太上玉辰道君靈寶天尊。(念通玄章)哼吟哼吟，登眞登眞。朱陽九霄，<lb/>
-玉靄元明。靈鳳朱翔，上騰玉京。願此丹懇，隨烟迅昇<lb/>
-禹餘元皇紫虛大洞。(一拜)上祝<lb/>
-皇圖鞏固，邊海淸甯。願籍師得仙，上登高眞，與我開度，七祖九<lb/>
-<pb ed='CK-KZ' n='02p010b'/><lb/>
-玄，早生天堂。我得道眞，昇入無形。』<lb/>
-　存想中丹田黃炁上昇，從頂門出，隨香烟直沖霄漢，結成華<lb/>
-　蓋。倐忽之間，見天宫黃炁萬丈，自左飛下，結成[雨/(地/(地*地))]字，從吾頂<lb/>
-　入居中丹田，混合子丹赤子之神。<lb/>
-　　中洞靈章<lb/>
-無上大羅天，三景合四明。紫戸生梵炁，金光煥九淸。混合萬神<lb/>
-備，大聖朝玉京。洞章歌玉音，中皇敷寶經。五帝宣玉符，三官啓<lb/>
-百靈。劫劫應太平，返本如孩嬰。眞風日蕩蕩，道炁常泠泠。玉女<lb/>
-㪚瓊葩，金童閉玉扃。無爲赤元君，與道同飛昇。<lb/>
-　　左手上香一炷，　念：<lb/>
-<pb ed='CK-KZ' n='02p011a'/><lb/>
-　『(臣某)至心，三捻上香(一叩齒)。上詣<lb/>
-大赤天宫(天目運書)【圖images/KR5i0001_KR5i0001-02_11a2.jpg】⬤　　(卽大赤天眞形)供養<lb/>
-太上混元老君道德天尊。(念入聖章)唆𠰂唔叮，心玄語靈。朱陽九霄，<lb/>
-玉靄元明。靈鳳朱翔，上騰玉京。願此丹懇，隨烟上昇<lb/>
-大赤元精淸虛太空(一拜)。上祝<lb/>
-國泰民安，時和𡻕稔。願度師昇度，上登高眞，與我開度，現存眷<lb/>
-屬，五苦八難，名入仙籍，我爲眞人。』<lb/>
-　存想下丹田白炁上昇，從頂門出，隨香烟直沖霄漢，結成寶<lb/>
-　蓋。倐忽之間，見天宫白炁萬丈，自右飛下，結成[雨/众]字，從吾頂<lb/>
-　門注下丹田，混合玄谷赤子之神。<lb/>
-<pb ed='CK-KZ' n='02p011b'/><lb/>
-　　下洞玄章<lb/>
-嵯峨九光山，瓊闕生上仙。日月運金炁，龍虎奔玄關。灌漑碧芝<lb/>
-房，靈苗生翠烟。煥赫紫霞光，萬里乘雲軿。洞歌聲瑯瑯，上徹天<lb/>
-上天。若能保其寶，萬劫爲天仙。内寶不外求，是爲無上玄。鍊成<lb/>
-大寶器，逍遙歸帝軒。<lb/>
-　巳上三運上香，每日早午晚三時行之。或拜懴，或誦經，或施<lb/>
-　食，或修齋醮，拜表上章。高功能依此三上香，則帝聖降臨，所<lb/>
-　爲有功。若不依此，所奏不騐。倘學道高人修眞羽士，自已上<lb/>
-　香誦經，尤妙。<lb/>
-<pb ed='CK-KZ' n='02p012a'/><lb/>
-天目運書，⬤　　玉帝心印，⬤　　北極眞形。<lb/>
-<lb/>
-　　大洞玉章<lb/>
-#+BEGIN_VERSE
- [玩*羅](音羅)三藍波，　
- 逮洽臺離。　
- 堂運推入，　
- 連廣靈都。　
- 鬱羅殊邈，<lb/>
- 育弗超㪚。　
- 兆生天橫，　
- 滯始冥騫。　
- 庭盼苞已，　
- 猷玄握稱。<lb/>
- 沙福烟明，　
- 桂會和子。　
- 存樂賢勤，　
- 百奮天垕。　
- 土成坦平，<lb/>
- 彌結彰生。　
- 樟結陸𣺌，　
- 蘭朦龍登。　
- 獰獬筌信，　
- 帝聻䭾猍。<lb/>
- 喃謨珏法，　
- 乘津幽延。　
- 日月星斗，　
- 耀息命炁，　
- 防元德⬤。<lb/>
-#+END_VERSE
-　(外增八字：)　夀眞固靈，夀天地晶(三遍)。<lb/>
-　此百字章，係諸天隱諱，暝目念誦，存想遍身發出火光，上沖<lb/>
-<pb ed='CK-KZ' n='02p012b'/><lb/>
-　天界，所誦玉章，結成金書玉字，洞照三界十方，千眞萬靈見<lb/>
-　此玉章，飛雲而至。此玉章萬劫一傳。一日三時，日升半夜，默<lb/>
-　朝上帝，守三一之神，九天生神，帝名一心在頂。誦此玉章，不<lb/>
-　記遍數，萬眞護身，名列仙籍。誦之一年成地仙，二年成神仙，<lb/>
-　三年成天仙。雖持誦不勤，永離幽谷，亦得屍解上道。　長跪<lb/>
-　啟聖。<lb/>
-　　伏聞<lb/>
-淸淨道德之香，無遠弗屆。太虛寥廓之宇，有感皆通。　具職(臣<lb/>
-某)俯拜，上啟<lb/>
-淨明無極大道玉淸聖境元始天尊，上淸眞境靈寶天尊，太淸<lb/>
-<pb ed='CK-KZ' n='02p013a'/><lb/>
-仙境道德天尊，淨明天主玉皇上帝，南極勾陳天皇大帝，北極<lb/>
-星主紫微大帝，承天效法后土大帝，三光聖母攴天大帝，高上<lb/>
-神霄九宸大帝，太上十方靈寶天尊，三十二天天主帝君，九天<lb/>
-生神大帝，玉淸瓊元君，高聖萬眞太上道君，中央黃老元素道<lb/>
-君，上淸總仙大司馬長生法師主三天君柏成上眞，降授大洞<lb/>
-眞經經師，上眞聖母紫微元君王夫人，降授迥風大混合師上<lb/>
-眞聖母中侯元君王夫人，上淸九微太眞玉保王，金闕上相大<lb/>
-司命高晨師，東海王靑華小童君，上淸太無東霞扶桑丹陵大<lb/>
-帝上道君，太玄道父威德自在天尊，五方五老帝君，十極十華<lb/>
-帝君，祖師南極紫眞上淸道主玉晨聖后，金闕上保東華道君，<lb/>
-<pb ed='CK-KZ' n='02p013b'/><lb/>
-金闕大夫上淸仙侯，金闕上保紫虛元君，定一眞人蔚羅明眞<lb/>
-人，三官大帝，四聖眞君，九天開化文昌帝君，三天扶教正一天<lb/>
-師張眞君，太極左宫仙翁葛眞君，九州都仙太史許眞君，開山<lb/>
-啟教普度吕眞君，龍門演派妙行⬤眞君，靈寶五師眞君，九天<lb/>
-司命三茅眞君，大洞祖師士冠徐鍊師，三天左相保和王眞人，<lb/>
-太玄守眞趙眞人，天師季昌薛眞人，虛谷劉眞人，貫休申眞人，<lb/>
-玉玄劉仙師，希玄楊仙卿，傳經傳法傳籙厯代祖玄眞，經籍度<lb/>
-列位眞人，三界十方萬靈眞宰，經筵侍衞，合座威靈，悉上眞香，<lb/>
-普同供養。　切念(臣某)叨生盛世，感祖宗垂蔭之恩，厚德難酬，<lb/>
-乏資薦追遠之報。是以竭誠滌慮，請誦大洞眞經，降三十九神，<lb/>
-<pb ed='CK-KZ' n='02p014a'/><lb/>
-佈三部八景，迥風混合，默運感通。俾金液以鍊形，希玉符而保<lb/>
-命，形神俱妙，與道合眞，災厄無侵，福夀鞏固，九幽罷對，七祖返<lb/>
-胎，同駕雲輿，昇騰霄漢。(臣)無任再拜，謹啟以<lb/>
-聞。<lb/>
-　興身向東登座，暝目，半垂簾，叩齒三十九通，依前序中，存運<lb/>
-　大洞帝一尊三一等神。一一依前存運，明白如對方接。微呼<lb/>
-　九天生神帝魂精名諱字，存九天相在身中，各長三寸二分，<lb/>
-　九梁冠，無縫錦衣，腰佩劍，手執玉珮符，各安身中九宫之内。<lb/>
-　端坐，心微呼名。<lb/>
-　　(臣)謹請<lb/>
-<pb ed='CK-KZ' n='02p014b'/><lb/>
-鬱單無量天王，名混[雨/杓][雨/均][雨/維]，内諱天演前，字帝先。(降注黃演之炁，以資胞命<lb/>
-　之元，鍊形育質，周流六虛。)<lb/>
-　存想天王五色錦衣，坐泥丸宫内。<lb/>
-　　(臣)謹請<lb/>
-上上禪善無量夀天王，名禊隨[雨/杓][雨/勒]，内諱津開闌，字赤玄。(降注紫戸<lb/>
-　之炁，以資胎命之元，玉符保命，克成上仙。)<lb/>
-　存想天王黃錦衣，坐眉中入一寸明堂中。<lb/>
-　　(臣)謹請<lb/>
-梵監須延天王，名滓[雨/提][雨/頭][雨/維]，内諱混众(音吟)，行字元山。(降注明仙之炁，以資魂命<lb/>
-　之元，鍊眞孕嬰，萬眞唱和。)<lb/>
-<pb ed='CK-KZ' n='02p015a'/><lb/>
-　存想天王靑錦衣，坐上丹田，眉中入三寸是也。<lb/>
-　　(臣)謹請<lb/>
-寂然兜率天王，名泮[雨/師][雨/慶][雨/致]，内諱晶勝法，字上眞。(降注冥演由之炁，以資魄<lb/>
-　命之元，萬眞唱和，形神俱妙。)<lb/>
-　存想天王朱衣，坐心上三寸洞陽宫中。<lb/>
-　　(臣)謹請<lb/>
-波羅尼密不驕樂天王，名凝䨱霍[雨/持]，内諱晶湻，金字光明。(降注中靈<lb/>
-　之炁，以資藏府之元，總錄形神，紫戸生仙。)<lb/>
-存想天王五色紫衣，坐心内絳宫中。<lb/>
-　　(臣)謹請<lb/>
-<pb ed='CK-KZ' n='02p015b'/><lb/>
-洞元化應聲天王，名輝[雨/(禾*魚)][雨/越]⬤，内諱晶漂追，字玄丹。(降注沖融之炁，以資<lb/>
-　靈府之元，鍊胎返初，形神飛越。)<lb/>
-　存想天王七色錦單衣，坐中丹田，臍上一寸三分。<lb/>
-　　(臣)謹請<lb/>
-靈化梵輔天王，名精霧雲[雨/梓]，内諱地及端，字嬰芝。(降注洞笈之炁，以資元府<lb/>
-　之元，怡玩五神，重關開豁。)<lb/>
-　存想天王五色衣，左手捧日，右手捧月，坐臍下一寸三分玄<lb/>
-　谷宮中。<lb/>
-　　(臣)謹請<lb/>
-高虛淸明天王，名玄[雨/凝]霐[雨/澄]，内諱光謙宫，字玄泉。(降注化凝之炁，以資華府<lb/>
-<pb ed='CK-KZ' n='02p016a'/><lb/>
-　之元，眾聖稱快，鍊嬰成眞。)<lb/>
-　存想天王九色黑錦衣，左日右月，坐臍下三寸陰極宫中。<lb/>
-　　(臣)謹請<lb/>
-無想無結無愛天王，名王靈[雨/淵][雨/濟]，内諱玄端雲，字陽生。(降注玄照之炁，<lb/>
-　以資神府之元，與道合眞，身騰霄極。)<lb/>
-　存想天王朱衣，手執符，坐下丹田關元中。<lb/>
-　凡誦大洞經法，先存呼九天名諱。若不存呼，則九天不納其<lb/>
-　音，三十九神不降，神眞不歡，九蟲來攻，三尸作厲，魔妖來千，<lb/>
-　思不徹微，九宫空廢，萬神飛揚。每日不時存呼其名，人身不<lb/>
-　出，三年九載，白日上昇也。○存想功畢，叩齒三通，咽津三次，<lb/>
-<pb ed='CK-KZ' n='02p016b'/><lb/>
-　存思日月在我面上，吸日光從左鼻孔入，吸月光從右鼻孔<lb/>
-　入，腦後煥然作九色圓光，洞照十方，萬神齊集。<lb/>
-鳴法皷二十四通。<lb/>
-　鳴法皷者，内正神炁，外滅魔靈，法事所先也。左叩齒爲天鐘，<lb/>
-　以格天眞，集上部八景神。右叩齒爲天磬，以格地祇，集下部<lb/>
-　八景神。中叩齒爲天鼓，以格三界十方之神，集中部八景眞<lb/>
-　人卽左右中三叩齒，以應二十四炁，合成周天三百六十五<lb/>
-　躔度數也。　默念：<lb/>
-#+BEGIN_VERSE
- 『内有所明，　
- 外有所臨。　
- 開之朗然，　
- 了無朕象。　
- 靜以待之，<lb/>
- 卽有顯相。　
- 急急如　
- 生炁帝君律令。』　
-#+END_VERSE 
-手執香爐，朗念：<lb/>
-<pb ed='CK-KZ' n='02p017a'/><lb/>
-『無上三天玄元始三炁太上虛無道君，召出(臣)身中三五功曹，<lb/>
-左右官使者，左右捧香花驛龍騎吏，侍香金童，傳言散花玉女。<lb/>
-五帝直符，直日香官使者，各三十六人出。出者嚴裝顯服，冠帶<lb/>
-垂纓，衞臣前後，受臣口中詞語，關啟經壇眞官，土地四面里域<lb/>
-正神。臣今正爾陞壇，行道焚香謁聖，請誦大洞玉經，迴風混合，<lb/>
-默朝帝眞。謹集臣身中五體眞官，九竅榮衞，五臟六腑，七政九<lb/>
-宮十二神室，四肢筋骨，皮膚血脈，一百八十靈關，三百六十骨<lb/>
-節，一千二百形影，一萬二千精光，左三魂，右七魄，三部八景一<lb/>
-萬六千人神。吾是<lb/>
-太上之子，玄皇之孫，頭冠朱雀，足履玄武，左按靑龍，右據白虎。<lb/>
-<pb ed='CK-KZ' n='02p017b'/><lb/>
-令三十九神，各守穴位，以培絕氣之門，昌映長生之戶，滋生旺<lb/>
-氣，榮衞一身。三姓混合於玄宮，龍虎返還於玉室，凝成金液，結<lb/>
-就玄珠，赤子靈明，神通赫奕。願得太上三天，特降十方正眞道<lb/>
-炁，紫玄眞一之炁，灌注(臣)身，體耀金輝，斬伐胞滯，七玄拔擢，百<lb/>
-關備仙，削除罪籍，宴坐泥丸九眞備守，五老保關，學道得道，求<lb/>
-仙得仙。令(臣)所發之願，所啟之詞，速得徑達<lb/>
-太上無極大道三寶九宸諸天上帝御前。』<lb/>
-　前無上三天句，無字念作烏字，長音。華池水滿，吞下，以濟幽<lb/>
-　魂。又念上字，張口念，長聲。提起中黃，上升，以生人物。一降一<lb/>
-　升，卽幽明兩利。其餘三五功曹等神，乃三皇子孫，降在人身<lb/>
-<pb ed='CK-KZ' n='02p018a'/><lb/>
-　爲神，不必手搯，恐散其心也。　左手剔玉文，至丑寅出，謂之<lb/>
-　旋斗厯箕。剔卯至巳出，謂之告盟三界。剔巳至未出，謂之厯<lb/>
-　觀諸天。<lb/>
-　　秉簡當心，正目，叩齒，存想室内紫雲之炁徧滿，來冠兆身，<lb/>
-　　金童玉女，侍經左右，三光寶芝，洞煥室内。叩齒，朗念：<lb/>
-#+BEGIN_VERSE
- 『天朗炁淸，　
- 三光洞明。　
- 金房玉室，　
- 五芝寶生。　
- 玄炁紫蓋，<lb/>
- 來映我身。　
- 仙童玉女，　
- 爲我致靈。　
- 九帝齊景，　
- 三元同軿。<lb/>
- 上乘紫蓋，　
- 昇入帝庭。』<lb/>
-#+END_VERSE
-　　開經玄藴咒<lb/>
-#+BEGIN_VERSE
- 微微玄景門，　
- 煥朗徹空同。　
- 至道由靜默，　
- 當見三素宮。<lb/>
-<pb ed='CK-KZ' n='02p018b'/><lb/>
- 大道於此成，　
- 驂景策雲龍。　
- 左右侍經眞，　
- 玉女及玉童。<lb/>
- 身濟不死津，　
- 解羅順靈風。　
- 七祖返胎生，　
- 世爲神仙宗。<lb/>
-#+END_VERSE
-<pb ed='CK-KZ' n='02p019a'/><lb/>
-元始大洞玉經卷上<lb/>
-#+BEGIN_VERSE
- 　道以齋爲先，　
- 勤行登金闕。　
- 故設大法橋，　
- 普度諸人物。<lb/>
- 　宿世恩德報，　
- 道心超然發。　
- 身飛昇仙都，　
- 七祖咸解脱。<lb/>
- 　玄元始炁分，　
- 淸華開洞神。　
- 靈風迴太和，　
- 玉音攝流精。<lb/>
- 　至哉本自然，　
- 誰識此玄文。　
- 堅剛明一悟，　
- 倐忽超三乘。<lb/>
- 　寂寂無色根，　
- 永劫無漂沉。　
- 如能精修持，　
- 爾身得長存。<lb/>
-#+END_VERSE
-道言：『昔在龍漢劫初，元始天王出大洞玉經，於高上大有玉淸<lb/>
-宮，演太玄重玄玄一之道，命之曰大洞玉經。元始天王始以太<lb/>
-玄之音，流響玉淸，宏帝一眞道，説大洞寶文，示九統之法，傳九<lb/>
-光之符。俾至士誦之，登齋修行，卽得萬神歡慶，萬靈護持，萬聖<lb/>
-<pb ed='CK-KZ' n='02p019b'/><lb/>
-感格，萬天翕臨。可以飛度三災四煞，五鬼六害，七傷八難，九厄<lb/>
-十惡，登仙入聖，神生紫微，自然無爲，不係陰陽五行六氣之所<lb/>
-拘束，善念增長，趣入大乘，宏施無窮，諸天下觀，　玉帝降鑒，飛<lb/>
-天保迎，厯代遠祖，億劫種親，遊爽飛魂，俱得更生。世冑接仙，長<lb/>
-爲貴人。功滿道備，骨肉同昇，乘龍駕雲，上朝玉淸。』<lb/>
-　凡書符篆，右手緊執筆，閉七竅，左手中指搯第二文，卽玉文<lb/>
-　也，名玉訣，一氣書完，加三五筆。<lb/>
-<pb ed='CK-KZ' n='02p020a'/><lb/>
-　　第一章<lb/>
-太微玉篆【圖images/KR5i0001_KR5i0001-02_20a2-5.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　五筆(明)(帝天合)(日)(卽五老諱)【圖images/KR5i0001_KR5i0001-02_20b6-7a.jpg】三筆(泓)(澄)(明)【圖images/KR5i0001_20b6-7b.jpg】<lb/>
-　　<lb/>
-　　(只用五撇三撇，口中默誦五字三字，觀想五方眞炁，三淸境界。)<lb/>
-　　(以後三十八道，一一依此加筆。)<lb/>
-　此符共三十九道，以板刻之。印下，剪開，再用黃表加上，以硃<lb/>
-<pb ed='CK-KZ' n='02p020b'/><lb/>
-　筆照式，一氣書成。待念前章完，卽焚符一道於盞内，用淡薑<lb/>
-　𤍠湯調服，以通神明，召神入身，迴風混合，以絕死氣之門。久<lb/>
-　則不必服，只天目運其符。畢叩齒三通，微聲朗念：<lb/>
-『謹請太微小童君，名千景精，字會元子，一名三矜交，一名對帝<lb/>
-眞。恒守我舌本之下，是失炁之門。小童嚴固守之，口吐赤炁，遶<lb/>
-我一身，使生血液，泥丸堅明，百神安正。』<lb/>
-　存想舌下紅炁，上昇頂上，結成紅雲。再微聲咒曰：<lb/>
-『眞炁下流充幽關，續神固精塞死源。玉經惠朗通萬神，爲我護<lb/>
-眞命長存，拔度七祖返胎仙。』<lb/>
-　咒完，吸頂上紅雲，三吸呑下，結一神，金冠赤衣，下佈胸左肝<lb/>
-<pb ed='CK-KZ' n='02p021a'/><lb/>
-　戶，復入心宮，上昇舌根之下，存神坐而守之。<lb/>
-　　高上元皇君道經第一<lb/>
-#+BEGIN_VERSE
- 元始天王，　
- 嘯咏太玄。　
- 凝神遐想，　
- 而説洞章。　
- 高上洞玄，<lb/>
- 元生九天。　
- 炁祖太無，　
- 眾風映玄。　
- 會親絕散，　
- 四淸撫閑。<lb/>
- 帝一上景，　
- 連眾攝煙。　
- 長契一運，　
- 七世投閒。　
- 託靈屬命，<lb/>
- 華灼自然。　
- 冺邈流虛，　
- 六曜沉遷。　
- 陵梵銜輝，　
- 西華彰安。<lb/>
- 仙編帝簡，　
- 盡得解源。　
- 胎田邃路，　
- 世發玉蘭。　
- 靈光八暉，<lb/>
- 萬神俱生。　
- 微念咒曰：<lb/>
- 『三藍羅，　
- 波逮臺。　
- 天命長，　
- 人恒甯。』(上六字，卽天上咒。下六字，卽地下咒。念三遍，畢，<lb/>
-　叩齒三通，嚥津下丹田。以後同。)<lb/>
-#+END_VERSE
-<pb ed='CK-KZ' n='02p021b'/><lb/>
-　玄契曰：『誦至一章，消一切罪，身有六根，皆獲洞淸，六天自降，<lb/>
-　羣魔束首，召眞使仙，萬炁齊正，得无礙門。』<lb/>
-　　第二章<lb/>
-太一玉篆【圖images/KR5i0001_KR5i0001-02_21b4-7.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請太一尊神，名務猶收，字歸會昌，一名解萌，一名寄頻，恒守<lb/>
-我玉枕之下，泥丸後戶，督脈入處，是失氣之門。太一嚴固守之。<lb/>
-<pb ed='CK-KZ' n='02p022a'/><lb/>
-使眞炁上昇泥丸，令七祖父母受玄更生。上籍<lb/>
-玉皇，重華萬甯。』<lb/>
-　存想腦後紫炁，上昇頂上，結成紫雲，熖熖罩頂。再微聲咒曰：<lb/>
-『太一保命，固神定生。爲我上招帝眞之炁，下佈紫戶之庭。玉經<lb/>
-往徹，九元朗明，七祖同歡，俱昇上淸。』<lb/>
-　咒完，吸頂上紫雲，三吸呑下，結一神，秀士相，紫冠紫衣，入心<lb/>
-　宮，下穿尾閭，入夾脊，上至泥丸後戶腦後骨，其神目觀紫戶，<lb/>
-　卽印堂左傍也，守之。<lb/>
-　　上皇玉虛君道經第二　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『玉虛順玄歸，　
- 天晨金宵遊。　
- 朗朗生帝景，<lb/>
-<pb ed='CK-KZ' n='02p022b'/><lb/>
- 歘爾宴玉洲。　
- 左攝始神童，　
- 右命起常扶。　
- 明眞煥九霄，<lb/>
- 三日映玄敷。　
- 千景併三矜，　
- 内有幽寥無。　
- 令我得長年，<lb/>
- 千劫始一周。　
- 黃籙保劫仞，　
- 披錦入神邱。　
- 太一務命根，<lb/>
- 公子召合符。　
- 十回度初心，　
- 得入大信根。』　
- 微念咒曰：<lb/>
- 『離堂合，　
- 推運入。　
- 延天骨，　
- 辟毒龍。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒嚥津，如前。<lb/>
-　玄契曰：『誦至二章，得入信根，善因不絕，仙籍書名，萬炁齊和，<lb/>
-　得入定門。』<lb/>
-　　第三章<lb/>
-<pb ed='CK-KZ' n='02p023a'/><lb/>
-天皇玉篆【圖images/KR5i0001_KR5i0001-02_23a1-4.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請天皇玉帝君，名逢淩梵，字履昌，一名七靈，一名神丈人。常<lb/>
-鎭兩眉中卻入右方一寸，爲紫戶外宮，是失氣之門。天皇嚴固<lb/>
-守之，使我華蓋眞炁，上昇紫房，度七祖父母，罪除福生，上登帝<lb/>
-君。』<lb/>
-　存想紫戶眞炁，上昇頂上，結成紫雲。再微聲咒曰：<lb/>
-<pb ed='CK-KZ' n='02p023b'/><lb/>
-『帝君度符籍，正炁招萬神。上召玉眞炁，充布兩眉間。混生一帝<lb/>
-景，三素成我仙。颷散乘飛蓋，徑昇高上軒。』<lb/>
-　咒完，吸頂上紫雲九嚥，結九神。中一神玉帝相，紅衣，頂門泥<lb/>
-　丸宮坐。左四神，靑衣冠；右四神，白衣冠，俱道士相。存想左右<lb/>
-　八神，下佈心宮，穿兩膀胱，入尾閭，上充泥丸，注眉中右紫戶，<lb/>
-　守之。<lb/>
-　　天皇玉帝君道經第三<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『玉帝玄上旛，　
- 制命九天階。　
- 七覺乘妙道，<lb/>
- 懽熙神風迴。　
- 颷燦北停華，　
- 紫英唱東隈。　
- 琳和九霄外，<lb/>
- 玉符徴太微。　
- 三素生泥丸，　
- 發耀金靈暉。　
- 老君罕張上，<lb/>
-<pb ed='CK-KZ' n='02p024a'/><lb/>
- 守衞死節機。　
- 十善生玄中，　
- 度厄而自然。』　
- 微念咒曰：<lb/>
- 『珠鬱羅，　
- 廣都靈。　
- 長存體，　
- 去害子。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒嚥津，如前。<lb/>
-　玄契曰：『誦至三章，得自在智，度一切厄，入玄上關，萬炁齊淸，<lb/>
-　入希夷門。』<lb/>
-　　第四章<lb/>
-無英玉篆【圖images/KR5i0001_KR5i0001-02_24a7-10.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p024b'/><lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請左無英公子，名玄元叔，字合符子，一名元素君，一名神公<lb/>
-子。常鎭我左腋之下肝之後戶，是失氣之門。無英嚴固守之，使<lb/>
-我左腋下有玉光，引神明入兆兩眼睛中，令我目光朗徹萬里。』<lb/>
-　存想左腋下卽前乳向後三寸，對左臂甲骨之下，是穴内有<lb/>
-　眞炁玉光雲色，上昇頂門。再微聲咒曰：<lb/>
-『無英神眞生紫黃，三炁混合成宮商。招引眞炁鎭膀胱，流通三<lb/>
-丹會洞房。爲我致仙變丹容，飛昇雲館入宮墉。』<lb/>
-　咒完，吸頂雲三嚥，結一神，玉色衣冠，下佈右乳，入心宫，下左<lb/>
-　膀胱，卻右膀胱，又昇心宮，入左乳内三寸臂甲戶，守之。<lb/>
-<pb ed='CK-KZ' n='02p025a'/><lb/>
-　　上皇紫宸君道經第四　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太眞統九炁，　
- 洞景寄神通。　
- 玉帝乘朱霄，<lb/>
- 綠霞煥金墉。　
- 上館雲珠内，　
- 仰接無刃峰。　
- 靈關太漠下，<lb/>
- 靄沬鏡中空。　
- 冥化混離子，　
- 玄上叔火王。　
- 瑋寂高同生，<lb/>
- 無極保谷童。　
- 圓塗無凝滯，　
- 綺合有九重。　
- 南拔七祖根，<lb/>
- 西解累葉凶。　
- 體矯萬津波，　
- 神王攝十方。　
- 火歸返胎元，<lb/>
- 三合乘天龍。』　
- 微念咒曰：<lb/>
- 『弗育邈，　
- 散兆生。　
- 盼常在，　
- 法無輪。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『誦至四章，根塵漸隳，業網自解，劫運不隨，萬炁齊臨，<lb/>
-<pb ed='CK-KZ' n='02p025b'/><lb/>
-　得自在門。』<lb/>
-　　第五章<lb/>
-白元玉篆【圖images/KR5i0001_KR5i0001-02_25b3-6.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通，微聲朗念：<lb/>
-『謹請白元尊神，名洞陽君鬱靈標，字玄夷統，一名朱精，一名啓<lb/>
-成。常鎭我右腋之下肺之後戶，是失氣之門。白元嚴固守之，使<lb/>
-我右腋之下有金光，引神入兆六炁之宮，七祖父母返胎更生，<lb/>
-<pb ed='CK-KZ' n='02p026a'/><lb/>
-身登玉房。』<lb/>
-　存想右腋下白炁，變金光色，上昇頂上。再微聲咒曰：<lb/>
-『洞陽鬱靈，標寶魂生。金光煥煥炁中精，招眞固神令長生。拔出<lb/>
-幽根返胎嬰，驂神御炁昇玉淸。』<lb/>
-　咒完，吸頂雲三咽，結一神，金冠金色衣，下佈左乳，入心，下厯<lb/>
-　右膀胱，昇上心宮，入右乳，過肺之後戶，守之。<lb/>
-　　太微天帝君道經第五　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太微天帝君，　
- 八浮入雲營。　
- 神宗理靈襟，<lb/>
- 龍山秀玉京。　
- 金房鬱明霞，　
- 九戶朗高瓊。　
- 黃庭涉北元，<lb/>
- 元父左回明。　
- 朱精啓明師，　
- 幽寥登上淸。　
- 四玄秉元禁，<lb/>
-<pb ed='CK-KZ' n='02p026b'/><lb/>
- 長保五帝城。』　
- 微念咒曰：<lb/>
- 『超滯天，　
- 橫宜始。　
- 勃沙玄，　
- 無定力。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『誦至五章，永絕死炁，浸茂生根，萬炁齊生，得長生門。』<lb/>
-　　第六章<lb/>
-司命玉篆【圖images/KR5i0001_KR5i0001-02_26b6-9.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-<pb ed='CK-KZ' n='02p027a'/><lb/>
-『謹請中央司命丈人君，名理明初，字玄度卿，一名神宗，一名靈<lb/>
-華。常鎭我絳宮心房之内，四孔之戶。心有七竅，神一名法垣，二<lb/>
-朱霄，三丹黃，四運珠，五神慧，六洞溟，七洞明，是失氣之門。丈人<lb/>
-嚴固守之，使我心中得眞理，絳宮生五華，司命丈人口吐紫雲<lb/>
-之炁，洞溢我五臟之内，我得長生。』<lb/>
-　存想心炁紫雲色，上昇頂上。再微聲咒曰：<lb/>
-『司命定年，丈人保山。度名於南宮，上奏帝君前。世世爲仙王，拔<lb/>
-出七葉根。福報無窮己，皆是誦玉經。』<lb/>
-　咒完，吸頂雲三咽，結一神，白衣冠，下佈心内，化我心形，如圓<lb/>
-　滿月，神在明月内坐。<lb/>
-<pb ed='CK-KZ' n='02p027b'/><lb/>
-　　三元精紫精君道經第六　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『紫精太無中，　
- 三元上景衢。　
- 秀朗大寶輝，<lb/>
- 昭昭扇帝敷。　
- 伯史啓三素，　
- 帝靈登玉虛。　
- 慶炁育五雲，<lb/>
- 司命理明初。　
- 十華妙行仙，　
- 制魔生六明。　
- 微念咒曰：<lb/>
- 『澄潧渟，　
- 鬱羅曜。　
- 幸長劫，　
- 效萬靈。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『誦至六章，六天大魔永斷鬼鋒，六根淸浄，廣明發生，<lb/>
-　萬炁齊光，卽得度世，進登仙門。』<lb/>
-　　第七章<lb/>
-<pb ed='CK-KZ' n='02p028a'/><lb/>
-桃康玉篆【圖images/KR5i0001_KR5i0001-02_28a1-4.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請命門桃康君，名孩道康，字合延精，一名命門，一名胞根。常<lb/>
-鎭我臍中之關命門之外，是失氣之門。桃君嚴固守之，使我臍<lb/>
-中徘徊，黃雲盈溢，三命生根，胞胎解泄，七祖父母無閡累殃，宿<lb/>
-罪无滯，生天帝宮。』<lb/>
-　存想臍下黃雲，上昇頂上。再微聲咒曰：<lb/>
-<pb ed='CK-KZ' n='02p028b'/><lb/>
-『丹靈正神，號曰桃君。混合生宮，守護命門。通仙致炁，齊舉寶雲。<lb/>
-七祖同生，受福南晨。』<lb/>
-　咒完，吸頂雲三咽，結一神，金冠黃衣，下入心宮至臍下二寸，<lb/>
-　其形方圓一寸，男藏精，女藏胞是下丹田命門内宮。坐守之。<lb/>
-　　眞陽元老玄一君道經第七　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『眞陽帝賓老，　
- 受事會玉皇。　
- 滅魔除穢尸，<lb/>
- 百司詣絳宮。　
- 逸宅丹玄内，　
- 五炁結十方。　
- 七轉司命至，<lb/>
- 三回召仙公。　
- 太山主鬼者，　
- 急校三官中。　
- 十德初成基，<lb/>
- 同飛七覺元。』　
- 微念咒曰：<lb/>
- 『玄幄沙，　
- 稱萬福。　
- 無生死，　
- 入胎門。』<lb/>
-<pb ed='CK-KZ' n='02p029a'/><lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『誦至七章，七元斗辰皇妃下降，爲我削落死籍，移注<lb/>
-　南宮，萬炁齊超，得飛仙門。』<lb/>
-　　第八章<lb/>
-上一玉篆【圖images/KR5i0001_KR5i0001-02_29a5-8.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請泥丸上一天帝君，名赤子玄凝天，字三元先，一名伯无上，<lb/>
-<pb ed='CK-KZ' n='02p029b'/><lb/>
-一名伯文原。常鎭我泥丸之中上丹田九孔之戶，是失氣之門。<lb/>
-上一嚴固守之，使我泥丸玉堅，金曜映眞，體生寶光。九孔受靈，<lb/>
-令七祖父母，長得安甯，解脱宿罪，共登上淸。』<lb/>
-　泥丸宮上丹田也，内有九宮，四雌五雄，各方一寸。其形内圓<lb/>
-　虛中，紅而晶瑩，乃神之所居。其後戶有脈，貫於脊骨。存想眞<lb/>
-　氣寶光，熖熖罩頂。再微聲咒曰：<lb/>
-『上一赤子號上眞，飛雲羽衣耀紫煙。上招明景對帝賓，寶光奕<lb/>
-奕映我身，身上羽毛昇九天。』<lb/>
-　咒完，吸頂雲三咽，結一神，紫衣冠，下入心宮，穿兩膀胱，透尾<lb/>
-　閭，入夾脊，至玉枕第一椎，入泥丸内宮，坐守之。<lb/>
-<pb ed='CK-KZ' n='02p030a'/><lb/>
-　　上元太素三元君道經第八　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太素三華炁，　
- 晨登廣靈堂。　
- 玉京表玄籍，<lb/>
- 守命孩道康。　
- 迴風散萬魔，　
- 金符召廣鄕。　
- 輔衞地戶内，<lb/>
- 保此長生王。　
- 轉入十仙門，　
- 八景齊洞陽。』　
- 微念咒曰：<lb/>
- 『明桂子，　
- 會和存。　
- 扶天帝，　
- 登明曜。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『誦至八章，八景神生，八威神王守護修眞，四方八王<lb/>
-　注舉仙名，斬絕地戶，永斷惡根，萬炁齊明，得飛神門。』<lb/>
-　　第九章<lb/>
-<pb ed='CK-KZ' n='02p030b'/><lb/>
-丹皇玉篆【圖images/KR5i0001_KR5i0001-02_30b1-4.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請絳宮中一丹皇元君，名皇神運珠，字子南丹，一名生上伯，<lb/>
-一名史雲拘。常鎭我後項中央大椎骨首戶之下，乃失氣之門。<lb/>
-中一嚴固守之，使我百骨受其眞炁，大椎有日光，七祖父母得<lb/>
-道，徑昇南宮。』<lb/>
-　存想心中眞炁，如日光芒熖熖，上昇頂上，再微聲咒曰：<lb/>
-<pb ed='CK-KZ' n='02p031a'/><lb/>
-『中一眞君，號曰運珠。上招日光，灌我形軀。三眞寶曜，因命玉符。<lb/>
-夀億萬劫，永無終休。我身生羽符，飛昇九天衢。』<lb/>
-　咒完，吸頂雲三咽，結一神，衮冕，紅衣冠，下佈心内，光耀遶身，<lb/>
-　下入臍内，又入陰莖，中穿尾閭，昇夾脊，至項後第一椎骨内，<lb/>
-　化日一輪，百寶神光旋轉，神君在光内坐。其神背觀，守之不<lb/>
-　動。<lb/>
-　　上淸紫精三素君道經第九　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『紫精毓華林，　
- 長明太無外。　
- 玉房生寶雲，<lb/>
- 九扇胞胎内。　
- 帝賓奉玉符，　
- 三光回紫蓋。　
- 蒼玉斌來生，<lb/>
- 衞此長夜會。　
- 五靈度符籍，　
- 九統合九光。　
- 三玄出太淸，<lb/>
-<pb ed='CK-KZ' n='02p031b'/><lb/>
- 紫陽發萬生。　
- 玄精育九靈，　
- 元父結胎仙。　
- 五靈旣明，<lb/>
- 啟昌得期。　
- 務玄把籍，　
- 奉行四時。　
- 金映兩目，　
- 華蓋秀眉。<lb/>
- 玄母歸雄，　
- 玄父合雌。　
- 洞合百靈，　
- 辟非宣彌。　
- 童子受聽，<lb/>
- 丹嬰爲兒。　
- 禍絕地上，　
- 福昇仙堂。　
- 魂魄密靜，　
- 百神合離。<lb/>
- 開闢帝一，　
- 混然俱來。』　
- 微念咒曰：<lb/>
- 『樂伯勒，　
- 飛明賢。　
- 始生上，　
- 上道宗。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『誦至九章，九統帝會，九光神集，混合百神，與天齊年，<lb/>
-　八會游集，朝應九天，萬炁齊仙，得登眞門。』<lb/>
-　　第十章<lb/>
-<pb ed='CK-KZ' n='02p032a'/><lb/>
-黃庭玉篆【圖images/KR5i0001_KR5i0001-02_32a1-4.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請命門下一黃庭元王，名始明精，字元陽昌，一名始神童，一<lb/>
-名藏明初，一名嬰兒胎，一名史伯原。兩胯之間車軸之戶，是失<lb/>
-氣之門。元王嚴固守之，使我百血結凝，神氣不散，拔出地戶，超<lb/>
-離八難。』<lb/>
-　此竅在背脊骨下第十六椎，與尾閭並兩股腿骨相連綴，運<lb/>
-<pb ed='CK-KZ' n='02p032b'/><lb/>
-　動載我身，若車之有軸，腰胯當中是穴也。存想命門下眞炁。<lb/>
-　如月光寶色，上昇頂上。再微聲咒曰：<lb/>
-『下一眞元王，號曰始明精。三皇把符命，合契度仙庭。上招景中<lb/>
-炁，炁布灌我形。羽車曜雲朗，令我昇太淸。』<lb/>
-　咒完，吸頂雲三咽，結三神。一神月君相，捲雲巾，上坐。又二神<lb/>
-　左右侍立。下入心宮，沉至丹田，昇上入命門中。左右神入兩<lb/>
-　膀胱，穿兩腿骨髓内，下至兩腳心，入足後跟，各負半月，倒上<lb/>
-　入腰胯命門穴，合成一明月。三神在内守之。<lb/>
-　　靑靈陽安元君道經第十　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『靑靈扇八極，　
- 鼓輪三華城。　
- 披此胞胎結，<lb/>
-<pb ed='CK-KZ' n='02p033a'/><lb/>
- 七祖受福生。　
- 宿對滅五道，　
- 長守帝一營。　
- 公子執五符，<lb/>
- 太一居紫房。　
- 三合地戶下，　
- 拔命玉帝宮。　
- 少女郁墨子，<lb/>
- 衞兆七炁聰。　
- 拘制精血液，　
- 盈滿五臟充。　
- 十眞登黃房，<lb/>
- 帝子化金仙。　
- 白玉飛符召，　
- 引昇龍臺天。　
- 九回七度，<lb/>
- 散此胞根。　
- 三皇巾珠，　
- 招符命神。　
- 赤帝和南，　
- 握節上遷。<lb/>
- 併我魂魄，　
- 鍊精帝前。　
- 五符合棄，　
- 七女入仙。　
- 慶流雲積，<lb/>
- 福盈龍泉。　
- 陵梵履昌，　
- 日日上言。　
- 五炁己明，　
- 五炁合延。』<lb/>
- 微念咒曰：<lb/>
- 『望昌謁，　
- 順萬煙。　
- 連劫生，　
- 厥出天。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-<pb ed='CK-KZ' n='02p033b'/><lb/>
-　玄契曰：『誦至十章，子形中元命結帝一眞人，九和十合，體自<lb/>
-　洞眞。能召制十方，御元回靈，萬炁成眞，合德㝠惠，玄玄無邊，<lb/>
-　變化自然，至此修行，名曰玄關，亦曰玄會。六度十回，功滿道<lb/>
-　備，位登仙公。初心十信，次興十善，次發十華，次成十德，漸進<lb/>
-　十仙，遂化十眞，六位己陞，妙行大全，形神炁鍊，號曰眞人，入<lb/>
-　眾妙門。』<lb/>
-　　第十一章<lb/>
-九眞玉篆【圖images/KR5i0001_KR5i0001-02_33b7-10.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p034a'/><lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請泥丸九眞，名帝昌上皇，字帝先靈，一名元宗口神，一名淸<lb/>
-淨和。常鎭我口之四際，是失氣之門。九眞嚴固守之，使我故氣<lb/>
-出，精氣入，神光隨身，放光萬丈，七祖父母禍脱罪除，生在帝宮<lb/>
-玉房之中。』<lb/>
-　存想泥丸眞炁，靑光萬丈，籠罩頂上。微聲咒曰：<lb/>
-『九眞始生，生於上元。號曰先靈，三景各分。上招玄暉，流布四門。<lb/>
-鎭神保山，拔度七玄。驂景乘浮，朝拜三元。』<lb/>
-　咒完，吸頂雲九咽，結九神。一衮冕冠，靑履，靑雲下布一身，至<lb/>
-　足底，光輝充滿五臟，上昇華蓋氣管，走上鵲橋，入兩耳鼻凹。<lb/>
-<pb ed='CK-KZ' n='02p034b'/><lb/>
-　分入兩目，閉搖睛二七度，迸出。九眞出泥丸外，各帶靑光萬<lb/>
-　丈，内有九神，端坐蓋頂上，守之。<lb/>
-　　皇淸洞眞道君道經第十一　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『皇淸與上淸，　
- 洞眞元老君。　
- 能生又能死，<lb/>
- 三帝己含生。　
- 虹映上淸景，　
- 玉華煥玉琳。　
- 三途拔靈閣，<lb/>
- 胞胎化兆形。　
- 日母解結仞，　
- 七祖罪超昇。　
- 皇淸洞眞，<lb/>
- 三帝合生。　
- 啟明蕭仞，　
- 金門披靑。　
- 日中赤帝，　
- 號曰丹靈。<lb/>
- 靈符命仙，　
- 五籍保生。　
- 虹映玉華，　
- 煥落上淸。　
- 七世父母，<lb/>
- 累命重甯。』　
- 微念咒曰：<lb/>
- 『回素元，　
- 吉求靜。　
- 天福子，　
- 長天生，　
- 正薈條。』<lb/>
-<pb ed='CK-KZ' n='02p035a'/><lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『十回功竟，更至十一，境地重光，心身益擴，百邪遠避，<lb/>
-　諸障不干，金童默相，玉女欣傳，呼吸週通，入逍遙門。』<lb/>
-　　第十二章<lb/>
-八眞玉篆【圖images/KR5i0001_KR5i0001-02_35a5-8.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請膽中八眞，名合景君，字北臺，一名玄精。鎭背窮骨下八節<lb/>
-<pb ed='CK-KZ' n='02p035b'/><lb/>
-之府，一名威明。背脊骨二十四椎，第一椎，丹元君守之。第二椎<lb/>
-至七椎，玄陽君守之。第九椎至十五椎，玄陰君守之。第十六椎，<lb/>
-黃庭元王守之。下八節，膽中八眞守之。是失氣之門，合景君嚴<lb/>
-固守之，使我背脊之下節之孔常閉，邪氣不入，受生炁，眞光映<lb/>
-形。』<lb/>
-　存想膽中眞炁黃雲色，上昇頂上。再微聲咒曰：<lb/>
-『八眞法神，神生九天，號曰北臺君，常在三合間。招眞洞明炁，下<lb/>
-流佈我身。身生紫暉，與帝結親。攜挈五老，太仙⬤綿。』<lb/>
-　咒完，吸頂雲八咽，結八神，黃冕衣，黃色，下布心宮，穿尾閭穴，<lb/>
-　上充背脊下八節，神列兩邊之戸守之。<lb/>
-<pb ed='CK-KZ' n='02p036a'/><lb/>
-　　高上太素君道經第十二　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『高上宴紫淸，　
- 五老輔玉根。　
- 太素拂𣺌景，<lb/>
- 合符帝一尊。　
- 白帝皓鬱奬，　
- 回金太霞鄕。　
- 度我死戸閉，<lb/>
- 拔出三途昇。　
- 十通由斯生，　
- 妙行由此興。　
- 洞明光景中，<lb/>
- 帝一眞玄經。　
- 圓華黃仞，　　
- 太張守關。　　
- 胎結四開，<lb/>
- 胎血滅連。　
- 保身冥眞，　
- 帝一共遷。　
- 兆有五臟，　
- 各生華根。<lb/>
- 穢液沉没，　
- 生朱運仙。　
- 九回會幽，　
- 六府曲伸。　
- 上帝熙怡，<lb/>
- 玄母懷歡。　
- 玉門生香，　
- 蘭室含眞。　
- 月精凌暉，　
- 日爽八騫。<lb/>
- 太一啟珠，　
- 守我面前。』　
- 微念咒曰：<lb/>
- 『和歸落，　
- 結舒永。　
- 出常外，　
- 萬劫浩。』<lb/>
-<pb ed='CK-KZ' n='02p036b'/><lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修行帝一眞道，至此大全妙行，始證十通，聖功初積。<lb/>
-　玄理幽深，常誦百遍，自然通炁，千遍不輟，通神通靈，上朝帝<lb/>
-　闕，位爲眞人。』<lb/>
-　　朗念：<lb/>
-『夏禹濬川，　冶金爲像。　自古及今，　恩波蕩蕩。』<lb/>
-<pb ed='CK-KZ' n='02p037a'/><lb/>
-元始大洞玉經卷中<lb/>
-#+BEGIN_VERSE
- 　鬱鬱家國盛，　
- 濟濟經道興。　
- 天人同其願，　
- 縹緲入大乘。<lb/>
- 　同心立福田，　
- 霏霏法輪昇。　
- 七祖生天堂，　
- 我身白日騰。<lb/>
-#+END_VERSE
-道言：『元始天王眉放靑毫，頂旋紫炁，萬華寶蓋，浮羅覆形，玉光<lb/>
-金霞，紆絢晃耀，玉晨道君，太玄道父，稽首容伫，願聽洞章。』<lb/>
-　　第十三章<lb/>
-左七眞篆【圖images/KR5i0001_KR5i0001-02_37a7-10.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p037b'/><lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請左腎間七眞，名玄陽君，字冥光，一名元生，一名五帝。常鎭<lb/>
-我背骨盡際、地戶大椎骨七節左腎腰之下。玄陽君嚴固守之，<lb/>
-使地戶生眞炁，窮骨受神液，六津充滿，生根深密。』<lb/>
-右七眞篆【圖images/KR5i0001_KR5i0001-02_37b5-8.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請右腎間七眞，曰玄陰君，字太眞，一名上生。常鎭我背下骨<lb/>
-<pb ed='CK-KZ' n='02p038a'/><lb/>
-玉關右腎腰兩胯車軸之内。玄陰君嚴固守之，使我九眞靈潤，<lb/>
-反華朗耀，神生形中，内外合眞，熙熙九府，長保玄妙。』<lb/>
-　存想背下左右二腎之間，黑雲氣上昇頂上。再微聲咒曰：<lb/>
-『七眞生帝景，八炁運常甯。上招日中童，圓珠映我形。迴風混幽<lb/>
-府，歸妙大洞經。拔出地戶難，超凌逸九天。』<lb/>
-　咒完，吸頂雲咽十四次，化左右各七眞，披髮，跣足，黑衣，水星<lb/>
-　相。從項下入心宮，又分左右，各七眞下降膀胱，穿尾閭穴，上<lb/>
-　充腰眼内脊骨兩邊，分左右列，如斗星，守之。<lb/>
-　　皇上四老道中君道經第十三　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『皇上超无景，　
- 輪轉九曜生。　
- 迴風混帝心，<lb/>
-<pb ed='CK-KZ' n='02p038b'/><lb/>
- 八景運常甯。　
- 廣霞參神天，　
- 五帝散日精。　
- 液溢玄中膜，<lb/>
- 血凝五華平。　
- 體寶圓珠映，　
- 流曜瑩兆形。　
- 號爲夀逸阜，<lb/>
- 亦曰澄潧亭。　
- 俱滅三惡機，　
- 啟籍登太明。　
- 令我保仙眞，<lb/>
- 仙綬披綠靑。　
- 解禍㝠途中，　
- 超福晨上靈。　
- 度世登玉鄕，<lb/>
- 累祖返胎嬰。　
- 洞觀无礙空，　
- 始通生圓明。　
- 驪珠貫方瞳，<lb/>
- 内外洞照淸。』　
- 微念咒曰：<lb/>
- 『三樂深，　
- 五達門。　
- 法輪迴，　
- 道上生。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士久持，得洞觀淸淨，道眼始通，無礙無障，内外洞<lb/>
-　明，照見一切。能斷東方泰殺諒事宗天惡根地，根，魔籍鬼賬。<lb/>
-<pb ed='CK-KZ' n='02p039a'/><lb/>
-　常以上品香花供養天王進登天仙<lb/>
-　　第十四章<lb/>
-六眞玉篆【圖images/KR5i0001_KR5i0001-02_39a3-6.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請肺中華蓋六眞，名上元素玉君，字梁南中童，常鎭我頸外<lb/>
-十二間。梁素玉君嚴固守之，使上帝玉華光映城門之下，玉晨<lb/>
-之氣上入丹元之宮，七祖父母解散結滯，受生於太上之鄉。』<lb/>
-<pb ed='CK-KZ' n='02p039b'/><lb/>
-　十二間，卽肺氣管筒兩邊也。蓋頸項兩旁，各有六條大筋，每<lb/>
-　一神守二梁也。存想喉下肺炁如白雲，上昇頂上。再微聲咒<lb/>
-　曰：<lb/>
-『六眞奕奕，白光泱泱。迴帝之景，上入丹鄕。招眞下流，灌我玉霜。<lb/>
-羽裙紛紛，衣我仙裳。越過水火，飛登晨京。』<lb/>
-　咒完，吸頂白雲，咽六次，結六神，秀士相，金冠，淡白衣，下布心<lb/>
-　宮，入膀胱，穿尾閭夾脊，上昇泥丸，分貫兩耳上下、頸項十二<lb/>
-　筋梁外，神面向立，守之。<lb/>
-　　玉晨太上大道君道經第十四　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『玉宸九天司，　
- 太上大道君。　
- 常保景化内，<lb/>
-<pb ed='CK-KZ' n='02p040a'/><lb/>
- 九迴鏡中淸。　
- 解帶玉映室，　
- 乘素入四明。　
- 提攜日中主，<lb/>
- 併羽月中晨。　
- 太一召天魔，　
- 帝君校萬精。　
- 拔擢死籍炁，<lb/>
- 越度仙黃庭。　
- 帝立三關上，　
- 八風舞神兵。　
- 左抱福醴液，<lb/>
- 右提慶元瓶。　
- 洞徹无障玄，　
- 梵通生虛明。　
- 貫顙聞十方，<lb/>
- 豁落一切聲。』　
- 微念咒曰：<lb/>
- 『泓鬱霞，　
- 度法令。　
- 重刼視，　
- 滅長苦。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士勤行，得洞徹淸淨，聖耳梵通，无障无礙，内外虛<lb/>
-　明，聞一切音聲，能斷北方紂絕陰天惡根地根，魔籍鬼賬。常<lb/>
-　以丹菓，供養天王，結蒂生核，飛登上仙。』<lb/>
-<pb ed='CK-KZ' n='02p040b'/><lb/>
-　　第十五章<lb/>
-五眞玉篆【圖images/KR5i0001_KR5i0001-02_40b2-5.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請脾中五眞，名養光君，字太倉子，一名羽臺子，常鎭我喉内<lb/>
-極根之戶。養光君嚴固守之，使玉光金眞，洞照喉根，太帝神炁，<lb/>
-往來三宮之内。』<lb/>
-　存想脾中淡黄雲炁，上昇頂上。再微聲咒曰：<lb/>
-<pb ed='CK-KZ' n='02p041a'/><lb/>
-『五眞散靈，炁布九玄。金光曜輝，五炁吐津。萬神並暢，熙怡我身。<lb/>
-圓光奏帝籍，太一動九天。降我八景輿，策龍駕紫煙。混合三帝<lb/>
-室，保我萬劫年。』<lb/>
-　咒完，吸頂雲，咽五次，結五神，星官相，金冠，黃衣，左二右三，下<lb/>
-　布心宮，入二膀胱，穿尾閭，昇夾脊，入泥丸，穿兩臉，下布兩肩<lb/>
-　頸根之戶，左二右三，守之。<lb/>
-　　太淸大道君道經第十五　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太淸絕浮空，　
- 三天寶神符。　
- 日中開五暉，<lb/>
- 靑帝圓常無。　
- 捧籍登太明，　
- 受籙金華樓。　
- 五臟植玉根，<lb/>
- 魂魄一和凝。　
- 洞空淸淨玄，　
- 炁通生淸明。　
- 定和妙明覺，<lb/>
-<pb ed='CK-KZ' n='02p041b'/><lb/>
- 玄息自長生。　
- 百神會合，　　
- 固身守關。　　
- 地戶閉塞，<lb/>
- 死亡不干。　
- 檢炁九玄，　
- 超越八難。　
- 七祖父母，　
- 胎結披散。<lb/>
- 生度南宮中，　
- 返胎三積内。　
- 玄母叔火王，　
- 爲兆得仙位。』<lb/>
- 微念咒曰：<lb/>
- 『明考梨，　
- 拔劫阿。　
- 濟无生，　
- 得來願。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士久持，得洞空淸淨，玄鼻炁通，旡礙旡障。内外淸<lb/>
-　明香熏正炁普徹上下。能卻西北方恬照罪炁天惡根地根，<lb/>
-　魔籍鬼賬。勤以信香，供奉天王，進登神仙。』<lb/>
-　　第十六章<lb/>
-<pb ed='CK-KZ' n='02p042a'/><lb/>
-四眞玉篆【圖images/KR5i0001_KR5i0001-02_42a1-4.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請肝中四眞，名淸明君，字明輪童子，常鎭我胃口之外，膏膜<lb/>
-之下咽食處。淸明君嚴固守之，使我淸炁鬱勃，玄液流符，取津<lb/>
-玄膺之下，會神膏肓之中，魂安靑華，神存玄爽，周流上下，循環<lb/>
-無端，七祖已通，九玄解厄。』<lb/>
-　存想肝左胸傍翠羽色雲，上昇頂上。再微聲咒曰：<lb/>
-<pb ed='CK-KZ' n='02p042b'/><lb/>
-『四眞常生靑光華，精徘徊秀朗垣沉。珍玉景庭攜提高，上元俯<lb/>
-仰要五靈。拔晨七葉根，與我保華嬰。』<lb/>
-　咒完，吸頂雲，咽四次，結四神，翠色冠，靑衣，下布心宮，遍厯胸<lb/>
-　左肝部，入尾閭，貫夾脊，上泥丸，注舌端，又上入二目中，復下<lb/>
-　胃脘之外膏膜之下，神與司命君爲侍立，左二右二，守之。<lb/>
-　　太極大道元景君道經第十六　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太極元景王，　
- 三天攝神生。　
- 紫素翳鬱仞，<lb/>
- 安來上玉京。　
- 拔出五苦界，　
- 返胎七元庭。　
- 九玄解重劫，<lb/>
- 累祖落𡨚名。　
- 徘徊秀華下，　
- 俯仰邀五靈。　
- 兆身昇玉堂，<lb/>
- 五神迴孩嬰。　
- 俱躋太膜外，　
- 養素朝圓明。　
- 洞虛淸和淨，<lb/>
-<pb ed='CK-KZ' n='02p043a'/><lb/>
- 華通引玄㝠。　
- 䑛鍊五芽味，　
- 含善吐長生。』
- 　微念咒曰：<lb/>
- 『回圓明，　
- 神初羅。　
- 暉履安，　
- 固止身。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士久持，得洞虛淸淨，玄舌華通，无礙无障，内外正<lb/>
-　倫，玄明池中，神水凝酥，咽味五芽，金液玉液。能除西方敢司<lb/>
-　連宛屢天惡根地根，魔籍鬼賬。常以法食，供奉天王，通一切<lb/>
-　味，結大美珠，進登仙眞，位爲上仙。』<lb/>
-　　第十七章<lb/>
-<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p043b'/><lb/>
-三眞玉篆【圖images/KR5i0001_KR5i0001-02_43b1-4.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請精血中三眞，名元王君，字黃甯子玄，常鎭我鼻兩孔準頭<lb/>
-下源玄達之戶。元王君嚴固守之，使我精神宣暢於百節，血液<lb/>
-盈滿於千關，萬靈之炁輔護，太一之魂保身。』<lb/>
-　存想鼻中赤雲，上昇頂上。再微聲咒曰：<lb/>
-『三眞煥光，流光徘徊。離合九景，三洞金扉。上招朱皇，五苦廓開。<lb/>
-<pb ed='CK-KZ' n='02p044a'/><lb/>
-死根斷落，日魂同飛。超逸十界，上昇玉階。』<lb/>
-　咒完，吸頂雲，三咽，結三神，紅衣冠，下布心宮，入兩膀胱，入尾<lb/>
-　閭夾脊，上泥丸宮，下布鼻人中凹，化紅光，神守之。<lb/>
-　　皇初紫靈元君道經第十七　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『皇初紫炁中，　
- 暉光鬱霄明。　
- 三天煥九景，<lb/>
- 離合億萬生。　
- 披朱巾綠霞，　
- 上迴寒童靈。　
- 拔出五苦毒，<lb/>
- 超形過始靑。　
- 白素啟蕭仞，　
- 金門衞朱兵。　
- 七祖積尸結，<lb/>
- 一化百惡傾。　
- 受福東霞室，　
- 返胎朱火庭。　
- 洞靈淸淨行，<lb/>
- 力通自冲明。　
- 淨眞手握斗，　
- 足躡九元星。　
- 揮執天地關，<lb/>
- 精神生命根。』　
- 微念咒曰：<lb/>
-<pb ed='CK-KZ' n='02p044b'/><lb/>
- 『發合遷，　
- 光運長。　
- 常生天，　
- 入寶炁。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士久持，得洞靈淸淨，手足力通，把握揮呵，飛步蹻<lb/>
-　躡，往來指措，一切无礙无障。能除西南方宗靈七非天惡根<lb/>
-　地根，魔籍鬼賬。常以靈茶黃芽金蕊，供奉天王，輪步九光。進<lb/>
-　登天仙。』<lb/>
-　　第十八章<lb/>
-一眞玉篆【圖images/KR5i0001_KR5i0001-02_44b8-10.jpg】<lb/>
-<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p045a'/><lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請胃管二眞，左名堅玉君，字凝羽珠；右名帝昌皇，字碧落靑，<lb/>
-常鎭我太倉之府五腸之口。二眞嚴固守之，使我穀食消化，靈<lb/>
-根不枯，炁通虛無，滋潤五内，調五行而通六腑，利血脈而益周<lb/>
-身，七祖散結，九玄被榮。』<lb/>
-　胃爲太倉，傳送水穀，達於五腸之口，胃之上竅，心肺相接，卽<lb/>
-　胃口進食處也。存想胃脘碧白雲色，上昇頂上。再微聲咒曰：<lb/>
-『二眞固神，鬱勃三關。迴金合玉，堅備泥丸。上通帝炁，流布金門。<lb/>
-混合啟明，合我仙魂。七祖同飛，絕滅胞根。世保道德，永享欣欣。』<lb/>
-　咒完，吸頂雲，三咽，結二神，如帝王相，靑衣冠，下布太倉，二神<lb/>
-<pb ed='CK-KZ' n='02p045b'/><lb/>
-　向内立，守之。<lb/>
-　　无英中眞上老君道經第十八　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『无英眞上玄，　
- 玄中元素炁。　
- 寄頻攜運珠，<lb/>
- 混化啟明日。　
- 正一左右仙，　
- 長扶靈虛室。　
- 兆有五符籍，<lb/>
- 合仙得眞一。　
- 魂生太无中，　
- 魄伏五道密。　
- 世世解𡨚結，<lb/>
- 七祖絕滯塞。　
- 神風吹胞樹，　
- 根葉已斷絕。　
- 胎中眾鬼殃，<lb/>
- 五符閉地結。　
- 長爲神眞王，　
- 應仙續萬億。　
- 洞眞淸淨身，<lb/>
- 道通自然質。　
- 眞應化現相，　
- 不動住黃室。　
- 應化無方在，<lb/>
- 骨肉金玉質。　
- 靜眞明正道，　
- 至老常不易。』　
- 微念咒曰：<lb/>
- 『彌勒車，　
- 大生彰。　
- 反老童，　
- 受年𧙓。』<lb/>
-<pb ed='CK-KZ' n='02p046a'/><lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士久持，得洞眞淸淨眞應身、相道通法身。常存常<lb/>
-　住玉山上京，應變自然，十方皆現化無量身，無方不在，自身<lb/>
-　他身皆得自在。能脱九幽地獄地根，惡根魔籍鬼賬。常以天<lb/>
-　衣地裳，供奉天王，上下垂覆，進登上仙。』<lb/>
-　　第十九章<lb/>
-一眞玉篆【圖images/KR5i0001_KR5i0001-02_46a7-10.jpg】<lb/>
-<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p046b'/><lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請心中一眞，名天精液君，字飛生上英，常鎭我胸中四極之<lb/>
-口心上四寸。嚴固守之，使我五臟生華，四關受其眞炁紫液，滿<lb/>
-於胸中絳宮，結成於百神，上昇玉天，羽衣虎符，佩奉謁帝。』<lb/>
-　存想心中紅雲，上昇頂上。再微聲咒曰：<lb/>
-『一眞鎭心，總領百神。百神常生，會我絳軒。上招玉炁，六液沉珍。<lb/>
-赤景啟靈，拔我七根。超逸三途，上昇南仙。』<lb/>
-　咒完，吸頂雲，三咽，結一神，紅衣，下布胸前心上四寸，守之。<lb/>
-　　中央黃老君道經第十九　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『中央黃素炁，　
- 圓華玉夀靈。　
- 太張上玉門，<lb/>
-<pb ed='CK-KZ' n='02p047a'/><lb/>
- 伏雲三仞明。　
- 赤景翳逸寥，　
- 提攜太一眞。　
- 帝女抱定陵，<lb/>
- 吟詠玉淸文。　
- 五符編紫房，　
- 玉籍標圓庭。　
- 七祖返胎仙，<lb/>
- 滅絕三途尸。　
- 流風斷血滯，　
- 玄業得黃甯。　
- 洞玄淸淨光，<lb/>
- 元命靈通神。　
- 性命宗本堅，　
- 孝道成明王。　
- 生根得太和，<lb/>
- 无爲登上淸。』　
- 微念咒曰：<lb/>
- 『滿景生，　
- 比孛通。　
- 解脱災，　
- 福劫元。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士久持，得洞玄淸淨慧目靈通天尊天帝，眞人神<lb/>
-　仙，天趣神趣，人趣鬼趣，及一切眾生性命宗本，是曰眞中之<lb/>
-　神長生大君。左生无英，右生白元，名齊太一，司命沖靈。桃康<lb/>
-<pb ed='CK-KZ' n='02p047b'/><lb/>
-　合延，執符把籙，宗孝上道，位登眞仙，名證眞人。妙行全眞。』<lb/>
-　　第二十章<lb/>
-九元玉篆【圖images/KR5i0001_KR5i0001-02_47b3-6.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請九元眞男，名拘制，字三陽，常鎭我左耳之下、伏晨之戶。嚴<lb/>
-固守之，令我天聰發徹，幽谷鮮明，眞炁雲行，往來泥丸，招神得<lb/>
-仙。』<lb/>
-<pb ed='CK-KZ' n='02p048a'/><lb/>
-　存想左耳根下二指眞炁五色彩雲，上昇頂上。再微聲咒曰：<lb/>
-『九元之精，天關開窗。八景合炁，上通金房。三元帝室，返老生翁。<lb/>
-玉華灌漑，鍊改艾容。飛霄紫輿，運我昇空。』<lb/>
-　咒完，吸頂雲，三咽，結一神，童男，執簡，下布心宫，入左膀胱，透<lb/>
-　尾閭夾脊，過玉枕，穿腦後，入左耳垂下二指向後一分，守之。<lb/>
-　　靑精上眞内景君道經第二十　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『靑精上華炁，　
- 太微玄景童。　
- 神化玉室内，<lb/>
- 飛羽逸紫空。　
- 日爲三矜交，　
- 奉符登帝墉。　
- 開關把金節，<lb/>
- 閉戶叩瓊鐘。　
- 滅魔三酆野，　
- 招靈上淸宮。　
- 明出穹陰關，<lb/>
- 入精六合房。　
- 回老變皓形，　
- 還白返嬰童。　
- 洞元淸淨光，<lb/>
-<pb ed='CK-KZ' n='02p048b'/><lb/>
- 津液具神通。　
- 咽液生萬神，　
- 神水華池融。　
- 湧泉灌而潤，<lb/>
- 往來无有窮。　
- 通生道之源，　
- 天根常茂豊。　
- 寂寂上伯，<lb/>
- 接生萬盈。　
- 心中之神，　
- 號曰天精。　
- 流煥九宮，　
- 飛生上英。<lb/>
- 拔絕死門，　
- 福鏘臻臻。　
- 七祖父母，　
- 解結吉昌。　
- 符籍晨登，<lb/>
- 身併桃康。　
- 長保金暉，　
- 道德仙王。』　
- 微念咒曰：<lb/>
-『 種炁會，　
- 出蘭蒙。　
- 昌田子，　
- 東夀王。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士久持，得洞源淸淨，津液神通，湧昇灌潤華池。神<lb/>
-　水往來，通生帝心一玄。一切大通，无礙无障。能斬南方波羅<lb/>
-　歘落蹠猷天七魔，五岳地根惡根，魔籍鬼賬。常以淸淨神水，<lb/>
-<pb ed='CK-KZ' n='02p049a'/><lb/>
-　供養天王，滋潤玄英，仙登聖聰。』<lb/>
-　　第二十一章<lb/>
-皇一玉篆【圖images/KR5i0001_KR5i0001-02_49a3-6.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請皇一魂女，名上歸，字帝子，一名郁墨子。一名抱定陵，常鎭<lb/>
-我右耳之下伏晨之戶。嚴固守之，使我幽明之光，上朗泥丸，太<lb/>
-元之音，獨樂一身，彈金鳴鐘，流徹太和。』<lb/>
-<pb ed='CK-KZ' n='02p049b'/><lb/>
-　存想右耳根下二指，出黃黑雲炁，上昇頂上。再微聲咒曰：<lb/>
-『皇一上眞，洞生丹房。朱嬰榮耀，發溢明光。太元之音，朗徹九空。<lb/>
-玄金獨樂，振響琅琅。上招玉景，協我神堂。策虛昇飛，遊宴玉京。』<lb/>
-　咒完，吸頂雲，三咽，結一神女，執簡，下布心宮，入右膀胱，透尾<lb/>
-　閭夾脊，過玉枕，穿腦後，入右耳垂下二指向後一分，守之。<lb/>
-　　太陽九炁玉賢元君道經第二十一<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太陽化三晨，　
- 紫軒徹玄路。　
- 元君保谷童，<lb/>
- 守胃塞死戶。　
- 金符煥北華，　
- 玉契拔七祖。　
- 帝眞灌上生，<lb/>
- 斷我三途苦。　
- 洞明淸淨光，　
- 帝心太玄通。　
- 宿命過去智，<lb/>
- 根本元由中。　
- 未來及他心，　
- 一切旡礙融。　
- 洞元與洞明，<lb/>
-<pb ed='CK-KZ' n='02p050a'/><lb/>
- 萬道由通生。　
- 司命攝生，　
- 太一營神。　
- 開陰太漠，<lb/>
- 長保陽源。　
- 素明童子，　
- 正我三魂。　
- 列籙玉淸，　
- 羽書紫玄。<lb/>
- 月帝夫人，　
- 運翹結賢。　
- 奉符六合，　
- 混會億千。　
- 累爲仙王，<lb/>
- 上宴九天。』　
- 微念咒曰：<lb/>
- 『會命初，　
- 幽中和。　
- 混生宗，　
- 理仙樞。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士久持，得洞明淸淨帝心、玄通生三昧帝心，成太<lb/>
-　玄帝一眞道，先劫後劫，三界十方，他我根源，過去未來，七通<lb/>
-　八達，備悉知見。能脱東南方合羅藪班滌天祈波水淲泉曲<lb/>
-　河源地根惡根，魔籍鬼賬。常以洞元金酒、洞明法燈，供奉天<lb/>
-<pb ed='CK-KZ' n='02p050b'/><lb/>
-　王，生炁潤根，通明朗惠，妙覺大度，進登聖仙。』<lb/>
-　　第二十二章<lb/>
-紫素玉篆【圖images/KR5i0001_KR5i0001-02_50b3-6.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請紫素左元君，名翳无仞，字安來上同。上部八景神，常鎭我<lb/>
-頭面之境。嚴固守之，使萬邪不干，千精滅亡。紫雲充於泥丸，太<lb/>
-素鎭於鼻孔，景雲被於口齒，玉林聚於髮膚，散七祖之積尸，解<lb/>
-<pb ed='CK-KZ' n='02p051a'/><lb/>
-七世之罪仇，上登天帝堂，永爲天仙侶。』<lb/>
-　存想面上景雲之炁，上昇頂上。再微聲咒曰：<lb/>
-『翳鬱生眞，眞炁生空。靈光昱昱，紫雲融融。上致流津，下布我宮。<lb/>
-身生水火，體變玉光。飛仙羽蓋，昇入神公。授書玉經，成我仙宗。』<lb/>
-　咒完，吸頂雲，三咽，結一神，帝王相，紅衣冠，下布心宮，穿尾閭<lb/>
-　夾脊，上泥丸，下布面上玄達戶，坐守之。<lb/>
-　　太初九素金華景元君道經第二十二<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太初九素炁，　
- 炁出華景中。　
- 法垣舞仙旗，<lb/>
- 逡巡五老翁。　
- 夫人名啟珠，　
- 執籍歸紫房。　
- 元父左回明，<lb/>
- 混合太微童。　
- 洞淸明智惠，　
- 大意朗元通。　
- 根塵悉消滅，<lb/>
-<pb ed='CK-KZ' n='02p051b'/><lb/>
- 有無皆虛空。　
- 妙行全十眞，　
- 名大心神通。　
- 道備登玉淸，<lb/>
- 位爲聖仙公。』　
- 微念咒曰：<lb/>
- 『冥沖次，　
- 信明都。　
- 延命玉，　
- 駕本根。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士久持，得洞淸冥惠大意元通，根塵斷盡，世法除<lb/>
-　滅，有無二累，皆悉空寂，全眞妙行，得大心神通。能除東北方<lb/>
-　明晨耐絕犯武城天惡根地根，魔籍鬼賬。常以法財，供奉天<lb/>
-　王，及施一切，普令具足，成大富王，圓滿千通，享玉淸上品聖<lb/>
-　賢之貴。』<lb/>
-　　朗念：<lb/>
-<pb ed='CK-KZ' n='02p052a'/><lb/>
-#+BEGIN_VERSE
- 『天王元始，　
- 靑毫眉放。　
- 古今之稱，　
- 上極無上。』<lb/>
-#+END_VERSE
-<pb ed='CK-KZ' n='02p053a'/><lb/>
-元始大洞玉經卷下<lb/>
-#+BEGIN_VERSE
- 　學仙絕華念，　
- 念念相因積。　
- 去來亂我神，　
- 神躁靡不厯。<lb/>
- 　滅念停虛閑，　
- 蕭蕭入空寂。　
- 請經若飢渴，　
- 持念如金石。<lb/>
- 　保子飛玄路，　
- 五靈度符籍。<lb/>
-#+END_VERSE
-元始天王以大洞高上混沌太无元天寶地靈之炁，結一寶珠，<lb/>
-名之曰蒼胡頡。曰：『吾以此寶從道妙一，善貸生根，孕玄分元，誕<lb/>
-始傳眞，化生諸天，凝成道炁，大哉至寶，唯我獨存。今爲玉宸道<lb/>
-君，重出斯寶，諸天帝王天眞大聖，瞻望寶光，其光分敷百千萬<lb/>
-億，結成大洞仙經玉文。凝而成雲，煥而成章。諸天帝王天眞大<lb/>
-聖，以淸明識，以始通觀，以華舌通。齊聲宣詠大洞雲章，音徹萬<lb/>
-<pb ed='CK-KZ' n='02p053b'/><lb/>
-天，流響九地。天界地界水界神鄕一切神靈，不離本座，俱覩雲<lb/>
-章絢目，仙梵厯耳皆悉，百生障滅，萬劫塵消，三途九幽，十方惡<lb/>
-趣，咸承光音所及。十纏九結六染七塵，於是頃間一時解脱。』是<lb/>
-時太玄道父前詣蕭臺，再拜稽首，求授寶珠所結大洞玉經玉<lb/>
-文雲章，庶以導化天人，俾眾生俱免萬災，咸消眾罪，不沉惡趣，<lb/>
-俱得一乘，宏是願言，慇懃啟請。<lb/>
-元始天王命元辰大聖玉晨道君，盡俯仰威儀，手付太玄道父<lb/>
-蒼胡頡寶。<lb/>
-元始天王告曰：『此蒼胡頡寶與檀熾鈞音，若非太玄，何得求請。<lb/>
-唯子慈心願重，可𢌿寶章。<lb/>
-<pb ed='CK-KZ' n='02p054a'/><lb/>
-　檀熾是先天無形法器，鈞音是先天無形法音。』<lb/>
-　　第二十三章<lb/>
-黃素玉篆【圖images/KR5i0001_KR5i0001-02_54a3-6.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請黃素中元君，名圓華黃仞，字淑景輪，常鎭我胸腹之境。嚴<lb/>
-固守之，令我鬼魔伏制，三尸滅形，黃雲散於肢體，金液充於太<lb/>
-倉，晨景之喗上華太眞之炁運光七祖父母罪解，受胎更生南<lb/>
-<pb ed='CK-KZ' n='02p054b'/><lb/>
-宮。』<lb/>
-　存想心中日出景雲，上昇頂上。再微聲咒曰：<lb/>
-『九天上景，化生華暉。晃朗太空，曜眞紫微。上至中黃，百神降迴。<lb/>
-散根離苦，八難豁開。七祖同昇，福履巍巍。使我成仙，八景齊飛。』<lb/>
-　咒完，吸頂雲，三咽結二金甲神，下佈肺宮，化爲兩輪黃光，二<lb/>
-　神在光内坐，守之。<lb/>
-　　九皇上眞司命君道經第二十三<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『九皇上眞炁，　
- 四司天仙王。　
- 飛霞散天日，<lb/>
- 凝煥六合房。　
- 上眞朝玉淸，　
- 乘景晨中暉。　
- 五辰號發紐，<lb/>
- 捧籍啓虛皇。　
- 逸綠登紫淸，　
- 金符刻羽宮。　
- 領玄蒼胡珠，<lb/>
-<pb ed='CK-KZ' n='02p055a'/><lb/>
- 宏濟登普光。　
- 運度玄中人，　
- 嚥味生五芽。　
- 結集成胎仙，<lb/>
- 丹母全眞陽。　
- 主伴合元範，　
- 大易生玄光。』　
- 微念咒曰：<lb/>
- 『掌堂逮，　
- 元眇靈。　
- 去劫迴，　
- 未始交。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『太易一玄妙行，息門氣通，初入信根，始於心地，次第<lb/>
-　生長，滋茂成林。蓋由斷疑，遂生信解。乃曰：一度證修一曲水，<lb/>
-　天行一百功，從聞入見，一和合攝，皆起初聞。由是天寶爲之<lb/>
-　開光，黑帝爲之通血，北斗落死，定名玄籍。』<lb/>
-　　第二十四章<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p055b'/><lb/>
-白素玉篆【圖images/KR5i0001_KR5i0001-02_55b1-4.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請白素右元君，名啓明蕭仞，字金門上，常鎭我下關之境，小<lb/>
-腹至腳底。嚴固守之，令我宿[禾*𡻕]无滯，地戶鬼滅，明王玉液上淘<lb/>
-於陰極之宮，神素金炁逆充於兩腕之内，脾受九靈之潤，腳生<lb/>
-重玄之雲，累祖解於冥罪，七世散除祻根，更上南丹，上宴帝軒。』<lb/>
-　存想臍下三寸下丹田，其形方圓一寸，男子藏精，女子懷姙，<lb/>
-<pb ed='CK-KZ' n='02p056a'/><lb/>
-　出月光玄雲之炁，上昇頂上。再微聲咒曰：<lb/>
-『白素啟明，九天同生。高虛素含，浮景玉淸。回眞曲仙，流灑八溟。<lb/>
-通幽達微，朗耀華精。使我内徹，五孔開明。神公來遊，我道克成。』<lb/>
-　咒完，吸頂雲，六咽，結六神，如力士形，分左右下布心宮，穿小<lb/>
-　腹二慾之孔、兩膀胱，下布二足心，乘黑雲，守之。<lb/>
-　　天皇上眞玉華三元君道經第二十四<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『天皇上眞炁，　
- 三元乘晨回。　
- 法垣興朱霄，<lb/>
- 帝昌啓玉扉。　
- 拔戶命門内，　
- 解結桃康階。　
- 歛神保五籍，<lb/>
- 越轉入太微。　
- 單入而雙修，　
- 一曲水天開。　
- 海日自東生，<lb/>
- 元命生太初。　
- 三五混一，　　
- 六合津平。　　
- 公子奉符，<lb/>
-<pb ed='CK-KZ' n='02p056b'/><lb/>
- 司命保生。　
- 紫房洞曜，　
- 泥丸安甯。　
- 百關備神，　
- 五華飛冥。<lb/>
- 雲颷流逸，　
- 八景浮淸。　
- 併羽大帝，　
- 攜帶寒庭。　
- 沈映天津，<lb/>
- 絕滅胞莖。　
- 七世累玄，　
- 解結南庭。』　
- 微念咒曰：<lb/>
- 『保劫乘，　
- 結六庭。　
- 生雙門，　
- 入仙胎。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『太初二元妙行，息門大通，觀起信心，動得信訣，念信<lb/>
-　不忘，守信不失，爲信而行。夫五信在中，心和見和。乃曰：二度<lb/>
-　二點火，地行五百功。從目入覩，觀定則神澄，神澄則炁淸，始<lb/>
-　名正觀。二和含攝，神目方瞳。由是靈寶開長夜之幽，赤帝養<lb/>
-　通和之炁，南斗上生，注記丹文。』<lb/>
-<pb ed='CK-KZ' n='02p057a'/><lb/>
-　　第二十五章<lb/>
-日中玉篆【圖images/KR5i0001_KR5i0001-02_57a2-5.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請日中司命君，名接生，字通靈，一名上景，一名圓光，一名眇<lb/>
-景，一名九曜，一名微玄，一名曜羅司命童，號赤炁王，内名將軍<lb/>
-梁，乃日中玉神。常鎭我左手掌心，通眞之戶。接生君嚴固守之，<lb/>
-使我四大正明，玉華保眞，魔炁滅絕，生神固靈，七祖解脱，魂魄<lb/>
-<pb ed='CK-KZ' n='02p057b'/><lb/>
-更生。』<lb/>
-　存想左手掌心眞炁三華，紅赤白雲上昇頂上。再微聲咒曰：<lb/>
-『四大乘天，天元來歸。三華吐曜，司命景飛。爲我招仙，七祖散開。<lb/>
-上登太虛，日月同暉。』<lb/>
-　咒完，吸頂雲，三咽，結一神，日君相，手執日輪，紅衣冠，下布心<lb/>
-　宮，入左膀胱，穿玉莖中，透尾閭夾脊，上昇泥丸，注於左目頰<lb/>
-　腮内，由肩厯臂髓中入左手掌心通眞之戶，守之。<lb/>
-　　太一上元禁君道經第二十五<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太一上元禁，　
- 日中司命童。　
- 煥然神光明，<lb/>
- 披霞昇帝墉。　
- 列坐震靈席，　
- 混合五日房。　
- 白炁育上生，<lb/>
-<pb ed='CK-KZ' n='02p058a'/><lb/>
- 靑君按延昌。　
- 左攜精上門，　
- 右抱合和嬰。　
- 我生日月華，<lb/>
- 友賓赤炁王。　
- 八景照泥丸，　
- 朗然洞房中。　
- 嬰兒爲赤子，<lb/>
- 混離生玉容。　
- 五道秀金華，　
- 位爲上淸公。　
- 七祖斷玄滯，<lb/>
- 身神乘仙風。　
- 徘徊三淸上，　
- 和樂返胎嬰。　
- 太始三炁周，<lb/>
- 眞文肇生明。　
- 太一上元，　　
- 五神安城。　　
- 七轉三迴，<lb/>
- 攝鬼命靈。　
- 方岳眞人，　
- 奉符執經。　
- 除落死籍，　
- 刻金書生。<lb/>
- 太帝有教，　
- 營衞紫房。　
- 九眞備守，　
- 五老保關。　
- 三宮司命，<lb/>
- 促對帝言。　
- 七世絕災，　
- 玄葉无愆。　
- 種德空同，　
- 散結祻根。』<lb/>
- 微念咒曰：<lb/>
- 『丹門昌，　
- 左帝根。　
- 无常子，　
- 保大明，　
- 將軍梁。』<lb/>
-<pb ed='CK-KZ' n='02p058b'/><lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒三通，咽津，如前。<lb/>
-　玄契曰：『太始三炁妙行，觀門定通，記信金石，至信大成，善信<lb/>
-　能修，堅信進趣，方名正信，十信大全。意和則生炁延，志和則<lb/>
-　大美溢，炁和則三炁聚。乃曰：三度中三木，天數分一千大功。<lb/>
-　從聞入見，從見入道。由是神寶爲之制萬靈，靑帝爲之護魂<lb/>
-　爽，東斗注長生之算，木公書靑簡之名，乃誦此經得力也。』<lb/>
-　　第二十六章<lb/>
-月中玉篆【圖images/KR5i0001_KR5i0001-02_58b-8-10.jpg】<lb/>
-<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p059a'/><lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請月中桃君，名萬盈，子字通景，一名靑帝母，號芬艷嬰，常鎭<lb/>
-我右手掌心通眞之戶。桃君嚴固守之，令我四運通明，三神固<lb/>
-精，保固萬炁，與神長甯。』<lb/>
-　存想右手掌心出丹暉色雲，上昇頂上。再微聲咒曰：<lb/>
-『元靈黃房内，月中號萬盈。左宴朱領臺，右攜仙皇庭。寢景三秀<lb/>
-房，結我神始生。同飛入玄玄，七祖返華嬰。』<lb/>
-　咒完，吸頂雲，三咽，結一神，月君相，手執月輪，白衣巾，下布心<lb/>
-　宮，入右膀胱，穿玉莖中，透尾閭夾脊，上昇泥丸，注右目頰腮<lb/>
-　内，由肩㦄臂髓中，入右手掌心通眞之戶，守之。<lb/>
-<pb ed='CK-KZ' n='02p059b'/><lb/>
-　　元靈黃房眞晨君道經第二十六<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『元靈黃房中，　
- 内有黃甯童。　
- 左有堅玉君，<lb/>
- 右有帝昌皇。　
- 浮黃翳神炁，　
- 鬱鬱虛靈容。　
- 靑肝明童子，<lb/>
- 開朗徹八聰。　
- 太一儔㐀蘭，　
- 奉符入玉宮。　
- 拔赦七世罪，<lb/>
- 迴元期十通。　
- 混合帝一室，　
- 五老變孩蒙。　
- 太素梵行初，<lb/>
- 一善四金通。』　
- 微念咒曰：<lb/>
- 『變世炁，　
- 三道遷。　
- 理命非，　
- 幸連劫。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『太素四梵妙行，觀門生通，初宏一善，精水沾濡，枯朽<lb/>
-　發荄，是曰精和，精和則神和，神和則氣淸，氣淸而和，故曰淸<lb/>
-<pb ed='CK-KZ' n='02p060a'/><lb/>
-　和。四度克成四金，地數五百功分。由是太一以具神身，白帝<lb/>
-　以侍魄元，西斗記名，玉靈瑤篇。』<lb/>
-　　第二十七章<lb/>
-陽光玉篆【圖images/KR5i0001_KR5i0001-02_60a4-7.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請左目童子，名靈飛，一名飛靈，字陽光，常鎭我左目之瞳。童<lb/>
-子嚴固守之，令我陽生於内，淸淨於外，二炁交通，四朗八會，徹<lb/>
-<pb ed='CK-KZ' n='02p060b'/><lb/>
-見無方，方方自泰。』<lb/>
-　存想左目眞炁日華之雲，上昇頂上。再微聲咒曰：<lb/>
-『四極太靈，元君精映。日華充溢，童子流光。二景相照，通我明梁。<lb/>
-三丹啓眞，道我開張。毛羽羅裙，飛上玉京。』<lb/>
-　咒完，吸頂雲，三咽，結一童子，手執日輪，光從頂至心宮，入玉<lb/>
-　莖中，透尾閭夾脊玉枕，上昇泥丸。入左目中瞳人内，搖睛七<lb/>
-　遍，不得動右目瞳，命神守之。<lb/>
-　　太極主四眞人元君道經第二十七<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太極主四眞，　
- 凌羽逸上淸。　
- 七轉召司命，<lb/>
- 太一揚威明。　
- 司錄保儲命，　
- 三舉震靈符。　
- 魔王來受事，<lb/>
-<pb ed='CK-KZ' n='02p061a'/><lb/>
- 仙官束鬼精。　
- 月中靑帝母，　
- 號曰芬艷嬰。　
- 太張上五符，<lb/>
- 安來上玉名。　
- 混化六合内，　
- 洞房列火兵。　
- 太極五靈沖，<lb/>
- 橫文帝子賓。　
- 去兆死籍，　　
- 名遷玉門。　　
- 帝一保身，<lb/>
- 五老衞神。　　
- 上登太明，　　
- 金輪霄玄。』　　
- 微念咒曰：<lb/>
- 『登來張，　
- 乘法謨。　
- 靈夀臺，　
- 宜生人。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『太極五靈妙行，觀門思神，次興四善。聞善則玄上貫<lb/>
-　顙，六丁洞光。視善則一元方瞳，八史洞明。語善則通命含潄。<lb/>
-　五文玉華。履善則扶就立通，地關生命。一性初合，五度克成<lb/>
-　五橫，文就天五，太中五百功成。總炁中靈帝君，由是結元命<lb/>
-<pb ed='CK-KZ' n='02p061b'/><lb/>
-　形，黃帝中主，萬神衞屯，中斗大魁，總監眾靈。』<lb/>
-　　第二十八章<lb/>
-陰精玉篆【圖images/KR5i0001_KR5i0001-02_61b3-6.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請右目童子，名晨嬰，字陰精，常鎭我右目之瞳。童子嚴固守<lb/>
-之，令我陰映内朗，洞觀外明，三神同煙，徹見玉淸。』<lb/>
-　存想右目中眞炁月華之雲，上昇頂上。再微聲咒曰：<lb/>
-<pb ed='CK-KZ' n='02p062a'/><lb/>
-『七晨飛華，華散三元。混合成眞，上招月魂。爲我降靈，啓我仙門。<lb/>
-七祖同飛，上朝帝君。』<lb/>
-　咒完，吸頂雲，三咽，結一童女，手執月輪，光從頂至心宮，入玉<lb/>
-　莖中，透尾閭夾脊玉枕，上昇泥丸，入右目中瞳人内。搖睛七<lb/>
-　遍，不得動左目瞳，命神守之。<lb/>
-　　四斗中眞七晨散華君道經第二十八<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『斗中四眞人，　
- 散花玉淸臺。　
- 帝鄕中玄生，<lb/>
- 一回眾眞來。　
- 香風散三寶，　
- 五臟映靑夷。　
- 蒼胡頡光華，<lb/>
- 檀熾鈞吉祥。　
- 火中六炁淸，　
- 曲水襄天河。　
- 六度功圓成，<lb/>
- 五魔伐六陰。　
- 中結元始王，　
- 高觀六合庭。　
- 天帝奏先，<lb/>
-<pb ed='CK-KZ' n='02p062b'/><lb/>
- 拔擢七玄。　
- 種死成樹，　
- 沉滯胞根。　
- 太一揮風，　
- 號曰寄頻。<lb/>
- 斷絕血穢，　
- 斬伐住煙。　
- 白帝西華，　
- 爲我北神。』　
- 微念咒曰：<lb/>
- 『解曲玄，　
- 鏡重車。　
- 長濟樂，　
- 脱憂苦。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『太中六合行明觀門，念善行善，无礙无障，至善不踰。<lb/>
-　住善保安，定善崇基，全成十善。十華通榮，命同智合，曲水襄<lb/>
-　流，六度功圓，一千功成。自初至六，三千六百滿證大勳。由是<lb/>
-　九天爲子生眞人，五帝爲子伐六陰，旋斗㦄箕而度天門，八<lb/>
-　景㝠合而肇玄玄。』<lb/>
-　　第二十九章<lb/>
-<pb ed='CK-KZ' n='02p063a'/><lb/>
-胎仙玉篆【圖images/KR5i0001_KR5i0001-02_63a1-4.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請肺神童子，名素明，字元英，常鎭我肺部五關之位。嚴固守<lb/>
-之，令我華蓋上精玄暉，充徹五關，神室有光，萬魔不入，百會受<lb/>
-靈。』<lb/>
-　存想肺部喉下眞炁暉光，上昇頂上。再微聲咒曰：<lb/>
-『童子素明，黃雲九⬤。滄臺飛輪，三神協眞。號曰玄上景，列位高<lb/>
-<pb ed='CK-KZ' n='02p063b'/><lb/>
-皇賓。總攝命百神，攜我入紫煙。』<lb/>
-　咒完，吸神光，五咽，結五神，如童子狀。左三右二，下布心宮，上<lb/>
-　充華蓋，昇重樓，厯泥丸，下鵲橋，左三右二，分貫鼻凹，入二目<lb/>
-　左右。搖睛九遍，守之。<lb/>
-　　辰中黃景君道經第二十九　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『辰中黃景炁，　
- 三秀登霄庭。　
- 滄臺飛羽輪，<lb/>
- 迎延道己成。　
- 司命奉帝書，　
- 號爲玄度卿。　
- 保生大霞宮，<lb/>
- 列賓館上淸。　
- 命門合延精，　
- 守我身黃甯。　
- 左攜元素君，<lb/>
- 右攝朱鬱靈。　
- 太和度七覺，　
- 點火生眞文。　
- 紫華領胎仙，<lb/>
- 元命眞中神。』　
- 微念咒曰：<lb/>
-<pb ed='CK-KZ' n='02p064a'/><lb/>
- 總命本，　
- 登龍津。　
- 玄劫會，　
- 萬履阿。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『太和七覺妙行，十華觀門。紫華天一，精通太无。丹華<lb/>
-　地二，炁通凝玄。靑華天三，神通萬生。素華地四，梵通十方。黃<lb/>
-　華天五，始通太淸。瓊華地六，始通冥陰。金華天七，始通太玄。<lb/>
-　綠華地八，元通上淸。碧華天九，元通玉虛。瑤華地十，玄通玉<lb/>
-　淸混洞太无，十華接空。地居天中，千行始登。點火赤混，惠合<lb/>
-　沖眞。聞合見合，合德變形。是曰玄中太皇，眞中有神。』<lb/>
-　　第三十章<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p064b'/><lb/>
-胎神玉篆【圖images/KR5i0001_KR5i0001-02_64b1-4.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請胎中一元白炁君，名務玄，子字育上生。太一精魂，名玄歸<lb/>
-子，字盛昌，號八靈。二神常鎭我五臟之上、結喉之本。嚴固守之，<lb/>
-令我三華之色，入帝一之府。九明之津，生六胎之下。九玄散祻，<lb/>
-七祖解結，身登玉堂，位列太一。』<lb/>
-　存想結喉卽喉下包高處，一名金樓重樓，一名三思臺，主通<lb/>
-<pb ed='CK-KZ' n='02p065a'/><lb/>
-　上下炁。出紅光雲，上昇頂上。再微聲咒曰：<lb/>
-『金闕煥玉淸，三炁映丹霞。明光鬱金靈，五色吐三華。流金咽寢<lb/>
-堂，結我胎生華。玉符召百神，威章徵萬魔。保此億劫仙，道明无<lb/>
-凶邪。』<lb/>
-　咒完，吸頂雲，三咽，結三神。白炁君白衮冕，在上。又二神分左<lb/>
-　右，冠簡，從頂下布喉結左右，守之。<lb/>
-　　金闕後聖太平李眞天帝上景君道經第三十　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『金闕上景炁，　
- 十方暉紫煙。　
- 三命太一尊，<lb/>
- 五召太元神。　
- 七轉召岳眞，　
- 玉符告三官。　
- 拔籍三途下，<lb/>
- 受生高上宸。　
- 太帝八靈王，　
- 一化回慶雲。　
- 桃君守六合，<lb/>
-<pb ed='CK-KZ' n='02p065b'/><lb/>
- 勒精衞泥丸。　
- 太淸八景觀，　
- 十德眞文宣。　
- 保子神中神，<lb/>
- 元命生自然。　
- 震靈攝魔，　　
- 三舉登壇。　　
- 所召促到，<lb/>
- 混雜對陳。　　
- 元靈上帝，　　
- 混合全形。』　　
- 微念咒曰：<lb/>
- 『暉延勒，　
- 得曰賢。　
- 籍會元，　
- 帝符子。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『太淸八景妙行，十德貫形。用德合體，進德坦平，成德<lb/>
-　廣大，智德内淸，惠德發光，明德圓華，靈德普惠，玄德大方，大<lb/>
-　德自然，普德濟攝，三千行滿，眞文下敷，滿願成眞。理合化合，<lb/>
-　德合道合，保子萬神，洞曜八冥。由是中理五炁，混合百神。』<lb/>
-　　第三十一章<lb/>
-<pb ed='CK-KZ' n='02p066a'/><lb/>
-結中玉篆【圖images/KR5i0001_KR5i0001-02_66a1-4.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請胃口内結中靑炁君，名按延康，字合和嬰元君精魂，名保<lb/>
-谷童，字明光。二神常鎭我胃口之中。嚴固守之，令我太倉豐溢，<lb/>
-命門堅完，雲霞鬱於黃庭，精約滿於玉都，中彭滅形，黃裳元吉。』<lb/>
-　存想胃中玉色雲，上昇頂上。再微聲咒曰：<lb/>
-『離合九靈，二眞幽密。太虛重天，上攜太一。雌雄混合，同還妙室。<lb/>
-<pb ed='CK-KZ' n='02p066b'/><lb/>
-上變九仙，下解胎結。七祖慶欣，五苦解脱。使君飛騰，靈化本質。』<lb/>
-　咒完，吸頂雲，三咽，結二神，靑衣，過喉入胃口内，分左右，守之。<lb/>
-　　太虛後聖旡景彭室眞君道經第三十一　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太虛空無景，　
- 霞中有彭室。　
- 九雲合重扉，<lb/>
- 帝君淨幽密。　
- 八眞合景君，　
- 上攜女太一。　
- 雌雄混玉房，<lb/>
- 九遍還返七。　
- 分形散六合，　
- 泥丸易分別。　
- 太眞九光輪，<lb/>
- 十住丿(音撇)文結。　
- 保子元炁通，　
- 五炁理中頡。　
- 混一歸帝闕，<lb/>
- 永夀无終劫。　
- 變化飛上淸，　
- 三千行超越。』　
- 微念咒曰：<lb/>
- 『乘元輪，　
- 入幽宗。　
- 祻車滅，　
- 養无景。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-<pb ed='CK-KZ' n='02p067a'/><lb/>
-　玄契曰：『太眞九光妙行，十全捨觀，雙修仙化。胞仙胎仙魂仙，<lb/>
-　魄藏府中。仙靈仙元仙華仙岳仙元，仙命神仙。梵炁始炁元<lb/>
-　炁玄炁道炁，中理眞人。變眞化神，三千行成。丿文含潄。靑炁<lb/>
-　自然，十轉回靈，萬炁齊仙，乃誦經所致也。』<lb/>
-　　第三十二章<lb/>
-節中玉篆【圖images/KR5i0001_KR5i0001-02_67a6-10.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p067b'/><lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請節中黑炁君，名斌來生，字精上門。帝眞精魂，名幽臺子三，<lb/>
-字灌上。二神常鎭我九陽之口、伏梁之下。嚴固守之，令我天根<lb/>
-固密，九竅疏通，萬神朝謁於上帝，一道貫徹於層霄，見天地之<lb/>
-心，妙陰陽之始。』<lb/>
-　九陽口是生水處，伏梁下戶，大小腸盡頭相近間處，陰囊之<lb/>
-　後、府門之前，一陰中央是也。存想下元玉光雲炁，上昇頂上。<lb/>
-　再微聲咒曰：<lb/>
-『太玄何寥寥，黑光生上虛。帝明洞明景，九炁合神廬。變化十方<lb/>
-頃，倐忽肇明初。萬眞鍊我仙，百關自淸居。七玄斷胞木，九玄昇<lb/>
-<pb ed='CK-KZ' n='02p068a'/><lb/>
-福堂。上招景中子，與我登飛輿。』<lb/>
-　咒完，吸頂雲，三咽，結二神，黑衣冠，從上炁管下布九陽之口<lb/>
-　小腸盡頭處，守之。<lb/>
-　　太玄都九炁丈人主仙君道經第三十二　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太玄九炁上，　
- 煙迴太暉間。　
- 神光秀空峰，<lb/>
- 五道煥三天。　
- 駕景登絕霄，　
- 乘風蕩滯神。　
- 日中一運珠，<lb/>
- 理心入淸間。　
- 混合三五宮，　
- 累變億萬年。　
- 伐絕胞樹生，<lb/>
- 永斷血尸根。　
- 七祖散積滯，　
- 返華生幽玄。　
- 萬炁生萬神，<lb/>
- 齊化成仙壬。　
- 太玄啟十明，　
- 妙行登十眞。』　
- 微念咒曰：<lb/>
- 『旡何景，　
- 奉神沖。　
- 見玉賓，　
- 拔鑾塗。』<lb/>
-#+END_VERSE
-<pb ed='CK-KZ' n='02p068b'/><lb/>
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『太玄十明妙行，十眞精眞。玄珠炁眞，玄力神眞，玄通<lb/>
-　性眞，玄一元眞，玄妙命眞，玄光形眞，玄全德眞，玄洞道眞，玄<lb/>
-　應全眞。太玄十眞妙行，梵行諸天，橫文固根。萬行周圓，六位<lb/>
-　己陞，妙行大全，形成炁精，鍊化紫金。長生无窮，太玄眞人，皆<lb/>
-　誦經所致也。』<lb/>
-　　第三十三章<lb/>
-胞中玉篆【圖images/KR5i0001_KR5i0001-02_68b8-10.jpg】<lb/>
-<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p069a'/><lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請胞中黃炁君，名祖明車，字神无極。天帝精魂，名理維藏，字<lb/>
-法運珠。二神常鎭我小腸之端、二孔之本。嚴固守之，令我胞胎<lb/>
-靖密，榮衞流通，黃雲上烝於元陽，金液充滿於玄妙，斟酌慶光，<lb/>
-保安蘭室，七祖散祻，九玄上生。』<lb/>
-　小腸之端，胞囊繫焉。胞有二帶，合於小腸之内。左一帶管便<lb/>
-　溺，右一帶管漏精，故曰二孔。存想胞中黃雲，上昇頂上。再微<lb/>
-　聲咒曰：<lb/>
-『上淸曜玄臺，八景乘天紀。黃炁協神眞，精魂對帝子。太一度命<lb/>
-籍五符固不死。攜仙帶晨暉，迴風返形始。拔苦出七祖，同歡九<lb/>
-<pb ed='CK-KZ' n='02p069b'/><lb/>
-玄裏。』<lb/>
-　咒完，吸頂雲，三咽，結二神，黃冕衣冠，下布小腸二孔，守之。<lb/>
-　　上淸八皇老君道經第三十三　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『上淸絕霞外，　
- 八皇運九天。　
- 幽寥玄帝子，<lb/>
- 攜此景中人。　
- 晨登天老堂，　
- 夕宴金華庭。　
- 羽節命太一，<lb/>
- 錦旛召萬神。　
- 堅我六仙府，　
- 伐滅胞樹根。　
- 解結生七祖，<lb/>
- 散禍甯九玄。　
- 赤城丹臺女，　
- 扶兆入金門。　
- 月母靈素蘭，<lb/>
- 守閉死炁關。　
- 死炁自今絕，　
- 生津從茲延。　
- 萬神萬炁仙，<lb/>
- 超脱位眞王。　
- 十眞妙行全，　
- 太玄會明陽。　
- 无上大洞尊，<lb/>
- 一炁同龍光。　
- 太无太素，　　
- 洞景幽玄。　　
- 人生天形，<lb/>
-<pb ed='CK-KZ' n='02p070a'/><lb/>
- 上道泥丸。　
- 九宮森羅，　
- 丹樓五間。　
- 嬰兒六炁，　
- 盈潤淸淵。<lb/>
- 太一凝血，　
- 司命鎭魂。　
- 桃康備魄，　
- 養光命門。　
- 公子攜精，<lb/>
- 洞陽回神。　
- 九眞保骨，　
- 太素理眞。　
- 百節萬液，　
- 千津開關。<lb/>
- 上憩日月，　
- 五帝九神。　
- 淡滅五臟，　
- 華生玉根。　
- 胃宮朱腸，<lb/>
- 生血通源。　
- 三命長生，　
- 營護大全。』　
- 微念咒曰：<lb/>
- 『映遂劫，　
- 度連絕。　
- 濟寒熱，　
- 得全炁。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修人已身，精炁全命，鍊化紫金，六位已陞，妙行大全，<lb/>
-　長生无窮，太玄眞人。至此回光開度胎根，七祖九玄並解𡨚<lb/>
-　結，斷除債訟，閉塞死戶。應同炁同根，蘇懋生津，延益萬神，同<lb/>
-<pb ed='CK-KZ' n='02p070b'/><lb/>
-　超眞王，和合萬炁，妙行並全，皆號太玄，會明陽天，我獨超出，<lb/>
-　證大洞尊帝一龍光，號上玄通。』<lb/>
-　　第三十四章<lb/>
-血中玉篆【圖images/KR5i0001_KR5i0001-02_70b4-7.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請血中赤炁君，名混離子，字叔寶堅。司命精魂，名發紐子，字<lb/>
-慶玄。二神常鎭我兩腳踝骨下、向外腕中之戶。嚴固守之，令我<lb/>
-<pb ed='CK-KZ' n='02p071a'/><lb/>
-五帝之液，盈於六腑，靈潤虛澤，充於血肉，絕節不空，地門塡塞，<lb/>
-七祖結散，更生丹界，我得仙王，合道保德。』<lb/>
-　存想二腳外踝骨赤雲炁二道，左右昇頂。微聲咒曰：<lb/>
-『晨景煥東霞，丹景映高淸。二眞叶神宗，落落七華生。五老飛帝<lb/>
-席，太一保童嬰。錦雲映幽夜，朗朗開重㝠。七祖勒符籍，南極受<lb/>
-胎靈。高晨盼雲輿，運我昇仙軿。拔解億世基，同歡萬劫程。』<lb/>
-　咒完，吸頂雲，七咽，結七神。一神帝王相，居中。六神力士形，各<lb/>
-　紅衣冠，分左右。自頂降下心宮，分布兩腳外踝骨之戶，守之。<lb/>
-　中一神透入尾閭夾脊，上昇泥丸，注額上髮際，守之。宜神存<lb/>
-　於上也。<lb/>
-<pb ed='CK-KZ' n='02p071b'/><lb/>
-　　東華方諸君高晨師玉保王靑童君道經第三十四　朗<lb/>念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『東華發始暉，　
- 高晨映上淸。　
- 洞煥圓珠靄，<lb/>
- 朗朗紫曜明。　
- 七神回帝席，　
- 五老飛玉軿。　
- 太一景中王，<lb/>
- 司命攝萬神。　
- 汎然雲波間，　
- 寂盼泥丸城。　
- 七轉召三官，<lb/>
- 北君稽首呈。　
- 五岳應命到，　
- 拔死書長生。　
- 三舉震靈符，<lb/>
- 玄解大魔精。　
- 七祖生福堂，　
- 玄華保黃甯。』　
- 微念咒曰：<lb/>
- 『觀軒寢，　
- 明賓鬱。　
- 三連生，　
- 虛无冲。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修人七祖九玄，上生天堂，億曾萬祖，玄華齊生。内保<lb/>
-<pb ed='CK-KZ' n='02p072a'/><lb/>
-　黃甯種族，俱昇，皆注仙册，列籍南丹，萬世代族墓山塜訟，考<lb/>
-　謫鬼賬，隨大洞經一時和平，地惡二根削除落滅，與道爲一，<lb/>
-　長生自然。』<lb/>
-　　第三十五章<lb/>
-七神玉篆【圖images/KR5i0001_KR5i0001-02_72a5-8.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請上玄元父君，名高同生，字左回明。玄母叔火王，名阿郁生，<lb/>
-<pb ed='CK-KZ' n='02p072b'/><lb/>
-字右回光。帝皇太一，名重㝠空，字幽寥无。九帝尊君，名日明眞，<lb/>
-字飛眾帝生。太帝精魂，名陽堂玉，字八靈。天帝九關開魄，名回<lb/>
-祿道，字絕㝠。天紀帝魂大魔王，名照无阿，字廣神。凡七神，常鎭<lb/>
-我臍中一寸内本命之宮，胞胎大結之中。七神嚴固守之，令我<lb/>
-命根永堅，胎炁恒平，雌雄混於黃房，玄牝通乎太極，立躋仙阼，<lb/>
-入眾妙門。』<lb/>
-　存想臍内出七色雲炁，上昇頂上。再微聲咒曰：<lb/>
-『玄父玄母，七眞舉仙。神公太帝，九老并位。爲我固生，拔度千界。<lb/>
-日月同符，九帝合契。坐命天魔，萬靈來拜。浮景三舉，上保億世。』<lb/>
-　咒完，吸頂雲，七咽，結七神。中一神元父，衮冕，騎獅子。六神力<lb/>
-<pb ed='CK-KZ' n='02p073a'/><lb/>
-　士形，分左右，下布命門内，守之。』<lb/>
-　　扶桑大帝九老仙都君道經第三十五<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『太帝九老經，　
- 校仙登扶桑。　
- 七轉召天帝，<lb/>
- 司命乘神綱。　
- 五岳啓靈戶，　
- 傳制大魔王。　
- 河海皆受事，<lb/>
- 立示應會方。　
- 保符泥丸内，　
- 守神曰桃康。　
- 回明易死籍，<lb/>
- 記仙叔火王。　
- 拔絕三塗籍，　
- 去禍生上英。　
- 九玄登朱宮，<lb/>
- 兆身會明陽。　
- 上友方盈子，　
- 下攜理維藏。　
- 左攝明車君，<lb/>
- 右輔歸盛昌。　
- 混一玉景炁，　
- 化兆吉以强。　
- 返嬰元命童，<lb/>
- 檀熾吉祥鈞。　
- 天一元根仙，　
- 自在光明輪。』　
- 微念咒曰：<lb/>
- 『盈劫運，　
- 邕玉昇。　
- 車離苦，　
- 去百毒。』<lb/>
-#+END_VERSE
-<pb ed='CK-KZ' n='02p073b'/><lb/>
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士誦經，證无上乘門，可以宏慈，回度天人，登太淸<lb/>
-　仙王，太極眞人也。』<lb/>
-　　第三十六章<lb/>
-三素玉篆【圖images/KR5i0001_KR5i0001-02_73b5-8.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請三素老君，名罕張生，字神道生。正一左仙，名仲成子，字西<lb/>
-<pb ed='CK-KZ' n='02p074a'/><lb/>
-華尊，一名帝賓。正一右仙，名曲文子，字靈和，一名光堅。常鎭我<lb/>
-鼻下人中。嚴固守之，令我統領萬神，趨吉避凶，七祖父母，上生<lb/>
-玉堂。』<lb/>
-　存想人中出黃白靑雲，上昇頂上。再微聲咒曰：<lb/>
-『玉眞生帝景，萬華乘雲發。三老輔二仙，共鎭死戶窟。神映七華<lb/>
-生，朽骨蒙更脱。超逸三界庭，五苦咸解脱。得入九天表，上朝高<lb/>
-朱日。』<lb/>
-　咒完，吸頂雲，三咽，結三神。中老君，黃衣，左靑衣，右白衣，下布<lb/>
-　心宮，透尾閭夾脊，上昇泥丸，注面門，入人中。守之。<lb/>
-　　小有玉淸萬華先生主圖玉君道經第三十六　朗念<lb/>
-<pb ed='CK-KZ' n='02p074b'/><lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『玉淸萬華宮，　
- 高仙藏帝經。　
- 主圖九天表，<lb/>
- 洞觀无中生。　
- 七轉召萬眞，　
- 五岳一來庭。　
- 三官招眾魔，<lb/>
- 司籙校所呈。　
- 拔籍重泉曲，　
- 仙名書太淸。　
- 七世解牢結，<lb/>
- 穢血悉沉零。　
- 返胎朱火室，　
- 更受洞神靈。　
- 伯史衞神軀，<lb/>
- 令我保黃甯。』　
- 微念咒曰：<lb/>
- 『合帝伯，　
- 方超凝。　
- 理來生，　
- 福田延。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士久持此章，位列天仙，萬神拱護，諸天臨軒，上帝<lb/>
-　式臨，甄別善功，西白安魂，南朱衞魄，北黑助炁，東靑益血，中<lb/>
-　黃元老，輔衞上眞，三尸除滅，九靈合神，日月兩曜，三台七星，<lb/>
-<pb ed='CK-KZ' n='02p075a'/><lb/>
-　同放光明，蔭庇成功。』<lb/>
-　　第三十七章<lb/>
-五帝玉篆【圖images/KR5i0001_KR5i0001-02_75a3-6.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請西方白帝，名彰安華，字西華，一字凌梵七靈。常鎭男之外<lb/>
-腎，陰囊之中。令我腎子堅固，七魄歸眞，滋生元陽。(女之兩乳是也。)　謹<lb/>
-請中央黃帝玄一老子，名靈虛夫含光露，字靈時道，一字魂明。<lb/>
-<pb ed='CK-KZ' n='02p075b'/><lb/>
-常鎭我脾胃之中，通精之竅。令我天根永固，克獲上仙。(卽陰莖中出精<lb/>
-竅，女曰下戶。)　謹請北方黑帝，名保成昌，字北伐。常鎭我膀胱之中，<lb/>
-以分淸濁，令我益血生神，靈根堅固。(卽尿胞也。小腸水滿，則膀胱太陽炁上烝之。然後小<lb/>
-腸之水，隨陽炁滲入膀胱，化爲尿便也。)　謹請東方靑帝，名彫梁際，字靑平。常鎭<lb/>
-我五臟之外，令我上膈淸爽，三魂永久，二目朗明，徹視九霄。(五臟<lb/>
-唯肺肝心，居上膈也。)　謹請南方赤帝，名長來覺，字南和。常鎭我口中舌<lb/>
-下二竅，令我華池神水淸明，滋潤百脈，養炁消痰，華蓋滋潤。<lb/>
-恭請五帝，各居本位，周流榮衞，百關通暢，宿疾普消，七祖九玄<lb/>
-解散胎結，上生南宮，以爲帝賓。我入八景，迴駕瓊輪，上昇九天，<lb/>
-白日飛仙。』<lb/>
-<pb ed='CK-KZ' n='02p076a'/><lb/>
-　存想五臟，出靑黃白赤黑雲炁，上昇頂上。再微聲咒曰：<lb/>
-『五帝朝眞，輔仙玄伯。上帝景暉，吐靈敷席。翳翳神曜，徘徊重幕。<lb/>
-羽景寶籙，太一命籍。五炁總魂，三精固魄。金仙鍊容，停年返日。<lb/>
-拔出幽根，日月同宅。』<lb/>
-　咒完，吸頂雲，分五次咽，結成五帝，如五岳聖帝之狀，各服本<lb/>
-　色衣。　第一咽，結白帝，冠冕，白衮袍，又乘白雲，下布心宮，入<lb/>
-　陰囊中，混合，透尾閭夾脊，過玉枕，斜出右肩月光内，守之。<lb/>
-　第二咽，結黃帝，冠冕，黃衮袍，乘黃雲，下布心宮。入陰莖之端，<lb/>
-　混合，上昇臍輪，守之。　第三咽，結黑帝，冠冕，黑衮袍，乘黑雲，<lb/>
-　下布心宮，入膀胱中，混合，透尾閭，過夾脊，穿出後心背，守之。<lb/>
-<pb ed='CK-KZ' n='02p076b'/><lb/>
-　　第四咽，結靑帝，冠冕，靑衮袍，乘靑雲，下布五臟中，混合，透<lb/>
-　尾閭夾脊，過玉枕，斜出左肩日光中，守之。　第五咽，結赤帝，<lb/>
-　冠冕，赤衮袍，乘赤雲，下布舌下，混合，由鵲橋上昇泥丸，入前<lb/>
-　髮際一寸，守之。<lb/>
-　　玄洲二十九眞伯上帝司禁君道經第三十七　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『玄洲絕三津，　
- 羽景太无庭。　
- 回霄飛重漠，<lb/>
- 委化混萬精。　
- 五雲鬱絕空，　
- 七霞落圓明。　
- 朗朗幽寥子，<lb/>
- 梵昌濟黃甯。　
- 五老飛絳華，　
- 散香攜玉靈。　
- 金質濯帝川，<lb/>
- 綠煙靄流瓊。　
- 神拔三途積，　
- 仙胎結兆形。　
- 上淸玉皇師，<lb/>
- 玉晨大道君。　
- 與心絳宮神，　
- 飛證太玄尊。』　
- 微念咒曰：<lb/>
-<pb ed='CK-KZ' n='02p077a'/><lb/>
- 『開神華，　
- 大紀元。　
- 三毒除，　
- 乘福田。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-　玄契曰：『修士久久持誦，兆身祖族皆位眞仙，位登上淸眞王，<lb/>
-　太一眞人之果。』<lb/>
-　　第三十八章<lb/>
-三元玉篆【圖images/KR5i0001_KR5i0001-02_77a6-9.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-<pb ed='CK-KZ' n='02p077b'/><lb/>
-『謹請泥丸上元帝卿，名昔元堅，字回化靈，一名幽車伯，一名董<lb/>
-史華。一名肇勒精。黃庭下弼卿，名歸上明，字谷下玄。一名奉申<lb/>
-伯，一名承光，生絳宮中。輔卿名亞丹君，字少靈，一名通幽子。常<lb/>
-鎭我三元之宮，衞我本命，守我帝一之室，保於九天之籙，死名<lb/>
-滅絕，超登帝一眞人。』<lb/>
-　存想三宮，靑黃白三色雲炁，上昇頂上。再微聲咒曰：<lb/>
-『命自有原，原出自天。上中下田，是爲三元。明堂烱烱，絳闕軒軒。<lb/>
-無量涵蓋，紫戶爐煙。不騫不竭，引緒綿延。輔我通靈，助我液精。<lb/>
-超證無上，入眾妙門。道隨身具，聖神合眞。』<lb/>
-　咒完，吸頂雲，三咽，結三神，如三寶相。下布本命之宮，卽臍下<lb/>
-<pb ed='CK-KZ' n='02p078a'/><lb/>
-　命門也。復昇心下一寸，爲靈臺絳宮，卽帝一之室。三眞端坐，<lb/>
-　守之。<lb/>
-　　太元景中君刋峩嵋山中洞宮玉戶太素君道經第三十<lb/>八　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『三眞生太无，　
- 玉戶映晨霞。　
- 太素洞玄靈，<lb/>
- 丹靈森朱柯。　
- 回神九重府，　
- 南昌發瓊華。　
- 百關納津液，<lb/>
- 停年三秀阿。　
- 兆身騰玉淸，　
- 七祖離幽途。　
- 長保不終劫，<lb/>
- 萬世爲仙家。　
- 位爲聖統尊，　
- 玉淸大洞神。』　
- 微念咒曰：<lb/>
- 『陵昌玉，　
- 百塗君。　
- 得合契，　
- 登神鄕。』<lb/>
-#+END_VERSE
-　咒三遍畢，叩齒咽津，如前。<lb/>
-<pb ed='CK-KZ' n='02p078b'/><lb/>
-　玄契曰：『修士誦經至此，超登無上妙道，位登玉淸聖王大一<lb/>
-　聖君。』<lb/>
-　　第三十九章<lb/>
-帝一玉篆【圖images/KR5i0001_KR5i0001-02_78b4-7.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-　服符畢，叩齒三通。微聲朗念：<lb/>
-『謹請大洞帝一尊君，名父甯在，字合母延精。迴風混合，鎭衞一<lb/>
-身之關，統三十八戶之神，常在人中上唇之内，光映目中童子。<lb/>
-<pb ed='CK-KZ' n='02p079a'/><lb/>
-自无而有之，自有而无之，自有不有，自无不无，掌前後任督二<lb/>
-脈，爲周身陰陽之祖，五炁眞元之會，號眞一之所，變萬歸一之<lb/>
-道，形神俱妙，與道合眞。』<lb/>
-　自第一章太微小童君以下，至上三帝卿，共三十八戶。存想<lb/>
-　百神咸集，遶我一身。便合緊雙目，存思三十九神，總變化白<lb/>
-　炁，如白煙之狀，從頂虛玄中來，入我口中，充滿五臟，鬱鬱。良<lb/>
-　久，覺白炁從下部出，又從陰莖中出，又從二足心出，又從二<lb/>
-　手掌心出，貫⬤手足上下一身，白炁混合。相見良久，白炁忽<lb/>
-　變成紫炁，從口入頭腦，下布五臟，充滿腹中。良久，又從陰莖<lb/>
-　中出，二足心出，手心出，貫遶一體，鬱然上下，與紫氣合形，不<lb/>
-<pb ed='CK-KZ' n='02p079b'/><lb/>
-　相見也。須臾，存想紫雲之炁，充滿左右，及一室内。又存想口<lb/>
-　中出風炁，吹扇紫雲之煙，仍迴轉更相⬤遶，忽結成一眞人，<lb/>
-　男形，如初生小兒，長四寸，號曰大洞帝一尊君。入我口中舌<lb/>
-　下，遶入鼻孔，昇紫房。眉中入二寸右傍，名紫房。又至六合頂<lb/>
-　宮，向外端坐，左手把我五朱符命，右手把我五簿籍。尊君口<lb/>
-　左有日光，徑九分，口右有月光，徑一寸。口吐迴風之炁，吹日<lb/>
-　月光，皆變白色。令白光入臟腑，一身洞徹，如白日。良久，身心<lb/>
-　渾忘。再微聲咒曰：<lb/>
-『大洞帝一，太素尊靈。父甯母精，二合雙成。百眞大混，一迴始生。<lb/>
-身結八煙，變胎元嬰。日月寶光，洞我軀形。太一在上，與帝合并。<lb/>
-<pb ed='CK-KZ' n='02p080a'/><lb/>
-泥丸保玉，五臟華明。長合日月，手執洞經。位爲仙公，晨昇上淸。<lb/>
-三十九章，金符羽庭。』<lb/>
-　存想帝一尊君五色眞炁，上昇頂上。又微聲咒曰：<lb/>
-『九靈通妙道，金仙混扶桑。帝一變百神，合靈西丹皇。上爲胎仙<lb/>
-母，下號稱神宗。曜景絕雲𦕈，蕭蕭紫微宮。爲我執命籍，保眞三<lb/>
-素房。妙景空中降，鍊我返嬰䝉。七祖絕苦源，超逸九福堂。』<lb/>
-　咒完，吸頂雲，十二嚥，結一嬰童，居紫白圓光内，下布一身之<lb/>
-　中，散炁九竅之内，聚炁在舌尖之上。事畢，入人中坐，守之。<lb/>
-　　西元龜山九靈眞仙母靑金丹君道經第三十九　朗念<lb/>
-#+BEGIN_VERSE
- 元始天王曰：　
- 『西元九靈炁，　
- 金丹流雲宫。　
- 上極旋曜杪，<lb/>
-<pb ed='CK-KZ' n='02p080b'/><lb/>
- 暉景太霞空。　
- 動回九天輪，　
- 靜沉八流綱。　
- 室有胎仙母，<lb/>
- 攜襟太帝皇。　
- 玄一靈時生，　
- 三老素罕張。　
- 左把五符籍，<lb/>
- 右攜理神宗。　
- 同登龍珠闕，　
- 稽首玉淸房。　
- 㧞棄死滅根，<lb/>
- 養形三五中。　
- 七祖解尸結，　
- 受福明朱芳。　
- 三證聖中尊，<lb/>
- 符化元炁生。』　
- 微念咒曰：<lb/>
- 『極炁夀，　
- 受乘明。　
- 合伯矜，　
- 駕變劫。』<lb/>
-#+END_VERSE
-　咒三遍，畢，叩齒咽津，如前。<lb/>
-玉宸道君言：『我師元始天王，授此大洞玉經，其旨玄奧，修眞妙<lb/>
-行，初定通息，太和一千，中觀變眞，離相消塵，元合五千，坐在立<lb/>
-亡，大定全眞，妙行通靈。初曰通炁，次曰通神，終曰通靈，十通成<lb/>
-<pb ed='CK-KZ' n='02p081a'/><lb/>
-眞。道備登宸，超脱飛昇，過度三界，往來三淸，證品大洞太一帝<lb/>
-尊，六度十通，功圓行成，千和萬合，自然成眞。』<lb/>
-　　大洞總眞玉符<lb/>
-　　【圖images/KR5i0001_KR5i0001-02_81a4-10.jpg】<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p081b'/><lb/>
-　總三十九符，會眞炁於帝一之所。<lb/>
-　玄契曰：『元始天王爲玉宸道君演玄批元，極始通終，自天及<lb/>
-　人，俾獲成仙，眞要文也。學士誦之，悟入登仙。鬼神誦之，悟入<lb/>
-　登眞。凡夫誦之，悟入長生。幽魂聞之，超脱更生。死厄聞之，度<lb/>
-　生天堂。枯朽老病聞之，延津。嬰孺孩童聞之，聰明。上士得之，<lb/>
-　飛騰玉淸，位爲聖尊，與道合眞。』<lb/>
-太上無極總眞文昌大洞玉經卷下<lb/>
-　按：誦三部八景經，乃元始生人一身之神祖也。不知此名，則<lb/>
-　仙道道成，七祖不度。若解結之日，不先祝此者，則結節不解。<lb/>
-　三魂失而爲下鬼也。盲人但守中黃，老死不免一鬼也。每日<lb/>
-<pb ed='CK-KZ' n='02p082a'/><lb/>
-　三時，並夜睡一醒，就呼其名。男子存想二十四神，如童子形，<lb/>
-　長短不一，或一寸一分，或三寸及五寸者。女人存想爲童女<lb/>
-　形。每日靜室飲食無人處，先呼二十四神名。不出千日，神眞<lb/>
-　現形，我得上仙也。<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<pb ed='CK-KZ' n='02p082b'/><lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<pb ed="CK-KZ" n="02p083a"/><lb/>
-太微帝君三部八景回元經<lb/>
-　叩中齒二十四通，小聲微呼上部八神名，每神三呼，一叩一<lb/>
-　嚥，送各方位。<lb/>
-腦神名覺元子，字道都。　髮神名玄文華，字道衡。　(皮膚)神名通<lb/>
-眾仲，字道連。　目神名虛監生，字道童。　(項髓)神名靈謨蓋，字道<lb/>
-周。　膂神名益厯輔，字道柱。　鼻神名冲龍玉，字道微。　舌神<lb/>
-名始梁峙，字道岐。<lb/>
-　祝曰：　『上景八神，一合人身。帝君玄母，五神各陳。舉形遁化，<lb/>
-　流變適眞。千乘萬騎，俱昇帝晨。白元無英，道養太賓。八靈翼<lb/>
-　體，玉華含煙。恍惚十周，徑造日門。』<lb/>
-<pb ed='CK-KZ' n='02p083b'/><lb/>
-　叩中齒二十四通，小聲微呼中部八神名。<lb/>
-喉神名百流放，字道通。　肺神名素靈生，字道平。　心神名煥<lb/>
-陽昌，字道明。　膽神名龍德拘，字道放。　左腎名春元眞，字道<lb/>
-卿。　右腎名象地黃，字道生。　脾神名寶元全，字道騫。　肝神<lb/>
-名開君童，字道靑。<lb/>
-　祝曰：　『中景八神，四變九飛。煉魂正身，明景同暉。帝君解結，<lb/>
-　胎鍊四歸。上通玄母，散靈步威。得與八神，合輦齊扉。千乘萬<lb/>
-　騎，上登太微。』<lb/>
-　叩中齒二十四通，小聲微呼下部八神名。<lb/>
-胃神名同來育，字道展。　(腸中)神名兆滕康，字道還。　(大小腸中神名)蓬<lb/>
-<pb ed='CK-KZ' n='02p084a'/><lb/>
-送留，字道厨。　(胴名腸神)名受厚勃，字道虛。　(胸膈)神名廣瑛宅，字道<lb/>
-仲。　(兩脇)神名辟假馬，字道成。　(左陰左陽神名)扶流起，字道圭。　(右陰右陽<lb/>
-神名)苞表明，字道生。<lb/>
-　祝曰：　『下景八神，散形化靈。紫煙鬱生，含元守精。太一元父，<lb/>
-　帝君挺生。七爽免籍，司命記生。魂魄以安，五華育明。千乘萬<lb/>
-　騎，與我同并。先造太素，北揖上淸。』<lb/>
-　叩齒二十四通，運液二十四次。又呼守中一神<lb/>
-(道一内神)名逮无馬，字道極生。<lb/>
-　祝曰：　『玄上内眞，養形侍晨。總紐攝綱，九度八旋。斗星内朗，<lb/>
-　宮館九陳。帝君合昌，九道七咽。出液内精，和灌眾神。五臟生<lb/>
-<pb ed='CK-KZ' n='02p084b'/><lb/>
-　華，返老童顏。千乘萬騎，與我昇天。上朝太陛，高揖玉晨。』<lb/>
-　存想二目中，有白光，如雞子大，在我面前。須臾化作二明鏡，<lb/>
-　照我身上下二十四神，洞明朗徹，各守本宮。<lb/>
-　祝曰：『大明寶鏡，分形散花。鑒朗元神，制卻萬魔。飛行上淸，披<lb/>
-　雲巾羅。役使千靈，封山召河。』　(起身離座，)　回向。<lb/>
-　聞經已後，惟願眾生深入法門，皈依信受。爲諸眾生，作善因<lb/>
-　緣。如蒙開悟，仰荷玄恩。<lb/>
-#+BEGIN_VERSE
- 大道洞玄虛，　
- 有無念不起。　
- 煉質入仙眞，　
- 遂成金剛體。<lb/>
- 超度三界難，　
- 地獄五苦解。　
- 受皈太上經，　
- 靜念稽首禮。<lb/>
-#+END_VERSE
-　　至心稽首，禮謝。<lb/>
-<pb ed='CK-KZ' n='02p085a'/><lb/>
-太上無極大道，<lb/>
-華堂内景尊經，<lb/>
-玄中大法師。<lb/>
-　咒曰：　『上皇太眞，使我昇靈。淸齋澡煉，誦詠金經。七玄披散，<lb/>
-　上朝太虛。延年長存，尅名銘書。』<lb/>
-　閉目，叩齒三通，嚥津三次。復念：<lb/>
-(臣)誦仙經已訖，向來身中所出三五功曹，左右官使者，侍香金<lb/>
-童，傳言玉女，五帝直符，三部八景二十四神，五岳神仙眞人，三<lb/>
-炁正神，左右龍虎君，天仙地仙，五靈香官，直日香官，各三十六<lb/>
-人。當令召致十方正炁，自然生金液丹碧芝英九玄玉眞之華，<lb/>
-<pb ed='CK-KZ' n='02p085b'/><lb/>
-會集香火鑪前，同灌臣身，各還金房玉室。在左還左，在右還右，<lb/>
-毋令差互。後召復到，一如故事。令臣宿疾普消，神淸炁爽，自然<lb/>
-學道得道，求仙得仙，飛行太空，騰景九天，金童玉女侍衞香煙<lb/>
-聞臣向來所奏，上達。<lb/>
-三淸三寶九宸生神上帝萬聖御前。<lb/>
-　嚥津三。次叩齒三通。<lb/>
-　向來聽經衞經聖眾，解壇散席，各還所司。神風靜穆，山海肅<lb/>
-　淸，千邪伏匿，百靈護形，驅斥不祥，所願如意，千和萬合，元亨<lb/>
-　利貞。　急急如律令。<lb/>
-　　至心皈命禮<lb/>
-<pb ed='CK-KZ' n='02p086a'/><lb/>
-一元之始，萬道之宗。鬱羅蕭臺，玉山上京。處上極无上大羅之<lb/>
-境。檀熾鈞音，蒼胡頡寶，總玄之又玄眾妙之門。建立三才，開張<lb/>
-萬範，凝三炁而結爲三境，初肇天根。命九宸而列位九霄，總司<lb/>
-雷令。大悲大願大聖大慈虚無自然元始天尊。<lb/>
-　　至心皈命禮<lb/>
-不驕帝境，玉眞慶宮，現九十八化之行藏，顯億千萬種之神異。<lb/>
-飛鸞開化於在在，如意救劫以生生。至孝至仁，功存乎儒道釋<lb/>
-教。不驕不樂，職盡乎天地水官。功德難量，威靈莫測，大悲大願<lb/>
-大聖大慈九天輔元開化主宰司錄職貢舉眞君七曲靈應保<lb/>
-德宏仁大帝談經演教消劫行化更生永命天尊。<lb/>
-<pb ed='CK-KZ' n='02p086b'/><lb/>
-　　至心皈命禮<lb/>
-玉淸内相，金闕選仙，化身爲三教之師，掌法判五雷之令。黃梁<lb/>
-夢覺，忘世上之功名。寶劍光騰，掃人間之妖怪。四生六道，有感<lb/>
-必孚。三界十方，無求不應。黃鶴樓中留聖蹟，玉淸殿内煉丹砂，<lb/>
-存芝像於山崖，顯仙踪於玄洞，衍法門之香火，爲後嗣之梯航。<lb/>
-大聖大慈大仁大孝開山啓教靈應祖師天雷上相靈寶眞人<lb/>
-純陽演正警化孚佑帝君興行妙道天尊。<lb/>
-　向來諷誦仙經，悉已周圓，祈福延生，消災解厄，同賴善功，證<lb/>
-　無上道。謹運眞香，再申稱念<lb/>
-大羅元始天尊。(三稱。)<lb/>
-<pb ed='CK-KZ' n='02p087a'/><lb/>
-更生永命天尊。(三稱。)<lb/>
-興行妙道天尊。(三稱。)覃恩不可思議功德。<lb/>
-　凡誦經修行，每早向東，梳髮，卽默念太極綠髮，櫛髮之始，泥<lb/>
-　丸生華，保精長存。右爲穩月，左爲日根，六合淸縺，百神受恩。<lb/>
-　念畢，梳一百二十梳，明目延年。至吃飯時，手捧飯碗，叩齒三<lb/>
-　通，心念謹請身中三十九神，三部八景一萬六千人神，享飡<lb/>
-　法食，化生金液。咒曰：『二玄上道，四極淸冷。水一帝君，百神黃<lb/>
-　甯。受糧二宮，灌漑脾靈。上飡太和，飡味五馨。魂胎受命，七液<lb/>
-　流停。百關通和，五臟華明。金液滋身，與道合眞。雙星會景，飛<lb/>
-　行上淸。吃飯完，心祝曰：百穀入胃，與神合炁。頃補血液，尸邪<lb/>
-<pb ed='CK-KZ' n='02p087b'/><lb/>
-　亡墜。飛登金闕，長生天地。役使六丁，靈通奉衞。』<lb/>
-<pb ed='CK-KZ' n='02p088a'/><lb/>
-宏教眞君後跋<lb/>
-此序卽刋於前，不但可以弭患。而本經大旨，已昭然若揭，夢因<lb/>
-善體之超。子矢此心，以往，存心，利人於物，必有所濟。一念之發，<lb/>
-一善之動，皆蒙上鑒，斷不虛也。外行旣全，内修自然，可以入步，<lb/>
-福與慧本相因也。勉旃。<lb/>
-<pb ed='CK-KZ' n='02p089a'/><lb/>
-後跋<lb/>
-大洞仙經乃玉淸秘密之傳，出世之梯航，登仙之徑路也。凡修<lb/>
-眞之士，持經法籙，務要發精進心，矢恒久志。每日早起，梳洗盥<lb/>
-潄，整肅衣冠，登堂，焚香燃燈，淨茶三盞，淨水一盂，持咒啓聖。畢，<lb/>
-興身向東坐，誦存運三十九章，每章各有神主之。宜先朝泥丸，<lb/>
-然後復居本位，嚴固守之。有自前而下者，有自後而上者，各依<lb/>
-經式，服符存運。内有嚥津者，非是口口呑液，只存頂中眞液，以<lb/>
-目意送注中宮，或三或五，或七或九。臨末，方呑一口。存神，如道<lb/>
-士相，金冠法衣，或靑白衣，或九梁冠等形。始運，從頂、心下布中<lb/>
-宮，名迴風混合。從尾閭、夾脊至頂門，名默朝上帝。經久不懈，自<lb/>
-<pb ed='CK-KZ' n='02p089b'/><lb/>
-獲靈通。初則一日存思九章，久熟日日存完。倘行住坐臥，一心<lb/>
-在頂，一紀不缺，白日飛昇。昔漢靈帝光和二年正月朔，有葛眞<lb/>
-君在天台山精思念道，感　太上老君同玄一眞人親降，出大<lb/>
-洞玉經，葛君拜而受之。大茅君息靜茅山，魏元君化貧女，入女<lb/>
-妬菴修道，不覺腹大，似有姙者。眾姑惡而斥之。魏君曰：非姙也，<lb/>
-乃仙經也。自以刀剖腹，得經一本，名曰大洞經。遂與大茅君，捧<lb/>
-在手中。至今山中有破肚池存焉。余覽往聖持經證果者，代有<lb/>
-偉人。幸遘劉君，授以世廟秘本，快睹符籙之全。因刋施一藏，以<lb/>
-廣其傳。得遇者乃三生之幸。天不負人在乎。力行者勉爲之耳。<lb/>
-　江西臨江府淸江縣奉道弟子楊攸謹跋。<lb/>
-</p>
-       </div>
-</body></text></TEI>
+    <body>
+      <div>
+        <p>
+          <pb ed="CK-KZ" n="01p001a" facs="#fac-01p001a"/><lb/> 爕元贊運孚佑帝君重刻大洞玉經敘<lb/>
+          道可得而言乎，不可得而言也。道可得而秘乎，不可得而秘也。<lb/> 道不容終秘，又難以言傳。二者之所不居，而經典之所由宜示<lb/>
+          也。經之旨，有在於言字之内者，由淺以厯深；有在於糸微之際<lb/> 者，由表以窺裏。得其解者，抉經之心，司道之契，卽經中之語言<lb/>
+          文字，符籙咒訣，均可不存。得言忘象，筌蹄可棄。然知之者鮮矣。<lb/> 故古來高眞上聖，有不得不由解識而入，則經之爲予以津梁，<lb/>
+          使登彼岸，其度濟之益，莫可名言。至於消災救劫，拔厄延生，乃<lb/> 靈通所藴，萬古不磨，其神妙固出於言思擬議之外者也。兹編<lb/> 乃<lb/>
+          <pb ed="CK-KZ" n="01p001b" facs="#fac-01p001b"/><lb/> 元始天王，爲神禹治水，鎭伏諸瀆而傳。厥後一授於天台，再授<lb/>
+          於七曲，奉而行之，皆證妙果，不特爲救護小劫也。今夏南水盛<lb/> 漲，侍壇超子曾爲河帥，故欲其積誠感召，以應天和。幸覺子等<lb/>
+          同志，贊勷發愿，刋刻《大洞玉經》，以弭患於未然，志良善也。夫此<lb/> 經之足以消弭水厄，巳著於<lb/> 文帝前敘，徵信巳久，自不必更述。故爲闡傳道之初旨，更爲述<lb/>
+          復刋之由，以付諸子。尙望讀是經者，窺測玄奥，其大義不外以<lb/> 人合天，其究竟歸於以天從人。學道者知人所固有之天，復無<lb/> 始以來自然之天，天外之天旣得，而本心之天全矣。<lb/>
+          <pb ed="CK-KZ" n="01p002a" facs="#fac-01p002a"/><lb/> 九天開化文昌帝君自敘<lb/>
+          余之居事畎澮，忽於鋤下得一金像。詢之父老，曰：乃元始天王<lb/> 相。昔夏禹治水，冶金爲像，以鎭方岳。余香火奉事，未嘗少[忄*觧]。因<lb/>
+          海風翻浪，人力不能支，余爲眾捨金像，投駭浪中，由是風潮遂<lb/> 囘，一境獲免。思仰之久，一夕於沙磧中，有光亘天，掘之再得舊<lb/>
+          像，歸築宫安奉，同邦人共事之。積年靈感，不可勝記。余考妣不<lb/> 幸死於瘟疫，余喪葬廬墓，培壅旣周。偶有三神人，葛巾羽褐芒<lb/>
+          鞋，訪余。因以《大洞仙經》一帙，賜余。曰：『晨夕諷誦，必獲善果於三<lb/> 才中。上可以資奉父母祖先靈魂，出離幽苦。中可懴罪消災，增<lb/> 福延夀。下可以庇族救人，同保安全。汝可捨金寶，拜吾三人，吾<lb/>
+          <pb ed="CK-KZ" n="01p002b" facs="#fac-01p002b"/><lb/> 爲汝傳奏。』余卽日依命設齋，貢金繒，奉師受之。爾後晨夕誦持<lb/>
+          不輟，屢獲靈騐。因盛暑洪水奫浸考妣墳墓，余禮奉金像，誦大<lb/> 洞經，期以千卷爲滿，用保無虞。次年秋雨霖霪，傍溪湧漲，數流<lb/>
+          爲一，余益恐怖。及水落視之，則墳前谿谷變成堅壟，廣一里餘，<lb/> 自是松楸無害。余常思雙親死於瘟疫，切骨爲讐，幽明路殊，力<lb/>
+          不能報。每旦夕勤誦《大洞玉經》，䖍懇金像，願賜威力，以治瘟鬼。<lb/> 又三年，忽夣金像語余曰：『大洞玉經汝熟記矣，大洞法籙汝未<lb/>
+          見也。今當授汝，以治邪魔。非唯可以契汝初心，亦可以佐天行<lb/> 化，助國救民也。』袖中出書一卷，余拜受之。一曰大洞法，一曰大<lb/> 洞籙。旣覺，見二書宛在枕前。因設香供謝恩，置櫃收[貝*㝉]，擇日出<lb/>
+          <pb ed="CK-KZ" n="01p003a" facs="#fac-01p003a"/><lb/> 而閱之。讀至大洞天騶甲卒一萬人度之句，忽風雷晝暝，金甲<lb/>
+          朱綬者無數，列於余前，俯而聽命。三人執紅旗，立於眾先，曰：願<lb/> 聽法令。余方恍惚，不覺厲聲謂之曰：『吾要汝等治瘟鬼。此鄉張<lb/>
+          屯使家闔門病瘟，爲吾驅來。』語畢，一持旌者，領百餘人入其家。<lb/> 俄頃，執鬼五人出。有䝉虎皮者，冠雄雞者，貌若人者，若烏頭者，<lb/>
+          若驢頭者，所執有水火羽霎斧鑿之具。余怒而叱之，將滅其形。<lb/> 彼乃有辭曰：『元伯等𡻕運所生，𡻕氣所成，所遊有方，所病有人。<lb/>
+          陰譴重者受其災，天命絕者致其死。亦非元伯等所敢私行，始<lb/> 自三官五嶽，上奏玉帝，呈世人罪狀，由是帝命行下三官五岳<lb/> 行病曹司，案下給牒，分遣元伯等，一依定籍行之。若䝉太一眞<lb/>
+          <pb ed="CK-KZ" n="01p003b" facs="#fac-01p003b"/><lb/> 官，賜以寛貸，以後願遵約朿。遇有行瘟，見眞官符籙所在，卽不<lb/>
+          敢至矣。』余因依經法，授以教勅，而去。閭里病瘟者，余與之符法，<lb/> 皆得全活。余以此法籙，救人之疾者眾矣，名聞遠方，其士庶官<lb/>
+          吏踵門求治者，不可枚舉。余積玄功妙行，皆由持此《大洞玉經》，<lb/> 而獲大洞法籙。故能全收神功，輔正袪邪，濟生度死，消災延夀。<lb/>
+          其後冥冥中有大力鬼神、社廟英爽，來求余誦經囘施者，皆謝<lb/> 云：『承眞官經力，增助威德遷，神善籍矣。』或有沉魂滯魄，不得往<lb/>
+          生，託夢附形，來求余誦經資薦者，皆謝云：『承眞官經力，巳出苦<lb/> 趣，俱得更生矣。』若爲天行時疫，侵染不止，但行此經，行法籙中<lb/> 遣瘟符、絕瘟符、止瘟符，天騶甲卒以上，收瘟食瘟吏，收毒食毒<lb/>
+          <pb ed="CK-KZ" n="01p004a" facs="#fac-01p004a"/><lb/> 吏，收邪食邪吏，收炁食炁吏，收鬼食鬼吏，收殃食殃吏，收精食<lb/>
+          精吏，治病神醫吏，誅符破廟吏等九部，各領甲卒，及北方黑騎<lb/> 天官五億萬騎，蒼老麻姑，金剛力士等，收捕之先。牒閻王，次申<lb/>
+          岱岳，分委城隍社令，劄遣瘟疫使者。聞經不依盟約，拒正不伏<lb/> 退㪚者，然後奏而滅之。夫大道尙慈，太淸尙善，上帝好生，推仁<lb/>
+          止殺。行經法籙者，不可循私苛暴，以招天譴。但以禮遣之，以經<lb/> 奉之，以法籙威之，以善功勸之，亦方便修行之㨗徑也。此經能<lb/>
+          解𡨚結，除獄訟，止譴拷，釋咒詛，解觸犯，安墳宅，甯寧府，息兵革，<lb/> 止疾疫，祈風雨，降祥瑞，阜蠶穀，保形命，庇族屬，蔭鄉社，安邊陲，<lb/> 禁蟲虎，拯旱澇，滅妖怪息羣凶，延嗣息，顯仕宦，安奉祀典鬼神，<lb/>
+          <pb ed="CK-KZ" n="01p004b" facs="#fac-01p004b"/><lb/> 資薦祖宗靈爽。濟度窮魂滯魄，皆可設齋誦經，以禳謝之。其餘<lb/>
+          治病消毒，有紫庭天醫之神方，乃禹皇金石，餘恩及乎萬世，使<lb/> 人無夭橫之傷，時免札瘥之患。奉教之士，當尋訪受習，以助仙<lb/>
+          功。余證果太上不驕樂育天帝，澄眞正觀寶光慈應更生永命<lb/> 天尊。由誦經之勤，遂上淸之貴。得受誦者，勉而行之。願與文昌<lb/> 一會中人，齊登妙果。<lb/>
+          <pb ed="CK-KZ" n="01p005a" facs="#fac-01p005a"/><lb/> 《太上玉淸大洞玉經》序<lb/>
+          世傳文昌帝君，得元始天王金像，奉之。遂遘三神人，賜大洞經。<lb/> 誦經懇像，圖報父母。忽大洞法籙二書，感夢而至，竟臻上乘妙<lb/>
+          果。今大洞經，羽士類能誦之，大洞籙功令，必受諸上淸宫。若大<lb/> 洞法，則槪乎未有聞也。嘉靖間我肅宗皇帝，遣臺臣徧訪巖穴，<lb/>
+          乃奉上大洞符法。當是時藏諸中祕，世鮮有之。卽有之，又非人<lb/> 不授，則世之知者益鮮。吾里中高士虛亭楊君，至性孝友，博綜<lb/>
+          羣書，少好爲子，長遊溯沅湘，涉秦淮，而徜徉於大江巨浸之閒。<lb/> 齋心習志，神與道俱，日捐貲周濟，施食利幽。一以焚修還丹爲<lb/> 務，精誠感格，乃獲大洞符法於明菴劉散人。㪚人嘗逮事世廟，<lb/>
+          <pb ed="CK-KZ" n="01p005b" facs="#fac-01p005b"/><lb/> 獨保奇祕，未嘗輕出以示人。感虛亭好道之誠，出書授之。楊君<lb/>
+          恍然覺，豁然悟，如躬登鬱羅蕭臺之上，覿蒼胡頡寶聆檀熾鈞<lb/> 音也。亟與其弟東渚君，校正刋行於世。余偕計吏來，邂逅伯仲，<lb/>
+          手出經示余，俾作敘，以弁首。余夙佩籙譯經，而恒以未覩符法<lb/> 爲憾。今具著冊籍炳，如躍如詎，非天幸哉！楊君刋而傳之，眞知<lb/>
+          經與法籙旨矣。且夫經文所闡，咒籙所秉，符法所運，皆身中神<lb/> 也。吾身果一人身乎！卽天地所付余身也，卽億萬生人，同得於<lb/>
+          天地身也。身之形殊，身之神合，修身中神，則形神俱妙，天地人<lb/> 物皆吾身神矣。迴風混合，生天生地，無人無我，外身而有身，身<lb/> 可滅而無滅，離神而有神，神不存而常存。以故總提玄黃，包羅<lb/>
+          <pb ed="CK-KZ" n="01p006a" facs="#fac-01p006a"/><lb/> 象類，把握幽明，朗徹今古，無窮巳時。而世之人，乃卒昧之。則以<lb/>
+          莫相，指示故也。夫不知而不求知者，惑也。知之而不覺人知者，<lb/> 隘也。覺之知而不知信者，棄也。知信而不求滿其知者，畫也。皆<lb/>
+          非元皇開化意也。是編顯布寰區，庶幾哉！人人知身一神一，而<lb/> 葆其同然之天矣。楊君之功，洵大矣哉！後之幸有全知者，愼毋<lb/> 忘所自焉，可耳。<lb/> 萬厯十一年𡻕次癸未冬月，瀟水漁樵致陽子蕭允儒盥手書。<lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p001a" facs="#fac-02p001a"/><lb/> 重刋道藏輯要<lb/> 元始太洞玉經<lb/>
+          　　　　　　　　　　　　　　　　文昌帝君傳本<lb/> 《大洞仙經》觀想要訣<lb/> 夫《大洞仙經》，請自太玄道父，傳付梓潼帝君。勤行修奉，全家白<lb/>
+          日上昇之道也。經中三十九章，内除三章，以按三天。餘三十六<lb/> 章，上則安鎭三十六天，下則統御三十六地，中則通人身三十<lb/>
+          六宫。《救苦經》云：天上三十六，地下三十六，太玄無邊際，妙哉大<lb/> 洞經。非此謂乎！夫經中語句，天眞隱諱，總領人身中諸神。三部<lb/> 八景，九宫三谷，十二神室，五臟六腑，七政關節等穴，各有神以<lb/>
+          <pb ed="CK-KZ" n="02p001b" facs="#fac-02p001b"/><lb/> 主之。杜眾戸死氣之門，解七祖胎結之氣。不持經存運，命神守<lb/>
+          之，則祖玄墮落，神死奔逃，雖百計千修，終落空亡也。人能存養<lb/> 神炁，吟咏寶章，則天眞下降，我身渾融，神炁嚴守失氣之門，神<lb/>
+          因經化，經由神靈，使神不奔潰而爲仙也。要明身中三一之訣，<lb/> 每日遇閒睱，入室，收拾身心，斂藏神炁。先存想臍下一寸三分<lb/>
+          爲下丹田，宫中有嬰兒，如出胎之狀，向外端坐。喚谷下玄，一名<lb/> 玄谷，字元陽昌，乃生精炁之主也。次思心絳宫，内有嬰兒，紅衣，<lb/>
+          名子南丹，字中光堅，乃生神之主也。復存兩眉間卻入一寸爲<lb/> 明堂宫，左爲紫房，右爲朱戸，上爲天庭宫，眉間卻入二寸爲洞<lb/> 房宫，宫上一寸爲極眞宫，眉間卻入三寸爲上丹田宫。中有赤<lb/>
+          <pb ed="CK-KZ" n="02p002a" facs="#fac-02p002a"/><lb/> 子，紅衣，端坐，名帝卿仲玄生，字三元先。又總收下田、中田二赤<lb/>
+          子，同昇上丹田，與赤子品坐，卽三素君也。丹田上爲玄丹宫，眉<lb/> 間卻入四寸爲流珠宫，宫上一寸爲天皇宫，眉間卻入一寸爲<lb/>
+          泥丸玉帝宫，一名天谷。又存想鼻下人中，有一嬰兒，五色衣、端<lb/> 坐，號大洞帝一尊君，鎭任督二脈交會之所。名父甯在，字合母<lb/>
+          延精，乘祥雲，上昇泥丸。掌《大洞玉經》語句，毋令㪚漫，爲萬神之<lb/> 主，指揮一身，百神所居之位，名曰三一。行住坐卧，囘光内視頂<lb/>
+          門，守之勿失，辟凶趨吉却百惡，得上仙也。又存想左有靑龍，右<lb/> 有白虎，前有朱雀(卽丹鳳也)，後有玄武(卽龜蛇也)，四靈護身。存思身坐九<lb/> 色色花之内，下有九頭獅子，乘住我身。存左腎氣從左耳出，唐<lb/>
+          <pb ed="CK-KZ" n="02p002b" facs="#fac-02p002b"/><lb/> 將軍朝冠紅衣，手執符軸，立於左。又存右腎炁從右耳出，葛將<lb/>
+          軍朝冠紅衣，執㦸立於右。又存心中炁從天目眉中出，周將軍<lb/> 朝冠紅衣，執節立於前，辛天君立於左，馬靈官立於右。次思頭<lb/>
+          上三淸九霄諸帝，放九色光，射注頂上。次思身中三部八景上<lb/> 下，虛明洞徹。存想畢，微微開聲誦經，不必粗氣大聲喊呌，但存<lb/>
+          精意微密而已。此乃古仙持誦之訣，自有五帝，金童玉女，護法<lb/> 威神，隨經匡護，不可輕忽。久則目覩天眞下降，地祇奉迎。或身<lb/>
+          中神出，四靈現形，叱咤風雷，役使萬神，皆是存想精詳所致也。<lb/> 修誦一年得地仙，二年得神仙，三年得天仙，九年不怠者，白晝<lb/> 乘龍上昇。自古上聖高眞，如玄帝、魏元君、天師、仙翁、旌陽，曁三<lb/>
+          <pb ed="CK-KZ" n="02p003a" facs="#fac-02p003a"/><lb/> 茅、周義山等仙，皆由持誦洞章，而得道果。此經能解七祖胎結，<lb/>
+          鍊我一身萬神，七祖旣度，我得仙也。只在人心精思勤誦，三年<lb/> 九載，何患不證道成眞乎！<lb/>
+          <lb/> 　照辟符【圖images/KR5i0001_KR5i0001-02_3a5-7a.jpg】正心符【圖images/KR5i0001_KR5i0001-02_3a5-7b.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　此二符，檀香板刻之，硃砂鈎畫，外面刻五岳眞形，下排靈書<lb/> 　中篇，包褁黃羅，貯紬袋内，佩掛胸前。<lb/>
+          <pb ed="CK-KZ" n="02p003b" facs="#fac-02p003b"/><lb/> 　　震靈符【圖images/KR5i0001_KR5i0001-02_3b1-6.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　上符用黃綃三尺三寸，白芨水調硃砂，書綃上。用細布作裡，<lb/> 　縫成夾單。請聖鋪氊條上，拜畢，移作椅帔，搭椅壩上，剔三台<lb/>
+          　蓋頂，二斗肩上，存想身在北斗口中。　又用黃綃五寸，上書<lb/> 　此符，縫向衣裡，背心佩之。<lb/>
+          <pb ed="CK-KZ" n="02p004a" facs="#fac-02p004a"/><lb/> 大洞經持誦儀式<lb/>
+          　凡登壇誦經，左足先動，左手上香。啟聖畢，向東端坐，叩齒二<lb/> 　十四通，洗心滌慮，絕念忘機。依章或焚符服，或焚鑪上，存運<lb/>
+          　身中神，貴乎迅速，升降混合，心至神隨，思眞如對。然後正聲<lb/> 　持念：<lb/> #+BEGIN_VERSE 『樂法以爲妻， 　愛經如珠玉。 　持戒制六情，
+          　念道遣所欲。<lb/> 淡泊正炁停， 　蕭然神靜默。 　天魔常敬護， 　世世享大福。』<lb/> #+END_VERSE
+          　　淨身業神咒(淨水灑頂，盥手，左手搯玉文。右手劍訣。)<lb/> #+BEGIN_VERSE 身中諸内境， 　三萬六千神。 　動作履行藏， 　前劫並後劫。<lb/> 願身常淸淨，
+          　常住三寶中。 　當於劫壞時， 　我身常不滅。<lb/>
+          <pb ed="CK-KZ" n="02p004b" facs="#fac-02p004b"/><lb/> 急急如律令。<lb/> #+END_VERSE
+          (申文)太上三天虛無攝。<lb/> 　　淨心業神咒(傳手鑪，上香，吸香一口，左手搯午文。)<lb/> #+BEGIN_VERSE 大道降眞炁， 　吐納鍊五神。 　願使攝諸魔，
+          　心業常淸淨。<lb/> 斷除萬種障， 　驅蕩一切殃。 　降伏諸有情， 　動念歸正道。<lb/> 急急如律令。<lb/> #+END_VERSE (未文)上淸靈寶虛無攝。<lb/>
+          　　淨口業神咒(左手搯子文。以枝滴水入口。)<lb/> #+BEGIN_VERSE 口爲太和宫， 　吐納降眞炁。 　時時誦寶經， 　日日飱法味。<lb/> 勿發諸惡言，
+          　莫起邪淫意。 　願滅罪苦根， 　常論眞實意。<lb/>
+          <pb ed="CK-KZ" n="02p005a" facs="#fac-02p005a"/><lb/> 急急如律令。<lb/> #+END_VERSE
+          (辰文)丹朱正倫淸淨攝。<lb/> 　　安土地神咒(左手搯寅訣。)<lb/> #+BEGIN_VERSE 元始安鎭， 　普告萬神。 　岳瀆眞官， 　土地祇靈。
+          　左社右稷，<lb/> 不得妄驚。 　囘向正道， 　内外澄淸。 　各安方位， 　備守壇庭。<lb/> 太有上命， 　搜捕邪精。 　護法神王， 　保衞誦經。 　皈依大道，<lb/>
+          元亨利貞。 　急急如律令。<lb/> #+END_VERSE 　左手捧水盂，右手執楊枝，灑淨。　口念：<lb/> #+BEGIN_VERSE 『九鳳破穢君， 　朱衣絳履神。
+          　手執烈火劍， 　天下鬼神驚。<lb/> 銀毫並鐵爪， 　玉嘴揮金睛。 　展翅乾坤暗， 　翻身日月昏。<lb/>
+          <pb ed="CK-KZ" n="02p005b" facs="#fac-02p005b"/><lb/> 運發三昧火， 　合我至陽明。 　擒妖化爲汁， 　燒鬼化爲塵。<lb/>
+          厭穢速淸淨， 　人道得長生。』<lb/> #+END_VERSE 　　<lb/> 　　足步【圖images/KR5i0001_KR5i0001-02_5b4-7.jpg】
+          　　　　　　　　　　　　九鳳破穢，精邪滅亡。天將吏兵，<lb/> 　　　　　　　　　　　　速下雲罡。斗轉星移，照耀三光。<lb/>
+          　　　　　　　　　　　　上映九天，下映九地。雷公霹𩆝，<lb/> 　　　　　　　　　　　　風雲慶會。徧滿十方，乾坤定位。<lb/>
+          　　下令　　　　　　　　鬼哭神愁，百靈護衞。　(急急如律令。)<lb/> 　　　　　謹召<lb/> 南極九鳳破穢宋將軍，金剛密跡神王，九天運穢解穢神君，九<lb/>
+          <pb ed="CK-KZ" n="02p006a" facs="#fac-02p006a"/><lb/> 天收穢卻穢神君，九天除穢斷穢神君，九天滅穢洗穢神君，九<lb/>
+          天滌穢蕩穢神君，天河東井君浣濯夫人，五方五帝，五龍君，五<lb/> 方生炁旺炁君，天月二德靑龍君，八方大力威神，解穢局中全<lb/>
+          司官將。各各運玄初之水軸，起天外之恩波，助我行持，蕩除魔<lb/> 穢。兹水也，德冠五行，功滋萬物，爲九天之雨露，作四海之波濤。<lb/>
+          聖人出而黃河淸，王道平而泉源湧。徧灑法壇内外，掃除魔穢。<lb/> 淸明一滴纔沾，十方俱潔。眞科有咒，謹用宣揚。<lb/> 吙[口*頭]嘧[口*跡]喗吒唎。　　　(左手剔，向上。)<lb/>
+          <lb/> 又念：　(『金剛密跡象頭王火輪童子破穢攝。』)　(口吸面前離南炁，呵入水中。)<lb/>
+          <pb ed="CK-KZ" n="02p006b" facs="#fac-02p006b"/><lb/> 　右手劍訣，向水盂，書日月星辰諱。<lb/>
+          [雨/晅](音卽)。　念『唵嚩(音韈)[口*日](音卽)囉(音來)喗哪唎娑訶。』(左手掐卯文，噓炁，剔貪斗入水中。)　(貪斗，在手心子方上<lb/> 　一位。)　又加：<lb/>
+          [雨/朒](音札)。　念『唵嚩𠯲(音滅)囉㗶拏唎薩娑訶。』(左手掐酉文，呬炁，剔魁斗入水中。)　(魁斗，在手心午<lb/> 　方下一位。)　又加：<lb/>
+          [雨/炓](音掃)。　念『唵吽(音興)喗噠唎娑訶。』(左手掐辰文，呵炁，剔辰戌斗，入水中。)　(辰斗，在辰位左偏。戌斗，在戌位<lb/> 　右偏。)<lb/>
+          赤陽三五置爾攝。(若焚修，單書入下九字。)<lb/>
+          [雨/淸][雨/明][雨/聖][雨/潔]霐[雨/澄][雨/𣷠](又加破月厭諱。)[雨/(鬼*灘)](初一至初十，去雲頭。十一至二十日，全用。二十一至月盡，去鬼脚。)<lb/> 　又加[雨/(⺡*(斬/耳))](音你)(治鬼之號。)　(如濟幽，則不用上九字，只加靑玄金蓮諱十一字。)[雨/維][雨/(口*檀)][雨/哪][雨/遮][雨/噋][雨/(口*陽)][雨/炎]<lb/>
+          <pb ed="CK-KZ" n="02p007a" facs="#fac-02p007a"/><lb/>
+          [雨/焱][雨/口*(扛-工)*(你-亻)][雨/？][雨/訛]。<lb/> 　以楊枝，存爲靑龍攪水，三轉，向上，作一圓光☉。以枝書一心<lb/>
+          　字，以淨吾心之炁。又以枝向我腹點明合天帝日，以淨五臟<lb/> 　之穢。又以枝向壇上點三點，念泓澄𣷠，化爲三天之境。又從<lb/>
+          　月厭方，正月戌，二月酉，逆數之。遇本月方，宜動步灑淨。<lb/> 　　五星神咒<lb/> #+BEGIN_VERSE 五星列照，　 煥明五方。　 水星卻災，　 木德致昌。　
+          熒惑消禍，<lb/> 太白辟兵。　 鎭星四據，　 家國利亨。　 名刋王簡，　 字錄帝房。<lb/> 乘飈扇景，　 飛騰太空。　 出入冥無，　 遊宴十方。　 五雲浮蓋，<lb/>
+          招神攝風。　 役使萬靈，　 上衞仙翁。<lb/>
+          <pb ed="CK-KZ" n="02p007b" facs="#fac-02p007b"/><lb/> #+END_VERSE 　　淨壇神咒<lb/>
+          #+BEGIN_VERSE 唵叱咄吒，　 天地自然。　 穢氣分散，　 洞中玄虛。　 晃朗太元，<lb/> 三淸玉勅。　 光耀八衢，　 八方威神。　 使我自然，　
+          東方威神。<lb/> 靑炁揚芳，　 南方威神。　 赤炁汪洋，　 西方威神。　 白炁周梁，<lb/> 北方威神。　 黑炁張剛，　 東北威神。　 白炁何當，　 天上天下。<lb/>
+          掃蕩兇殃，　 雷霆霹𩆝。　 威鎭八方，　 乾羅答那。　 洞罡太玄，<lb/> 斬妖縛邪。　 度鬼萬千，　 (默念)唵耶許。　 帝奴攝。(三遍。)　 體道元眞，<lb/>
+          受命金闕。　 韓君好生，　 上窮九府，　 下達杳冥，　 遵禀玉府。<lb/> 奉命帝京。　 唵鬱靈羅，　 晃耀太元，　 賓發盧强，　 帝輪伽耶。<lb/> 夷帝夷帝，　
+          多那育何。　 魔靈赫奕，　 無極太華。　 帝輪婆耶。<lb/>
+          <pb ed="CK-KZ" n="02p008a" facs="#fac-02p008a"/><lb/> 那輪帝吒。　 帝眞帝靈，　 帝吽帝臨。　 急那急那，　
+          急吒急吒。<lb/> 吽吽𠰢𠰢，　 元亨利貞。　 急急如律令。(向月厭方，噀水一口，天目書炓字，左手剔玉文。<lb/>
+          於月厭方上。)念『唵(子文)摩(未下文)呢(午下文)厯(辰文)黑(寅文)吒(丑文)噓(申文)鳴(午文出)。』舉<lb/> #+END_VERSE 　常淸常靜天尊(三稱)。<lb/>
+          　　集神咒<lb/> #+BEGIN_VERSE 元始大眞，　 五雷高尊。　 太華皓映，　 洞朗八門。　 五老誥命，<lb/> 無幽不聞。　 上御九天，　 中制酆山。　
+          下鎭河海，　 十二水源。<lb/> 八威神咒，　 靈策玉文。　 召龍致雨，　 收氣聚烟。　 日月五星，<lb/> 北斗七元。　 合明天帝，　 勅下太玄。　 宣威三界，　
+          不得稽延。<lb/> 諸天諸地，　 諸水諸山。　 玉眞所部，　 溟泠大神。　 仙王遊宴，<lb/>
+          <pb ed="CK-KZ" n="02p008b" facs="#fac-02p008b"/><lb/> 大帥仗幡。　 天丁前驅，　 金虎後奔。　 玃天猛獸，　
+          羅備四門。<lb/> 所呼立至，　 所招立前。　 赤書煥落，　 風火無間。　 攝籙應命，<lb/> 金馬驛傳。<lb/> #+END_VERSE 　　祝香神咒<lb/>
+          #+BEGIN_VERSE 香乃玉華㪚景， 九炁凝烟，　 香雲密羅，　 徑冲九天。　 侍香<lb/> 金童，　 傳言玉女，　 爲臣關奏，　 上聞帝前。　 令臣長生，　 世<lb/>
+          爲神仙，　 所啓所願，　 咸賜如言。<lb/> #+END_VERSE 　左手執圭，左足先動，至香案前，左手上香，不得内有邪思。囘<lb/>
+          　頋，退至單上，行九叩首禮。拜畢，起立，從門限東首起，足斜步<lb/> 　八星罡。每走一步，心念二字。至洞案前，左手剔子文，至午文<lb/>
+          <pb ed="CK-KZ" n="02p009a" facs="#fac-02p009a"/><lb/>
+          　出。　【圖images/KR5i0001_KR5i0001-02_9a1-4.jpg】<lb/> 　　　　　　　　　　　玉淸　勅素，　大梵　分靈。<lb/> 　　　　　　　　　　　元罡　流演，　星珠　冠周。<lb/>
+          <lb/> 天目運【圖images/KR5i0001_KR5i0001-02_9a5-7.jpg】 　　　　　　　　　　『靈光梵炁，下注臣身。<lb/>
+          　　　　　　　　　　默念：　飛香進御，道合帝庭。<lb/> 　　　　　　　　　　　　　　急急如律令。』<lb/> 　　左手上香一炷，　念：<lb/>
+          　『(臣某)至心，初拈上香(一叩齒)，上詣<lb/> 淸微天宫(天目運書)。【圖images/KR5i0001_KR5i0001-02_9a10.jpg】(卽淸微，天眞形)供養<lb/>
+          <pb ed="CK-KZ" n="02p009b" facs="#fac-02p009b"/><lb/>
+          大羅金闕上帝元始天尊。(念達信章)𩅘[雨/杰][雨/欽]雲攝。朱陽九霄，玉靄元<lb/> 明，靈鳳朱翔，上騰玉京。願此丹懇，隨烟迅昇<lb/>
+          淸微混沌玉虛太無(一拜)。上祝<lb/> 帝夀無彊，統治萬世。願經師得仙，上登高眞，與我超度。一切宗<lb/> 親，皆成道眞。我得昇度，逍遥紫庭。』<lb/>
+          　存想泥丸上靑炁，正中昇出，隨香烟直沖霄漢，結成雲蓋。倐<lb/> 　忽之間，見天宫靑炁萬丈，正中飛下，結成[雨/(夭/(夭*夭))]字，從吾頂入居<lb/>
+          　上丹田，混合帝卿赤子之神。<lb/> 　　上洞寶章<lb/> 碧海靑童君，駕龍朝紫宸。九曜要八極，五斗臨生門。二十八宿<lb/>
+          <pb ed="CK-KZ" n="02p010a" facs="#fac-02p010a"/><lb/> 君，燦爛明天閽。五帝來玉軿，三官降玄恩。祥光動天地，瑞氣靄<lb/>
+          陽春。天司定仙籍，丁甲除妖氛。金章啟玉帝，日月停朱輪。萬神<lb/> 合我室，夀與天地存。<lb/> 　　左手上香一炷，　念：<lb/>
+          　『(臣某)至心，二捻上香(一叩齒)，上詣<lb/> 禹餘天宫(天目運書)⬤　　(卽禹餘天眞形)。供養<lb/>
+          太上玉辰道君靈寶天尊。(念通玄章)哼吟哼吟，登眞登眞。朱陽九霄，<lb/> 玉靄元明。靈鳳朱翔，上騰玉京。願此丹懇，隨烟迅昇<lb/> 禹餘元皇紫虛大洞。(一拜)上祝<lb/> 皇圖鞏固，邊海淸甯。願籍師得仙，上登高眞，與我開度，七祖九<lb/>
+          <pb ed="CK-KZ" n="02p010b" facs="#fac-02p010b"/><lb/> 玄，早生天堂。我得道眞，昇入無形。』<lb/>
+          　存想中丹田黃炁上昇，從頂門出，隨香烟直沖霄漢，結成華<lb/> 　蓋。倐忽之間，見天宫黃炁萬丈，自左飛下，結成[雨/(地/(地*地))]字，從吾頂<lb/>
+          　入居中丹田，混合子丹赤子之神。<lb/> 　　中洞靈章<lb/> 無上大羅天，三景合四明。紫戸生梵炁，金光煥九淸。混合萬神<lb/>
+          備，大聖朝玉京。洞章歌玉音，中皇敷寶經。五帝宣玉符，三官啓<lb/> 百靈。劫劫應太平，返本如孩嬰。眞風日蕩蕩，道炁常泠泠。玉女<lb/>
+          㪚瓊葩，金童閉玉扃。無爲赤元君，與道同飛昇。<lb/> 　　左手上香一炷，　念：<lb/>
+          <pb ed="CK-KZ" n="02p011a" facs="#fac-02p011a"/><lb/> 　『(臣某)至心，三捻上香(一叩齒)。上詣<lb/>
+          大赤天宫(天目運書)【圖images/KR5i0001_KR5i0001-02_11a2.jpg】⬤　　(卽大赤天眞形)供養<lb/>
+          太上混元老君道德天尊。(念入聖章)唆𠰂唔叮，心玄語靈。朱陽九霄，<lb/> 玉靄元明。靈鳳朱翔，上騰玉京。願此丹懇，隨烟上昇<lb/> 大赤元精淸虛太空(一拜)。上祝<lb/>
+          國泰民安，時和𡻕稔。願度師昇度，上登高眞，與我開度，現存眷<lb/> 屬，五苦八難，名入仙籍，我爲眞人。』<lb/>
+          　存想下丹田白炁上昇，從頂門出，隨香烟直沖霄漢，結成寶<lb/> 　蓋。倐忽之間，見天宫白炁萬丈，自右飛下，結成[雨/众]字，從吾頂<lb/> 　門注下丹田，混合玄谷赤子之神。<lb/>
+          <pb ed="CK-KZ" n="02p011b" facs="#fac-02p011b"/><lb/> 　　下洞玄章<lb/>
+          嵯峨九光山，瓊闕生上仙。日月運金炁，龍虎奔玄關。灌漑碧芝<lb/> 房，靈苗生翠烟。煥赫紫霞光，萬里乘雲軿。洞歌聲瑯瑯，上徹天<lb/>
+          上天。若能保其寶，萬劫爲天仙。内寶不外求，是爲無上玄。鍊成<lb/> 大寶器，逍遙歸帝軒。<lb/> 　巳上三運上香，每日早午晚三時行之。或拜懴，或誦經，或施<lb/>
+          　食，或修齋醮，拜表上章。高功能依此三上香，則帝聖降臨，所<lb/> 　爲有功。若不依此，所奏不騐。倘學道高人修眞羽士，自已上<lb/> 　香誦經，尤妙。<lb/>
+          <pb ed="CK-KZ" n="02p012a" facs="#fac-02p012a"/><lb/> 天目運書，⬤　　玉帝心印，⬤　　北極眞形。<lb/>
+          <lb/> 　　大洞玉章<lb/> #+BEGIN_VERSE [玩*羅](音羅)三藍波，　 逮洽臺離。　 堂運推入，　 連廣靈都。　 鬱羅殊邈，<lb/> 育弗超㪚。　
+          兆生天橫，　 滯始冥騫。　 庭盼苞已，　 猷玄握稱。<lb/> 沙福烟明，　 桂會和子。　 存樂賢勤，　 百奮天垕。　 土成坦平，<lb/> 彌結彰生。　 樟結陸𣺌，　
+          蘭朦龍登。　 獰獬筌信，　 帝聻䭾猍。<lb/> 喃謨珏法，　 乘津幽延。　 日月星斗，　 耀息命炁，　 防元德⬤。<lb/> #+END_VERSE
+          　(外增八字：)　夀眞固靈，夀天地晶(三遍)。<lb/> 　此百字章，係諸天隱諱，暝目念誦，存想遍身發出火光，上沖<lb/>
+          <pb ed="CK-KZ" n="02p012b" facs="#fac-02p012b"/><lb/> 　天界，所誦玉章，結成金書玉字，洞照三界十方，千眞萬靈見<lb/>
+          　此玉章，飛雲而至。此玉章萬劫一傳。一日三時，日升半夜，默<lb/> 　朝上帝，守三一之神，九天生神，帝名一心在頂。誦此玉章，不<lb/>
+          　記遍數，萬眞護身，名列仙籍。誦之一年成地仙，二年成神仙，<lb/> 　三年成天仙。雖持誦不勤，永離幽谷，亦得屍解上道。　長跪<lb/> 　啟聖。<lb/> 　　伏聞<lb/>
+          淸淨道德之香，無遠弗屆。太虛寥廓之宇，有感皆通。　具職(臣<lb/> 某)俯拜，上啟<lb/> 淨明無極大道玉淸聖境元始天尊，上淸眞境靈寶天尊，太淸<lb/>
+          <pb ed="CK-KZ" n="02p013a" facs="#fac-02p013a"/><lb/> 仙境道德天尊，淨明天主玉皇上帝，南極勾陳天皇大帝，北極<lb/>
+          星主紫微大帝，承天效法后土大帝，三光聖母攴天大帝，高上<lb/> 神霄九宸大帝，太上十方靈寶天尊，三十二天天主帝君，九天<lb/>
+          生神大帝，玉淸瓊元君，高聖萬眞太上道君，中央黃老元素道<lb/> 君，上淸總仙大司馬長生法師主三天君柏成上眞，降授大洞<lb/>
+          眞經經師，上眞聖母紫微元君王夫人，降授迥風大混合師上<lb/> 眞聖母中侯元君王夫人，上淸九微太眞玉保王，金闕上相大<lb/>
+          司命高晨師，東海王靑華小童君，上淸太無東霞扶桑丹陵大<lb/> 帝上道君，太玄道父威德自在天尊，五方五老帝君，十極十華<lb/> 帝君，祖師南極紫眞上淸道主玉晨聖后，金闕上保東華道君，<lb/>
+          <pb ed="CK-KZ" n="02p013b" facs="#fac-02p013b"/><lb/> 金闕大夫上淸仙侯，金闕上保紫虛元君，定一眞人蔚羅明眞<lb/>
+          人，三官大帝，四聖眞君，九天開化文昌帝君，三天扶教正一天<lb/> 師張眞君，太極左宫仙翁葛眞君，九州都仙太史許眞君，開山<lb/>
+          啟教普度吕眞君，龍門演派妙行⬤眞君，靈寶五師眞君，九天<lb/> 司命三茅眞君，大洞祖師士冠徐鍊師，三天左相保和王眞人，<lb/>
+          太玄守眞趙眞人，天師季昌薛眞人，虛谷劉眞人，貫休申眞人，<lb/> 玉玄劉仙師，希玄楊仙卿，傳經傳法傳籙厯代祖玄眞，經籍度<lb/>
+          列位眞人，三界十方萬靈眞宰，經筵侍衞，合座威靈，悉上眞香，<lb/> 普同供養。　切念(臣某)叨生盛世，感祖宗垂蔭之恩，厚德難酬，<lb/> 乏資薦追遠之報。是以竭誠滌慮，請誦大洞眞經，降三十九神，<lb/>
+          <pb ed="CK-KZ" n="02p014a" facs="#fac-02p014a"/><lb/> 佈三部八景，迥風混合，默運感通。俾金液以鍊形，希玉符而保<lb/>
+          命，形神俱妙，與道合眞，災厄無侵，福夀鞏固，九幽罷對，七祖返<lb/> 胎，同駕雲輿，昇騰霄漢。(臣)無任再拜，謹啟以<lb/> 聞。<lb/>
+          　興身向東登座，暝目，半垂簾，叩齒三十九通，依前序中，存運<lb/> 　大洞帝一尊三一等神。一一依前存運，明白如對方接。微呼<lb/>
+          　九天生神帝魂精名諱字，存九天相在身中，各長三寸二分，<lb/> 　九梁冠，無縫錦衣，腰佩劍，手執玉珮符，各安身中九宫之内。<lb/> 　端坐，心微呼名。<lb/> 　　(臣)謹請<lb/>
+          <pb ed="CK-KZ" n="02p014b" facs="#fac-02p014b"/><lb/>
+          鬱單無量天王，名混[雨/杓][雨/均][雨/維]，内諱天演前，字帝先。(降注黃演之炁，以資胞命<lb/> 　之元，鍊形育質，周流六虛。)<lb/>
+          　存想天王五色錦衣，坐泥丸宫内。<lb/> 　　(臣)謹請<lb/> 上上禪善無量夀天王，名禊隨[雨/杓][雨/勒]，内諱津開闌，字赤玄。(降注紫戸<lb/>
+          　之炁，以資胎命之元，玉符保命，克成上仙。)<lb/> 　存想天王黃錦衣，坐眉中入一寸明堂中。<lb/> 　　(臣)謹請<lb/>
+          梵監須延天王，名滓[雨/提][雨/頭][雨/維]，内諱混众(音吟)，行字元山。(降注明仙之炁，以資魂命<lb/> 　之元，鍊眞孕嬰，萬眞唱和。)<lb/>
+          <pb ed="CK-KZ" n="02p015a" facs="#fac-02p015a"/><lb/> 　存想天王靑錦衣，坐上丹田，眉中入三寸是也。<lb/>
+          　　(臣)謹請<lb/> 寂然兜率天王，名泮[雨/師][雨/慶][雨/致]，内諱晶勝法，字上眞。(降注冥演由之炁，以資魄<lb/> 　命之元，萬眞唱和，形神俱妙。)<lb/>
+          　存想天王朱衣，坐心上三寸洞陽宫中。<lb/> 　　(臣)謹請<lb/> 波羅尼密不驕樂天王，名凝䨱霍[雨/持]，内諱晶湻，金字光明。(降注中靈<lb/>
+          　之炁，以資藏府之元，總錄形神，紫戸生仙。)<lb/> 存想天王五色紫衣，坐心内絳宫中。<lb/> 　　(臣)謹請<lb/>
+          <pb ed="CK-KZ" n="02p015b" facs="#fac-02p015b"/><lb/>
+          洞元化應聲天王，名輝[雨/(禾*魚)][雨/越]⬤，内諱晶漂追，字玄丹。(降注沖融之炁，以資<lb/> 　靈府之元，鍊胎返初，形神飛越。)<lb/>
+          　存想天王七色錦單衣，坐中丹田，臍上一寸三分。<lb/> 　　(臣)謹請<lb/> 靈化梵輔天王，名精霧雲[雨/梓]，内諱地及端，字嬰芝。(降注洞笈之炁，以資元府<lb/>
+          　之元，怡玩五神，重關開豁。)<lb/> 　存想天王五色衣，左手捧日，右手捧月，坐臍下一寸三分玄<lb/> 　谷宮中。<lb/> 　　(臣)謹請<lb/> 高虛淸明天王，名玄[雨/凝]霐[雨/澄]，内諱光謙宫，字玄泉。(降注化凝之炁，以資華府<lb/>
+          <pb ed="CK-KZ" n="02p016a" facs="#fac-02p016a"/><lb/> 　之元，眾聖稱快，鍊嬰成眞。)<lb/>
+          　存想天王九色黑錦衣，左日右月，坐臍下三寸陰極宫中。<lb/> 　　(臣)謹請<lb/>
+          無想無結無愛天王，名王靈[雨/淵][雨/濟]，内諱玄端雲，字陽生。(降注玄照之炁，<lb/> 　以資神府之元，與道合眞，身騰霄極。)<lb/>
+          　存想天王朱衣，手執符，坐下丹田關元中。<lb/> 　凡誦大洞經法，先存呼九天名諱。若不存呼，則九天不納其<lb/>
+          　音，三十九神不降，神眞不歡，九蟲來攻，三尸作厲，魔妖來千，<lb/> 　思不徹微，九宫空廢，萬神飛揚。每日不時存呼其名，人身不<lb/> 　出，三年九載，白日上昇也。○存想功畢，叩齒三通，咽津三次，<lb/>
+          <pb ed="CK-KZ" n="02p016b" facs="#fac-02p016b"/><lb/> 　存思日月在我面上，吸日光從左鼻孔入，吸月光從右鼻孔<lb/>
+          　入，腦後煥然作九色圓光，洞照十方，萬神齊集。<lb/> 鳴法皷二十四通。<lb/> 　鳴法皷者，内正神炁，外滅魔靈，法事所先也。左叩齒爲天鐘，<lb/>
+          　以格天眞，集上部八景神。右叩齒爲天磬，以格地祇，集下部<lb/> 　八景神。中叩齒爲天鼓，以格三界十方之神，集中部八景眞<lb/>
+          　人卽左右中三叩齒，以應二十四炁，合成周天三百六十五<lb/> 　躔度數也。　默念：<lb/> #+BEGIN_VERSE 『内有所明，　 外有所臨。　 開之朗然，　 了無朕象。　
+          靜以待之，<lb/> 卽有顯相。　 急急如　 生炁帝君律令。』　 #+END_VERSE 手執香爐，朗念：<lb/>
+          <pb ed="CK-KZ" n="02p017a" facs="#fac-02p017a"/><lb/> 『無上三天玄元始三炁太上虛無道君，召出(臣)身中三五功曹，<lb/>
+          左右官使者，左右捧香花驛龍騎吏，侍香金童，傳言散花玉女。<lb/> 五帝直符，直日香官使者，各三十六人出。出者嚴裝顯服，冠帶<lb/>
+          垂纓，衞臣前後，受臣口中詞語，關啟經壇眞官，土地四面里域<lb/> 正神。臣今正爾陞壇，行道焚香謁聖，請誦大洞玉經，迴風混合，<lb/>
+          默朝帝眞。謹集臣身中五體眞官，九竅榮衞，五臟六腑，七政九<lb/> 宮十二神室，四肢筋骨，皮膚血脈，一百八十靈關，三百六十骨<lb/>
+          節，一千二百形影，一萬二千精光，左三魂，右七魄，三部八景一<lb/> 萬六千人神。吾是<lb/> 太上之子，玄皇之孫，頭冠朱雀，足履玄武，左按靑龍，右據白虎。<lb/>
+          <pb ed="CK-KZ" n="02p017b" facs="#fac-02p017b"/><lb/> 令三十九神，各守穴位，以培絕氣之門，昌映長生之戶，滋生旺<lb/>
+          氣，榮衞一身。三姓混合於玄宮，龍虎返還於玉室，凝成金液，結<lb/> 就玄珠，赤子靈明，神通赫奕。願得太上三天，特降十方正眞道<lb/>
+          炁，紫玄眞一之炁，灌注(臣)身，體耀金輝，斬伐胞滯，七玄拔擢，百<lb/> 關備仙，削除罪籍，宴坐泥丸九眞備守，五老保關，學道得道，求<lb/>
+          仙得仙。令(臣)所發之願，所啟之詞，速得徑達<lb/> 太上無極大道三寶九宸諸天上帝御前。』<lb/> 　前無上三天句，無字念作烏字，長音。華池水滿，吞下，以濟幽<lb/>
+          　魂。又念上字，張口念，長聲。提起中黃，上升，以生人物。一降一<lb/> 　升，卽幽明兩利。其餘三五功曹等神，乃三皇子孫，降在人身<lb/>
+          <pb ed="CK-KZ" n="02p018a" facs="#fac-02p018a"/><lb/> 　爲神，不必手搯，恐散其心也。　左手剔玉文，至丑寅出，謂之<lb/>
+          　旋斗厯箕。剔卯至巳出，謂之告盟三界。剔巳至未出，謂之厯<lb/> 　觀諸天。<lb/> 　　秉簡當心，正目，叩齒，存想室内紫雲之炁徧滿，來冠兆身，<lb/>
+          　　金童玉女，侍經左右，三光寶芝，洞煥室内。叩齒，朗念：<lb/> #+BEGIN_VERSE 『天朗炁淸，　 三光洞明。　 金房玉室，　 五芝寶生。　 玄炁紫蓋，<lb/>
+          來映我身。　 仙童玉女，　 爲我致靈。　 九帝齊景，　 三元同軿。<lb/> 上乘紫蓋，　 昇入帝庭。』<lb/> #+END_VERSE 　　開經玄藴咒<lb/>
+          #+BEGIN_VERSE 微微玄景門，　 煥朗徹空同。　 至道由靜默，　 當見三素宮。<lb/>
+          <pb ed="CK-KZ" n="02p018b" facs="#fac-02p018b"/><lb/> 大道於此成，　 驂景策雲龍。　 左右侍經眞，　 玉女及玉童。<lb/>
+          身濟不死津，　 解羅順靈風。　 七祖返胎生，　 世爲神仙宗。<lb/> #+END_VERSE <pb ed="CK-KZ" n="02p019a"
+            facs="#fac-02p019a"/><lb/> 元始大洞玉經卷上<lb/> #+BEGIN_VERSE 　道以齋爲先，　 勤行登金闕。　 故設大法橋，　
+          普度諸人物。<lb/> 　宿世恩德報，　 道心超然發。　 身飛昇仙都，　 七祖咸解脱。<lb/> 　玄元始炁分，　 淸華開洞神。　 靈風迴太和，　 玉音攝流精。<lb/>
+          　至哉本自然，　 誰識此玄文。　 堅剛明一悟，　 倐忽超三乘。<lb/> 　寂寂無色根，　 永劫無漂沉。　 如能精修持，　 爾身得長存。<lb/> #+END_VERSE
+          道言：『昔在龍漢劫初，元始天王出大洞玉經，於高上大有玉淸<lb/> 宮，演太玄重玄玄一之道，命之曰大洞玉經。元始天王始以太<lb/>
+          玄之音，流響玉淸，宏帝一眞道，説大洞寶文，示九統之法，傳九<lb/> 光之符。俾至士誦之，登齋修行，卽得萬神歡慶，萬靈護持，萬聖<lb/>
+          <pb ed="CK-KZ" n="02p019b" facs="#fac-02p019b"/><lb/> 感格，萬天翕臨。可以飛度三災四煞，五鬼六害，七傷八難，九厄<lb/>
+          十惡，登仙入聖，神生紫微，自然無爲，不係陰陽五行六氣之所<lb/> 拘束，善念增長，趣入大乘，宏施無窮，諸天下觀，　玉帝降鑒，飛<lb/>
+          天保迎，厯代遠祖，億劫種親，遊爽飛魂，俱得更生。世冑接仙，長<lb/> 爲貴人。功滿道備，骨肉同昇，乘龍駕雲，上朝玉淸。』<lb/>
+          　凡書符篆，右手緊執筆，閉七竅，左手中指搯第二文，卽玉文<lb/> 　也，名玉訣，一氣書完，加三五筆。<lb/>
+          <pb ed="CK-KZ" n="02p020a" facs="#fac-02p020a"/><lb/> 　　第一章<lb/> 太微玉篆【圖images/KR5i0001_KR5i0001-02_20a2-5.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          　五筆(明)(帝天合)(日)(卽五老諱)【圖images/KR5i0001_KR5i0001-02_20b6-7a.jpg】三筆(泓)(澄)(明)【圖images/KR5i0001_20b6-7b.jpg】<lb/>
+          　　<lb/> 　　(只用五撇三撇，口中默誦五字三字，觀想五方眞炁，三淸境界。)<lb/> 　　(以後三十八道，一一依此加筆。)<lb/> 　此符共三十九道，以板刻之。印下，剪開，再用黃表加上，以硃<lb/>
+          <pb ed="CK-KZ" n="02p020b" facs="#fac-02p020b"/><lb/> 　筆照式，一氣書成。待念前章完，卽焚符一道於盞内，用淡薑<lb/>
+          　𤍠湯調服，以通神明，召神入身，迴風混合，以絕死氣之門。久<lb/> 　則不必服，只天目運其符。畢叩齒三通，微聲朗念：<lb/>
+          『謹請太微小童君，名千景精，字會元子，一名三矜交，一名對帝<lb/> 眞。恒守我舌本之下，是失炁之門。小童嚴固守之，口吐赤炁，遶<lb/>
+          我一身，使生血液，泥丸堅明，百神安正。』<lb/> 　存想舌下紅炁，上昇頂上，結成紅雲。再微聲咒曰：<lb/> 『眞炁下流充幽關，續神固精塞死源。玉經惠朗通萬神，爲我護<lb/>
+          眞命長存，拔度七祖返胎仙。』<lb/> 　咒完，吸頂上紅雲，三吸呑下，結一神，金冠赤衣，下佈胸左肝<lb/>
+          <pb ed="CK-KZ" n="02p021a" facs="#fac-02p021a"/><lb/> 　戶，復入心宮，上昇舌根之下，存神坐而守之。<lb/>
+          　　高上元皇君道經第一<lb/> #+BEGIN_VERSE 元始天王，　 嘯咏太玄。　 凝神遐想，　 而説洞章。　 高上洞玄，<lb/> 元生九天。　 炁祖太無，　 眾風映玄。　
+          會親絕散，　 四淸撫閑。<lb/> 帝一上景，　 連眾攝煙。　 長契一運，　 七世投閒。　 託靈屬命，<lb/> 華灼自然。　 冺邈流虛，　 六曜沉遷。　 陵梵銜輝，　
+          西華彰安。<lb/> 仙編帝簡，　 盡得解源。　 胎田邃路，　 世發玉蘭。　 靈光八暉，<lb/> 萬神俱生。　 微念咒曰：<lb/> 『三藍羅，　 波逮臺。　 天命長，　
+          人恒甯。』(上六字，卽天上咒。下六字，卽地下咒。念三遍，畢，<lb/> 　叩齒三通，嚥津下丹田。以後同。)<lb/> #+END_VERSE <pb ed="CK-KZ"
+            n="02p021b" facs="#fac-02p021b"/><lb/> 　玄契曰：『誦至一章，消一切罪，身有六根，皆獲洞淸，六天自降，<lb/>
+          　羣魔束首，召眞使仙，萬炁齊正，得无礙門。』<lb/> 　　第二章<lb/> 太一玉篆【圖images/KR5i0001_KR5i0001-02_21b4-7.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請太一尊神，名務猶收，字歸會昌，一名解萌，一名寄頻，恒守<lb/> 我玉枕之下，泥丸後戶，督脈入處，是失氣之門。太一嚴固守之。<lb/>
+          <pb ed="CK-KZ" n="02p022a" facs="#fac-02p022a"/><lb/> 使眞炁上昇泥丸，令七祖父母受玄更生。上籍<lb/>
+          玉皇，重華萬甯。』<lb/> 　存想腦後紫炁，上昇頂上，結成紫雲，熖熖罩頂。再微聲咒曰：<lb/> 『太一保命，固神定生。爲我上招帝眞之炁，下佈紫戶之庭。玉經<lb/>
+          往徹，九元朗明，七祖同歡，俱昇上淸。』<lb/> 　咒完，吸頂上紫雲，三吸呑下，結一神，秀士相，紫冠紫衣，入心<lb/>
+          　宮，下穿尾閭，入夾脊，上至泥丸後戶腦後骨，其神目觀紫戶，<lb/> 　卽印堂左傍也，守之。<lb/> 　　上皇玉虛君道經第二　朗念<lb/> #+BEGIN_VERSE
+          元始天王曰：　 『玉虛順玄歸，　 天晨金宵遊。　 朗朗生帝景，<lb/>
+          <pb ed="CK-KZ" n="02p022b" facs="#fac-02p022b"/><lb/> 歘爾宴玉洲。　 左攝始神童，　 右命起常扶。　 明眞煥九霄，<lb/>
+          三日映玄敷。　 千景併三矜，　 内有幽寥無。　 令我得長年，<lb/> 千劫始一周。　 黃籙保劫仞，　 披錦入神邱。　 太一務命根，<lb/> 公子召合符。　 十回度初心，　
+          得入大信根。』　 微念咒曰：<lb/> 『離堂合，　 推運入。　 延天骨，　 辟毒龍。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒嚥津，如前。<lb/>
+          　玄契曰：『誦至二章，得入信根，善因不絕，仙籍書名，萬炁齊和，<lb/> 　得入定門。』<lb/> 　　第三章<lb/>
+          <pb ed="CK-KZ" n="02p023a" facs="#fac-02p023a"/><lb/> 天皇玉篆【圖images/KR5i0001_KR5i0001-02_23a1-4.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請天皇玉帝君，名逢淩梵，字履昌，一名七靈，一名神丈人。常<lb/>
+          鎭兩眉中卻入右方一寸，爲紫戶外宮，是失氣之門。天皇嚴固<lb/> 守之，使我華蓋眞炁，上昇紫房，度七祖父母，罪除福生，上登帝<lb/> 君。』<lb/> 　存想紫戶眞炁，上昇頂上，結成紫雲。再微聲咒曰：<lb/>
+          <pb ed="CK-KZ" n="02p023b" facs="#fac-02p023b"/><lb/> 『帝君度符籍，正炁招萬神。上召玉眞炁，充布兩眉間。混生一帝<lb/>
+          景，三素成我仙。颷散乘飛蓋，徑昇高上軒。』<lb/> 　咒完，吸頂上紫雲九嚥，結九神。中一神玉帝相，紅衣，頂門泥<lb/>
+          　丸宮坐。左四神，靑衣冠；右四神，白衣冠，俱道士相。存想左右<lb/> 　八神，下佈心宮，穿兩膀胱，入尾閭，上充泥丸，注眉中右紫戶，<lb/> 　守之。<lb/>
+          　　天皇玉帝君道經第三<lb/> #+BEGIN_VERSE 元始天王曰：　 『玉帝玄上旛，　 制命九天階。　 七覺乘妙道，<lb/> 懽熙神風迴。　 颷燦北停華，　
+          紫英唱東隈。　 琳和九霄外，<lb/> 玉符徴太微。　 三素生泥丸，　 發耀金靈暉。　 老君罕張上，<lb/>
+          <pb ed="CK-KZ" n="02p024a" facs="#fac-02p024a"/><lb/> 守衞死節機。　 十善生玄中，　 度厄而自然。』　 微念咒曰：<lb/>
+          『珠鬱羅，　 廣都靈。　 長存體，　 去害子。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒嚥津，如前。<lb/>
+          　玄契曰：『誦至三章，得自在智，度一切厄，入玄上關，萬炁齊淸，<lb/> 　入希夷門。』<lb/> 　　第四章<lb/> 無英玉篆【圖images/KR5i0001_KR5i0001-02_24a7-10.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p024b" facs="#fac-02p024b"/><lb/> 　服符畢，叩齒三通。微聲朗念：<lb/>
+          『謹請左無英公子，名玄元叔，字合符子，一名元素君，一名神公<lb/> 子。常鎭我左腋之下肝之後戶，是失氣之門。無英嚴固守之，使<lb/>
+          我左腋下有玉光，引神明入兆兩眼睛中，令我目光朗徹萬里。』<lb/> 　存想左腋下卽前乳向後三寸，對左臂甲骨之下，是穴内有<lb/> 　眞炁玉光雲色，上昇頂門。再微聲咒曰：<lb/>
+          『無英神眞生紫黃，三炁混合成宮商。招引眞炁鎭膀胱，流通三<lb/> 丹會洞房。爲我致仙變丹容，飛昇雲館入宮墉。』<lb/>
+          　咒完，吸頂雲三嚥，結一神，玉色衣冠，下佈右乳，入心宫，下左<lb/> 　膀胱，卻右膀胱，又昇心宮，入左乳内三寸臂甲戶，守之。<lb/>
+          <pb ed="CK-KZ" n="02p025a" facs="#fac-02p025a"/><lb/> 　　上皇紫宸君道經第四　朗念<lb/> #+BEGIN_VERSE
+          元始天王曰：　 『太眞統九炁，　 洞景寄神通。　 玉帝乘朱霄，<lb/> 綠霞煥金墉。　 上館雲珠内，　 仰接無刃峰。　 靈關太漠下，<lb/> 靄沬鏡中空。　 冥化混離子，　
+          玄上叔火王。　 瑋寂高同生，<lb/> 無極保谷童。　 圓塗無凝滯，　 綺合有九重。　 南拔七祖根，<lb/> 西解累葉凶。　 體矯萬津波，　 神王攝十方。　
+          火歸返胎元，<lb/> 三合乘天龍。』　 微念咒曰：<lb/> 『弗育邈，　 散兆生。　 盼常在，　 法無輪。』<lb/> #+END_VERSE
+          　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『誦至四章，根塵漸隳，業網自解，劫運不隨，萬炁齊臨，<lb/>
+          <pb ed="CK-KZ" n="02p025b" facs="#fac-02p025b"/><lb/> 　得自在門。』<lb/> 　　第五章<lb/> 白元玉篆【圖images/KR5i0001_KR5i0001-02_25b3-6.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通，微聲朗念：<lb/> 『謹請白元尊神，名洞陽君鬱靈標，字玄夷統，一名朱精，一名啓<lb/>
+          成。常鎭我右腋之下肺之後戶，是失氣之門。白元嚴固守之，使<lb/> 我右腋之下有金光，引神入兆六炁之宮，七祖父母返胎更生，<lb/>
+          <pb ed="CK-KZ" n="02p026a" facs="#fac-02p026a"/><lb/> 身登玉房。』<lb/>
+          　存想右腋下白炁，變金光色，上昇頂上。再微聲咒曰：<lb/> 『洞陽鬱靈，標寶魂生。金光煥煥炁中精，招眞固神令長生。拔出<lb/> 幽根返胎嬰，驂神御炁昇玉淸。』<lb/>
+          　咒完，吸頂雲三咽，結一神，金冠金色衣，下佈左乳，入心，下厯<lb/> 　右膀胱，昇上心宮，入右乳，過肺之後戶，守之。<lb/> 　　太微天帝君道經第五　朗念<lb/>
+          #+BEGIN_VERSE 元始天王曰：　 『太微天帝君，　 八浮入雲營。　 神宗理靈襟，<lb/> 龍山秀玉京。　 金房鬱明霞，　 九戶朗高瓊。　 黃庭涉北元，<lb/>
+          元父左回明。　 朱精啓明師，　 幽寥登上淸。　 四玄秉元禁，<lb/>
+          <pb ed="CK-KZ" n="02p026b" facs="#fac-02p026b"/><lb/> 長保五帝城。』　 微念咒曰：<lb/> 『超滯天，　 橫宜始。　
+          勃沙玄，　 無定力。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『誦至五章，永絕死炁，浸茂生根，萬炁齊生，得長生門。』<lb/>
+          　　第六章<lb/> 司命玉篆【圖images/KR5i0001_KR5i0001-02_26b6-9.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/>
+          <pb ed="CK-KZ" n="02p027a" facs="#fac-02p027a"/><lb/> 『謹請中央司命丈人君，名理明初，字玄度卿，一名神宗，一名靈<lb/>
+          華。常鎭我絳宮心房之内，四孔之戶。心有七竅，神一名法垣，二<lb/> 朱霄，三丹黃，四運珠，五神慧，六洞溟，七洞明，是失氣之門。丈人<lb/>
+          嚴固守之，使我心中得眞理，絳宮生五華，司命丈人口吐紫雲<lb/> 之炁，洞溢我五臟之内，我得長生。』<lb/> 　存想心炁紫雲色，上昇頂上。再微聲咒曰：<lb/>
+          『司命定年，丈人保山。度名於南宮，上奏帝君前。世世爲仙王，拔<lb/> 出七葉根。福報無窮己，皆是誦玉經。』<lb/>
+          　咒完，吸頂雲三咽，結一神，白衣冠，下佈心内，化我心形，如圓<lb/> 　滿月，神在明月内坐。<lb/>
+          <pb ed="CK-KZ" n="02p027b" facs="#fac-02p027b"/><lb/> 　　三元精紫精君道經第六　朗念<lb/> #+BEGIN_VERSE
+          元始天王曰：　 『紫精太無中，　 三元上景衢。　 秀朗大寶輝，<lb/> 昭昭扇帝敷。　 伯史啓三素，　 帝靈登玉虛。　 慶炁育五雲，<lb/> 司命理明初。　 十華妙行仙，　
+          制魔生六明。　 微念咒曰：<lb/> 『澄潧渟，　 鬱羅曜。　 幸長劫，　 效萬靈。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『誦至六章，六天大魔永斷鬼鋒，六根淸浄，廣明發生，<lb/> 　萬炁齊光，卽得度世，進登仙門。』<lb/> 　　第七章<lb/>
+          <pb ed="CK-KZ" n="02p028a" facs="#fac-02p028a"/><lb/> 桃康玉篆【圖images/KR5i0001_KR5i0001-02_28a1-4.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請命門桃康君，名孩道康，字合延精，一名命門，一名胞根。常<lb/>
+          鎭我臍中之關命門之外，是失氣之門。桃君嚴固守之，使我臍<lb/> 中徘徊，黃雲盈溢，三命生根，胞胎解泄，七祖父母無閡累殃，宿<lb/> 罪无滯，生天帝宮。』<lb/> 　存想臍下黃雲，上昇頂上。再微聲咒曰：<lb/>
+          <pb ed="CK-KZ" n="02p028b" facs="#fac-02p028b"/><lb/> 『丹靈正神，號曰桃君。混合生宮，守護命門。通仙致炁，齊舉寶雲。<lb/>
+          七祖同生，受福南晨。』<lb/> 　咒完，吸頂雲三咽，結一神，金冠黃衣，下入心宮至臍下二寸，<lb/> 　其形方圓一寸，男藏精，女藏胞是下丹田命門内宮。坐守之。<lb/>
+          　　眞陽元老玄一君道經第七　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『眞陽帝賓老，　 受事會玉皇。　 滅魔除穢尸，<lb/> 百司詣絳宮。　 逸宅丹玄内，　
+          五炁結十方。　 七轉司命至，<lb/> 三回召仙公。　 太山主鬼者，　 急校三官中。　 十德初成基，<lb/> 同飛七覺元。』　 微念咒曰：<lb/> 『玄幄沙，　 稱萬福。　
+          無生死，　 入胎門。』<lb/>
+          <pb ed="CK-KZ" n="02p029a" facs="#fac-02p029a"/><lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『誦至七章，七元斗辰皇妃下降，爲我削落死籍，移注<lb/> 　南宮，萬炁齊超，得飛仙門。』<lb/> 　　第八章<lb/> 上一玉篆【圖images/KR5i0001_KR5i0001-02_29a5-8.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請泥丸上一天帝君，名赤子玄凝天，字三元先，一名伯无上，<lb/>
+          <pb ed="CK-KZ" n="02p029b" facs="#fac-02p029b"/><lb/> 一名伯文原。常鎭我泥丸之中上丹田九孔之戶，是失氣之門。<lb/>
+          上一嚴固守之，使我泥丸玉堅，金曜映眞，體生寶光。九孔受靈，<lb/> 令七祖父母，長得安甯，解脱宿罪，共登上淸。』<lb/>
+          　泥丸宮上丹田也，内有九宮，四雌五雄，各方一寸。其形内圓<lb/> 　虛中，紅而晶瑩，乃神之所居。其後戶有脈，貫於脊骨。存想眞<lb/> 　氣寶光，熖熖罩頂。再微聲咒曰：<lb/>
+          『上一赤子號上眞，飛雲羽衣耀紫煙。上招明景對帝賓，寶光奕<lb/> 奕映我身，身上羽毛昇九天。』<lb/> 　咒完，吸頂雲三咽，結一神，紫衣冠，下入心宮，穿兩膀胱，透尾<lb/> 　閭，入夾脊，至玉枕第一椎，入泥丸内宮，坐守之。<lb/>
+          <pb ed="CK-KZ" n="02p030a" facs="#fac-02p030a"/><lb/> 　　上元太素三元君道經第八　朗念<lb/> #+BEGIN_VERSE
+          元始天王曰：　 『太素三華炁，　 晨登廣靈堂。　 玉京表玄籍，<lb/> 守命孩道康。　 迴風散萬魔，　 金符召廣鄕。　 輔衞地戶内，<lb/> 保此長生王。　 轉入十仙門，　
+          八景齊洞陽。』　 微念咒曰：<lb/> 『明桂子，　 會和存。　 扶天帝，　 登明曜。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『誦至八章，八景神生，八威神王守護修眞，四方八王<lb/> 　注舉仙名，斬絕地戶，永斷惡根，萬炁齊明，得飛神門。』<lb/> 　　第九章<lb/>
+          <pb ed="CK-KZ" n="02p030b" facs="#fac-02p030b"/><lb/> 丹皇玉篆【圖images/KR5i0001_KR5i0001-02_30b1-4.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請絳宮中一丹皇元君，名皇神運珠，字子南丹，一名生上伯，<lb/>
+          一名史雲拘。常鎭我後項中央大椎骨首戶之下，乃失氣之門。<lb/> 中一嚴固守之，使我百骨受其眞炁，大椎有日光，七祖父母得<lb/> 道，徑昇南宮。』<lb/> 　存想心中眞炁，如日光芒熖熖，上昇頂上，再微聲咒曰：<lb/>
+          <pb ed="CK-KZ" n="02p031a" facs="#fac-02p031a"/><lb/> 『中一眞君，號曰運珠。上招日光，灌我形軀。三眞寶曜，因命玉符。<lb/>
+          夀億萬劫，永無終休。我身生羽符，飛昇九天衢。』<lb/> 　咒完，吸頂雲三咽，結一神，衮冕，紅衣冠，下佈心内，光耀遶身，<lb/>
+          　下入臍内，又入陰莖，中穿尾閭，昇夾脊，至項後第一椎骨内，<lb/> 　化日一輪，百寶神光旋轉，神君在光内坐。其神背觀，守之不<lb/> 　動。<lb/>
+          　　上淸紫精三素君道經第九　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『紫精毓華林，　 長明太無外。　 玉房生寶雲，<lb/> 九扇胞胎内。　 帝賓奉玉符，　
+          三光回紫蓋。　 蒼玉斌來生，<lb/> 衞此長夜會。　 五靈度符籍，　 九統合九光。　 三玄出太淸，<lb/>
+          <pb ed="CK-KZ" n="02p031b" facs="#fac-02p031b"/><lb/> 紫陽發萬生。　 玄精育九靈，　 元父結胎仙。　 五靈旣明，<lb/>
+          啟昌得期。　 務玄把籍，　 奉行四時。　 金映兩目，　 華蓋秀眉。<lb/> 玄母歸雄，　 玄父合雌。　 洞合百靈，　 辟非宣彌。　 童子受聽，<lb/> 丹嬰爲兒。　
+          禍絕地上，　 福昇仙堂。　 魂魄密靜，　 百神合離。<lb/> 開闢帝一，　 混然俱來。』　 微念咒曰：<lb/> 『樂伯勒，　 飛明賢。　 始生上，　 上道宗。』<lb/>
+          #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『誦至九章，九統帝會，九光神集，混合百神，與天齊年，<lb/>
+          　八會游集，朝應九天，萬炁齊仙，得登眞門。』<lb/> 　　第十章<lb/>
+          <pb ed="CK-KZ" n="02p032a" facs="#fac-02p032a"/><lb/> 黃庭玉篆【圖images/KR5i0001_KR5i0001-02_32a1-4.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請命門下一黃庭元王，名始明精，字元陽昌，一名始神童，一<lb/>
+          名藏明初，一名嬰兒胎，一名史伯原。兩胯之間車軸之戶，是失<lb/> 氣之門。元王嚴固守之，使我百血結凝，神氣不散，拔出地戶，超<lb/> 離八難。』<lb/> 　此竅在背脊骨下第十六椎，與尾閭並兩股腿骨相連綴，運<lb/>
+          <pb ed="CK-KZ" n="02p032b" facs="#fac-02p032b"/><lb/> 　動載我身，若車之有軸，腰胯當中是穴也。存想命門下眞炁。<lb/>
+          　如月光寶色，上昇頂上。再微聲咒曰：<lb/> 『下一眞元王，號曰始明精。三皇把符命，合契度仙庭。上招景中<lb/> 炁，炁布灌我形。羽車曜雲朗，令我昇太淸。』<lb/>
+          　咒完，吸頂雲三咽，結三神。一神月君相，捲雲巾，上坐。又二神<lb/> 　左右侍立。下入心宮，沉至丹田，昇上入命門中。左右神入兩<lb/>
+          　膀胱，穿兩腿骨髓内，下至兩腳心，入足後跟，各負半月，倒上<lb/> 　入腰胯命門穴，合成一明月。三神在内守之。<lb/> 　　靑靈陽安元君道經第十　朗念<lb/>
+          #+BEGIN_VERSE 元始天王曰：　 『靑靈扇八極，　 鼓輪三華城。　 披此胞胎結，<lb/>
+          <pb ed="CK-KZ" n="02p033a" facs="#fac-02p033a"/><lb/> 七祖受福生。　 宿對滅五道，　 長守帝一營。　 公子執五符，<lb/>
+          太一居紫房。　 三合地戶下，　 拔命玉帝宮。　 少女郁墨子，<lb/> 衞兆七炁聰。　 拘制精血液，　 盈滿五臟充。　 十眞登黃房，<lb/> 帝子化金仙。　 白玉飛符召，　
+          引昇龍臺天。　 九回七度，<lb/> 散此胞根。　 三皇巾珠，　 招符命神。　 赤帝和南，　 握節上遷。<lb/> 併我魂魄，　 鍊精帝前。　 五符合棄，　 七女入仙。　
+          慶流雲積，<lb/> 福盈龍泉。　 陵梵履昌，　 日日上言。　 五炁己明，　 五炁合延。』<lb/> 微念咒曰：<lb/> 『望昌謁，　 順萬煙。　 連劫生，　
+          厥出天。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          <pb ed="CK-KZ" n="02p033b" facs="#fac-02p033b"/><lb/> 　玄契曰：『誦至十章，子形中元命結帝一眞人，九和十合，體自<lb/>
+          　洞眞。能召制十方，御元回靈，萬炁成眞，合德㝠惠，玄玄無邊，<lb/> 　變化自然，至此修行，名曰玄關，亦曰玄會。六度十回，功滿道<lb/>
+          　備，位登仙公。初心十信，次興十善，次發十華，次成十德，漸進<lb/> 　十仙，遂化十眞，六位己陞，妙行大全，形神炁鍊，號曰眞人，入<lb/> 　眾妙門。』<lb/>
+          　　第十一章<lb/> 九眞玉篆【圖images/KR5i0001_KR5i0001-02_33b7-10.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p034a" facs="#fac-02p034a"/><lb/> 　服符畢，叩齒三通。微聲朗念：<lb/>
+          『謹請泥丸九眞，名帝昌上皇，字帝先靈，一名元宗口神，一名淸<lb/> 淨和。常鎭我口之四際，是失氣之門。九眞嚴固守之，使我故氣<lb/>
+          出，精氣入，神光隨身，放光萬丈，七祖父母禍脱罪除，生在帝宮<lb/> 玉房之中。』<lb/> 　存想泥丸眞炁，靑光萬丈，籠罩頂上。微聲咒曰：<lb/>
+          『九眞始生，生於上元。號曰先靈，三景各分。上招玄暉，流布四門。<lb/> 鎭神保山，拔度七玄。驂景乘浮，朝拜三元。』<lb/>
+          　咒完，吸頂雲九咽，結九神。一衮冕冠，靑履，靑雲下布一身，至<lb/> 　足底，光輝充滿五臟，上昇華蓋氣管，走上鵲橋，入兩耳鼻凹。<lb/>
+          <pb ed="CK-KZ" n="02p034b" facs="#fac-02p034b"/><lb/> 　分入兩目，閉搖睛二七度，迸出。九眞出泥丸外，各帶靑光萬<lb/>
+          　丈，内有九神，端坐蓋頂上，守之。<lb/> 　　皇淸洞眞道君道經第十一　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『皇淸與上淸，　 洞眞元老君。　
+          能生又能死，<lb/> 三帝己含生。　 虹映上淸景，　 玉華煥玉琳。　 三途拔靈閣，<lb/> 胞胎化兆形。　 日母解結仞，　 七祖罪超昇。　 皇淸洞眞，<lb/> 三帝合生。　
+          啟明蕭仞，　 金門披靑。　 日中赤帝，　 號曰丹靈。<lb/> 靈符命仙，　 五籍保生。　 虹映玉華，　 煥落上淸。　 七世父母，<lb/> 累命重甯。』　 微念咒曰：<lb/>
+          『回素元，　 吉求靜。　 天福子，　 長天生，　 正薈條。』<lb/>
+          <pb ed="CK-KZ" n="02p035a" facs="#fac-02p035a"/><lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『十回功竟，更至十一，境地重光，心身益擴，百邪遠避，<lb/> 　諸障不干，金童默相，玉女欣傳，呼吸週通，入逍遙門。』<lb/> 　　第十二章<lb/> 八眞玉篆【圖images/KR5i0001_KR5i0001-02_35a5-8.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請膽中八眞，名合景君，字北臺，一名玄精。鎭背窮骨下八節<lb/>
+          <pb ed="CK-KZ" n="02p035b" facs="#fac-02p035b"/><lb/> 之府，一名威明。背脊骨二十四椎，第一椎，丹元君守之。第二椎<lb/>
+          至七椎，玄陽君守之。第九椎至十五椎，玄陰君守之。第十六椎，<lb/> 黃庭元王守之。下八節，膽中八眞守之。是失氣之門，合景君嚴<lb/>
+          固守之，使我背脊之下節之孔常閉，邪氣不入，受生炁，眞光映<lb/> 形。』<lb/> 　存想膽中眞炁黃雲色，上昇頂上。再微聲咒曰：<lb/>
+          『八眞法神，神生九天，號曰北臺君，常在三合間。招眞洞明炁，下<lb/> 流佈我身。身生紫暉，與帝結親。攜挈五老，太仙⬤綿。』<lb/>
+          　咒完，吸頂雲八咽，結八神，黃冕衣，黃色，下布心宮，穿尾閭穴，<lb/> 　上充背脊下八節，神列兩邊之戸守之。<lb/>
+          <pb ed="CK-KZ" n="02p036a" facs="#fac-02p036a"/><lb/> 　　高上太素君道經第十二　朗念<lb/> #+BEGIN_VERSE
+          元始天王曰：　 『高上宴紫淸，　 五老輔玉根。　 太素拂𣺌景，<lb/> 合符帝一尊。　 白帝皓鬱奬，　 回金太霞鄕。　 度我死戸閉，<lb/> 拔出三途昇。　 十通由斯生，　
+          妙行由此興。　 洞明光景中，<lb/> 帝一眞玄經。　 圓華黃仞，　　 太張守關。　　 胎結四開，<lb/> 胎血滅連。　 保身冥眞，　 帝一共遷。　 兆有五臟，　
+          各生華根。<lb/> 穢液沉没，　 生朱運仙。　 九回會幽，　 六府曲伸。　 上帝熙怡，<lb/> 玄母懷歡。　 玉門生香，　 蘭室含眞。　 月精凌暉，　 日爽八騫。<lb/>
+          太一啟珠，　 守我面前。』　 微念咒曰：<lb/> 『和歸落，　 結舒永。　 出常外，　 萬劫浩。』<lb/>
+          <pb ed="CK-KZ" n="02p036b" facs="#fac-02p036b"/><lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『修行帝一眞道，至此大全妙行，始證十通，聖功初積。<lb/> 　玄理幽深，常誦百遍，自然通炁，千遍不輟，通神通靈，上朝帝<lb/> 　闕，位爲眞人。』<lb/>
+          　　朗念：<lb/> 『夏禹濬川，　冶金爲像。　自古及今，　恩波蕩蕩。』<lb/>
+          <pb ed="CK-KZ" n="02p037a" facs="#fac-02p037a"/><lb/> 元始大洞玉經卷中<lb/> #+BEGIN_VERSE 　鬱鬱家國盛，　
+          濟濟經道興。　 天人同其願，　 縹緲入大乘。<lb/> 　同心立福田，　 霏霏法輪昇。　 七祖生天堂，　 我身白日騰。<lb/> #+END_VERSE
+          道言：『元始天王眉放靑毫，頂旋紫炁，萬華寶蓋，浮羅覆形，玉光<lb/> 金霞，紆絢晃耀，玉晨道君，太玄道父，稽首容伫，願聽洞章。』<lb/> 　　第十三章<lb/> 左七眞篆【圖images/KR5i0001_KR5i0001-02_37a7-10.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p037b" facs="#fac-02p037b"/><lb/> 　服符畢，叩齒三通。微聲朗念：<lb/>
+          『謹請左腎間七眞，名玄陽君，字冥光，一名元生，一名五帝。常鎭<lb/> 我背骨盡際、地戶大椎骨七節左腎腰之下。玄陽君嚴固守之，<lb/>
+          使地戶生眞炁，窮骨受神液，六津充滿，生根深密。』<lb/> 右七眞篆【圖images/KR5i0001_KR5i0001-02_37b5-8.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請右腎間七眞，曰玄陰君，字太眞，一名上生。常鎭我背下骨<lb/>
+          <pb ed="CK-KZ" n="02p038a" facs="#fac-02p038a"/><lb/> 玉關右腎腰兩胯車軸之内。玄陰君嚴固守之，使我九眞靈潤，<lb/>
+          反華朗耀，神生形中，内外合眞，熙熙九府，長保玄妙。』<lb/> 　存想背下左右二腎之間，黑雲氣上昇頂上。再微聲咒曰：<lb/>
+          『七眞生帝景，八炁運常甯。上招日中童，圓珠映我形。迴風混幽<lb/> 府，歸妙大洞經。拔出地戶難，超凌逸九天。』<lb/>
+          　咒完，吸頂雲咽十四次，化左右各七眞，披髮，跣足，黑衣，水星<lb/> 　相。從項下入心宮，又分左右，各七眞下降膀胱，穿尾閭穴，上<lb/>
+          　充腰眼内脊骨兩邊，分左右列，如斗星，守之。<lb/> 　　皇上四老道中君道經第十三　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『皇上超无景，　 輪轉九曜生。　 迴風混帝心，<lb/>
+          <pb ed="CK-KZ" n="02p038b" facs="#fac-02p038b"/><lb/> 八景運常甯。　 廣霞參神天，　 五帝散日精。　 液溢玄中膜，<lb/>
+          血凝五華平。　 體寶圓珠映，　 流曜瑩兆形。　 號爲夀逸阜，<lb/> 亦曰澄潧亭。　 俱滅三惡機，　 啟籍登太明。　 令我保仙眞，<lb/> 仙綬披綠靑。　 解禍㝠途中，　
+          超福晨上靈。　 度世登玉鄕，<lb/> 累祖返胎嬰。　 洞觀无礙空，　 始通生圓明。　 驪珠貫方瞳，<lb/> 内外洞照淸。』　 微念咒曰：<lb/> 『三樂深，　 五達門。　
+          法輪迴，　 道上生。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『修士久持，得洞觀淸淨，道眼始通，無礙無障，内外洞<lb/> 　明，照見一切。能斷東方泰殺諒事宗天惡根地，根，魔籍鬼賬。<lb/>
+          <pb ed="CK-KZ" n="02p039a" facs="#fac-02p039a"/><lb/> 　常以上品香花供養天王進登天仙<lb/> 　　第十四章<lb/> 六眞玉篆【圖images/KR5i0001_KR5i0001-02_39a3-6.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請肺中華蓋六眞，名上元素玉君，字梁南中童，常鎭我頸外<lb/>
+          十二間。梁素玉君嚴固守之，使上帝玉華光映城門之下，玉晨<lb/> 之氣上入丹元之宮，七祖父母解散結滯，受生於太上之鄉。』<lb/>
+          <pb ed="CK-KZ" n="02p039b" facs="#fac-02p039b"/><lb/> 　十二間，卽肺氣管筒兩邊也。蓋頸項兩旁，各有六條大筋，每<lb/>
+          　一神守二梁也。存想喉下肺炁如白雲，上昇頂上。再微聲咒<lb/> 　曰：<lb/> 『六眞奕奕，白光泱泱。迴帝之景，上入丹鄕。招眞下流，灌我玉霜。<lb/>
+          羽裙紛紛，衣我仙裳。越過水火，飛登晨京。』<lb/> 　咒完，吸頂白雲，咽六次，結六神，秀士相，金冠，淡白衣，下布心<lb/>
+          　宮，入膀胱，穿尾閭夾脊，上昇泥丸，分貫兩耳上下、頸項十二<lb/> 　筋梁外，神面向立，守之。<lb/> 　　玉晨太上大道君道經第十四　朗念<lb/> #+BEGIN_VERSE
+          元始天王曰：　 『玉宸九天司，　 太上大道君。　 常保景化内，<lb/>
+          <pb ed="CK-KZ" n="02p040a" facs="#fac-02p040a"/><lb/> 九迴鏡中淸。　 解帶玉映室，　 乘素入四明。　 提攜日中主，<lb/>
+          併羽月中晨。　 太一召天魔，　 帝君校萬精。　 拔擢死籍炁，<lb/> 越度仙黃庭。　 帝立三關上，　 八風舞神兵。　 左抱福醴液，<lb/> 右提慶元瓶。　 洞徹无障玄，　
+          梵通生虛明。　 貫顙聞十方，<lb/> 豁落一切聲。』　 微念咒曰：<lb/> 『泓鬱霞，　 度法令。　 重刼視，　 滅長苦。』<lb/> #+END_VERSE
+          　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『修士勤行，得洞徹淸淨，聖耳梵通，无障无礙，内外虛<lb/> 　明，聞一切音聲，能斷北方紂絕陰天惡根地根，魔籍鬼賬。常<lb/> 　以丹菓，供養天王，結蒂生核，飛登上仙。』<lb/>
+          <pb ed="CK-KZ" n="02p040b" facs="#fac-02p040b"/><lb/> 　　第十五章<lb/> 五眞玉篆【圖images/KR5i0001_KR5i0001-02_40b2-5.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請脾中五眞，名養光君，字太倉子，一名羽臺子，常鎭我喉内<lb/>
+          極根之戶。養光君嚴固守之，使玉光金眞，洞照喉根，太帝神炁，<lb/> 往來三宮之内。』<lb/> 　存想脾中淡黄雲炁，上昇頂上。再微聲咒曰：<lb/>
+          <pb ed="CK-KZ" n="02p041a" facs="#fac-02p041a"/><lb/> 『五眞散靈，炁布九玄。金光曜輝，五炁吐津。萬神並暢，熙怡我身。<lb/>
+          圓光奏帝籍，太一動九天。降我八景輿，策龍駕紫煙。混合三帝<lb/> 室，保我萬劫年。』<lb/> 　咒完，吸頂雲，咽五次，結五神，星官相，金冠，黃衣，左二右三，下<lb/>
+          　布心宮，入二膀胱，穿尾閭，昇夾脊，入泥丸，穿兩臉，下布兩肩<lb/> 　頸根之戶，左二右三，守之。<lb/> 　　太淸大道君道經第十五　朗念<lb/> #+BEGIN_VERSE
+          元始天王曰：　 『太淸絕浮空，　 三天寶神符。　 日中開五暉，<lb/> 靑帝圓常無。　 捧籍登太明，　 受籙金華樓。　 五臟植玉根，<lb/> 魂魄一和凝。　 洞空淸淨玄，　
+          炁通生淸明。　 定和妙明覺，<lb/>
+          <pb ed="CK-KZ" n="02p041b" facs="#fac-02p041b"/><lb/> 玄息自長生。　 百神會合，　　 固身守關。　　 地戶閉塞，<lb/>
+          死亡不干。　 檢炁九玄，　 超越八難。　 七祖父母，　 胎結披散。<lb/> 生度南宮中，　 返胎三積内。　 玄母叔火王，　 爲兆得仙位。』<lb/> 微念咒曰：<lb/>
+          『明考梨，　 拔劫阿。　 濟无生，　 得來願。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『修士久持，得洞空淸淨，玄鼻炁通，旡礙旡障。内外淸<lb/> 　明香熏正炁普徹上下。能卻西北方恬照罪炁天惡根地根，<lb/>
+          　魔籍鬼賬。勤以信香，供奉天王，進登神仙。』<lb/> 　　第十六章<lb/>
+          <pb ed="CK-KZ" n="02p042a" facs="#fac-02p042a"/><lb/> 四眞玉篆【圖images/KR5i0001_KR5i0001-02_42a1-4.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請肝中四眞，名淸明君，字明輪童子，常鎭我胃口之外，膏膜<lb/>
+          之下咽食處。淸明君嚴固守之，使我淸炁鬱勃，玄液流符，取津<lb/> 玄膺之下，會神膏肓之中，魂安靑華，神存玄爽，周流上下，循環<lb/> 無端，七祖已通，九玄解厄。』<lb/> 　存想肝左胸傍翠羽色雲，上昇頂上。再微聲咒曰：<lb/>
+          <pb ed="CK-KZ" n="02p042b" facs="#fac-02p042b"/><lb/> 『四眞常生靑光華，精徘徊秀朗垣沉。珍玉景庭攜提高，上元俯<lb/>
+          仰要五靈。拔晨七葉根，與我保華嬰。』<lb/> 　咒完，吸頂雲，咽四次，結四神，翠色冠，靑衣，下布心宮，遍厯胸<lb/>
+          　左肝部，入尾閭，貫夾脊，上泥丸，注舌端，又上入二目中，復下<lb/> 　胃脘之外膏膜之下，神與司命君爲侍立，左二右二，守之。<lb/>
+          　　太極大道元景君道經第十六　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『太極元景王，　 三天攝神生。　 紫素翳鬱仞，<lb/> 安來上玉京。　 拔出五苦界，　
+          返胎七元庭。　 九玄解重劫，<lb/> 累祖落𡨚名。　 徘徊秀華下，　 俯仰邀五靈。　 兆身昇玉堂，<lb/> 五神迴孩嬰。　 俱躋太膜外，　 養素朝圓明。　 洞虛淸和淨，<lb/>
+          <pb ed="CK-KZ" n="02p043a" facs="#fac-02p043a"/><lb/> 華通引玄㝠。　 䑛鍊五芽味，　 含善吐長生。』 　微念咒曰：<lb/>
+          『回圓明，　 神初羅。　 暉履安，　 固止身。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『修士久持，得洞虛淸淨，玄舌華通，无礙无障，内外正<lb/> 　倫，玄明池中，神水凝酥，咽味五芽，金液玉液。能除西方敢司<lb/>
+          　連宛屢天惡根地根，魔籍鬼賬。常以法食，供奉天王，通一切<lb/> 　味，結大美珠，進登仙眞，位爲上仙。』<lb/> 　　第十七章<lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p043b" facs="#fac-02p043b"/><lb/> 三眞玉篆【圖images/KR5i0001_KR5i0001-02_43b1-4.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請精血中三眞，名元王君，字黃甯子玄，常鎭我鼻兩孔準頭<lb/>
+          下源玄達之戶。元王君嚴固守之，使我精神宣暢於百節，血液<lb/> 盈滿於千關，萬靈之炁輔護，太一之魂保身。』<lb/> 　存想鼻中赤雲，上昇頂上。再微聲咒曰：<lb/> 『三眞煥光，流光徘徊。離合九景，三洞金扉。上招朱皇，五苦廓開。<lb/>
+          <pb ed="CK-KZ" n="02p044a" facs="#fac-02p044a"/><lb/> 死根斷落，日魂同飛。超逸十界，上昇玉階。』<lb/>
+          　咒完，吸頂雲，三咽，結三神，紅衣冠，下布心宮，入兩膀胱，入尾<lb/> 　閭夾脊，上泥丸宮，下布鼻人中凹，化紅光，神守之。<lb/> 　　皇初紫靈元君道經第十七　朗念<lb/>
+          #+BEGIN_VERSE 元始天王曰：　 『皇初紫炁中，　 暉光鬱霄明。　 三天煥九景，<lb/> 離合億萬生。　 披朱巾綠霞，　 上迴寒童靈。　 拔出五苦毒，<lb/>
+          超形過始靑。　 白素啟蕭仞，　 金門衞朱兵。　 七祖積尸結，<lb/> 一化百惡傾。　 受福東霞室，　 返胎朱火庭。　 洞靈淸淨行，<lb/> 力通自冲明。　 淨眞手握斗，　
+          足躡九元星。　 揮執天地關，<lb/> 精神生命根。』　 微念咒曰：<lb/>
+          <pb ed="CK-KZ" n="02p044b" facs="#fac-02p044b"/><lb/> 『發合遷，　 光運長。　 常生天，　 入寶炁。』<lb/>
+          #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『修士久持，得洞靈淸淨，手足力通，把握揮呵，飛步蹻<lb/>
+          　躡，往來指措，一切无礙无障。能除西南方宗靈七非天惡根<lb/> 　地根，魔籍鬼賬。常以靈茶黃芽金蕊，供奉天王，輪步九光。進<lb/> 　登天仙。』<lb/>
+          　　第十八章<lb/> 一眞玉篆【圖images/KR5i0001_KR5i0001-02_44b8-10.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p045a" facs="#fac-02p045a"/><lb/> 　服符畢，叩齒三通。微聲朗念：<lb/>
+          『謹請胃管二眞，左名堅玉君，字凝羽珠；右名帝昌皇，字碧落靑，<lb/> 常鎭我太倉之府五腸之口。二眞嚴固守之，使我穀食消化，靈<lb/>
+          根不枯，炁通虛無，滋潤五内，調五行而通六腑，利血脈而益周<lb/> 身，七祖散結，九玄被榮。』<lb/> 　胃爲太倉，傳送水穀，達於五腸之口，胃之上竅，心肺相接，卽<lb/>
+          　胃口進食處也。存想胃脘碧白雲色，上昇頂上。再微聲咒曰：<lb/> 『二眞固神，鬱勃三關。迴金合玉，堅備泥丸。上通帝炁，流布金門。<lb/>
+          混合啟明，合我仙魂。七祖同飛，絕滅胞根。世保道德，永享欣欣。』<lb/> 　咒完，吸頂雲，三咽，結二神，如帝王相，靑衣冠，下布太倉，二神<lb/>
+          <pb ed="CK-KZ" n="02p045b" facs="#fac-02p045b"/><lb/> 　向内立，守之。<lb/> 　　无英中眞上老君道經第十八　朗念<lb/>
+          #+BEGIN_VERSE 元始天王曰：　 『无英眞上玄，　 玄中元素炁。　 寄頻攜運珠，<lb/> 混化啟明日。　 正一左右仙，　 長扶靈虛室。　 兆有五符籍，<lb/>
+          合仙得眞一。　 魂生太无中，　 魄伏五道密。　 世世解𡨚結，<lb/> 七祖絕滯塞。　 神風吹胞樹，　 根葉已斷絕。　 胎中眾鬼殃，<lb/> 五符閉地結。　 長爲神眞王，　
+          應仙續萬億。　 洞眞淸淨身，<lb/> 道通自然質。　 眞應化現相，　 不動住黃室。　 應化無方在，<lb/> 骨肉金玉質。　 靜眞明正道，　 至老常不易。』　
+          微念咒曰：<lb/> 『彌勒車，　 大生彰。　 反老童，　 受年𧙓。』<lb/>
+          <pb ed="CK-KZ" n="02p046a" facs="#fac-02p046a"/><lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『修士久持，得洞眞淸淨眞應身、相道通法身。常存常<lb/> 　住玉山上京，應變自然，十方皆現化無量身，無方不在，自身<lb/>
+          　他身皆得自在。能脱九幽地獄地根，惡根魔籍鬼賬。常以天<lb/> 　衣地裳，供奉天王，上下垂覆，進登上仙。』<lb/> 　　第十九章<lb/> 一眞玉篆【圖images/KR5i0001_KR5i0001-02_46a7-10.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p046b" facs="#fac-02p046b"/><lb/> 　服符畢，叩齒三通。微聲朗念：<lb/>
+          『謹請心中一眞，名天精液君，字飛生上英，常鎭我胸中四極之<lb/> 口心上四寸。嚴固守之，使我五臟生華，四關受其眞炁紫液，滿<lb/>
+          於胸中絳宮，結成於百神，上昇玉天，羽衣虎符，佩奉謁帝。』<lb/> 　存想心中紅雲，上昇頂上。再微聲咒曰：<lb/>
+          『一眞鎭心，總領百神。百神常生，會我絳軒。上招玉炁，六液沉珍。<lb/> 赤景啟靈，拔我七根。超逸三途，上昇南仙。』<lb/>
+          　咒完，吸頂雲，三咽，結一神，紅衣，下布胸前心上四寸，守之。<lb/> 　　中央黃老君道經第十九　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『中央黃素炁，　
+          圓華玉夀靈。　 太張上玉門，<lb/>
+          <pb ed="CK-KZ" n="02p047a" facs="#fac-02p047a"/><lb/> 伏雲三仞明。　 赤景翳逸寥，　 提攜太一眞。　 帝女抱定陵，<lb/>
+          吟詠玉淸文。　 五符編紫房，　 玉籍標圓庭。　 七祖返胎仙，<lb/> 滅絕三途尸。　 流風斷血滯，　 玄業得黃甯。　 洞玄淸淨光，<lb/> 元命靈通神。　 性命宗本堅，　
+          孝道成明王。　 生根得太和，<lb/> 无爲登上淸。』　 微念咒曰：<lb/> 『滿景生，　 比孛通。　 解脱災，　 福劫元。』<lb/> #+END_VERSE
+          　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『修士久持，得洞玄淸淨慧目靈通天尊天帝，眞人神<lb/> 　仙，天趣神趣，人趣鬼趣，及一切眾生性命宗本，是曰眞中之<lb/> 　神長生大君。左生无英，右生白元，名齊太一，司命沖靈。桃康<lb/>
+          <pb ed="CK-KZ" n="02p047b" facs="#fac-02p047b"/><lb/> 　合延，執符把籙，宗孝上道，位登眞仙，名證眞人。妙行全眞。』<lb/>
+          　　第二十章<lb/> 九元玉篆【圖images/KR5i0001_KR5i0001-02_47b3-6.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請九元眞男，名拘制，字三陽，常鎭我左耳之下、伏晨之戶。嚴<lb/>
+          固守之，令我天聰發徹，幽谷鮮明，眞炁雲行，往來泥丸，招神得<lb/> 仙。』<lb/>
+          <pb ed="CK-KZ" n="02p048a" facs="#fac-02p048a"/><lb/> 　存想左耳根下二指眞炁五色彩雲，上昇頂上。再微聲咒曰：<lb/>
+          『九元之精，天關開窗。八景合炁，上通金房。三元帝室，返老生翁。<lb/> 玉華灌漑，鍊改艾容。飛霄紫輿，運我昇空。』<lb/>
+          　咒完，吸頂雲，三咽，結一神，童男，執簡，下布心宫，入左膀胱，透<lb/> 　尾閭夾脊，過玉枕，穿腦後，入左耳垂下二指向後一分，守之。<lb/>
+          　　靑精上眞内景君道經第二十　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『靑精上華炁，　 太微玄景童。　 神化玉室内，<lb/> 飛羽逸紫空。　 日爲三矜交，　
+          奉符登帝墉。　 開關把金節，<lb/> 閉戶叩瓊鐘。　 滅魔三酆野，　 招靈上淸宮。　 明出穹陰關，<lb/> 入精六合房。　 回老變皓形，　 還白返嬰童。　 洞元淸淨光，<lb/>
+          <pb ed="CK-KZ" n="02p048b" facs="#fac-02p048b"/><lb/> 津液具神通。　 咽液生萬神，　 神水華池融。　 湧泉灌而潤，<lb/>
+          往來无有窮。　 通生道之源，　 天根常茂豊。　 寂寂上伯，<lb/> 接生萬盈。　 心中之神，　 號曰天精。　 流煥九宮，　 飛生上英。<lb/> 拔絕死門，　 福鏘臻臻。　
+          七祖父母，　 解結吉昌。　 符籍晨登，<lb/> 身併桃康。　 長保金暉，　 道德仙王。』　 微念咒曰：<lb/> 『 種炁會，　 出蘭蒙。　 昌田子，　 東夀王。』<lb/>
+          #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『修士久持，得洞源淸淨，津液神通，湧昇灌潤華池。神<lb/>
+          　水往來，通生帝心一玄。一切大通，无礙无障。能斬南方波羅<lb/> 　歘落蹠猷天七魔，五岳地根惡根，魔籍鬼賬。常以淸淨神水，<lb/>
+          <pb ed="CK-KZ" n="02p049a" facs="#fac-02p049a"/><lb/> 　供養天王，滋潤玄英，仙登聖聰。』<lb/> 　　第二十一章<lb/> 皇一玉篆【圖images/KR5i0001_KR5i0001-02_49a3-6.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請皇一魂女，名上歸，字帝子，一名郁墨子。一名抱定陵，常鎭<lb/>
+          我右耳之下伏晨之戶。嚴固守之，使我幽明之光，上朗泥丸，太<lb/> 元之音，獨樂一身，彈金鳴鐘，流徹太和。』<lb/>
+          <pb ed="CK-KZ" n="02p049b" facs="#fac-02p049b"/><lb/> 　存想右耳根下二指，出黃黑雲炁，上昇頂上。再微聲咒曰：<lb/>
+          『皇一上眞，洞生丹房。朱嬰榮耀，發溢明光。太元之音，朗徹九空。<lb/> 玄金獨樂，振響琅琅。上招玉景，協我神堂。策虛昇飛，遊宴玉京。』<lb/>
+          　咒完，吸頂雲，三咽，結一神女，執簡，下布心宮，入右膀胱，透尾<lb/> 　閭夾脊，過玉枕，穿腦後，入右耳垂下二指向後一分，守之。<lb/>
+          　　太陽九炁玉賢元君道經第二十一<lb/> #+BEGIN_VERSE 元始天王曰：　 『太陽化三晨，　 紫軒徹玄路。　 元君保谷童，<lb/> 守胃塞死戶。　 金符煥北華，　
+          玉契拔七祖。　 帝眞灌上生，<lb/> 斷我三途苦。　 洞明淸淨光，　 帝心太玄通。　 宿命過去智，<lb/> 根本元由中。　 未來及他心，　 一切旡礙融。　 洞元與洞明，<lb/>
+          <pb ed="CK-KZ" n="02p050a" facs="#fac-02p050a"/><lb/> 萬道由通生。　 司命攝生，　 太一營神。　 開陰太漠，<lb/>
+          長保陽源。　 素明童子，　 正我三魂。　 列籙玉淸，　 羽書紫玄。<lb/> 月帝夫人，　 運翹結賢。　 奉符六合，　 混會億千。　 累爲仙王，<lb/> 上宴九天。』　
+          微念咒曰：<lb/> 『會命初，　 幽中和。　 混生宗，　 理仙樞。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『修士久持，得洞明淸淨帝心、玄通生三昧帝心，成太<lb/> 　玄帝一眞道，先劫後劫，三界十方，他我根源，過去未來，七通<lb/>
+          　八達，備悉知見。能脱東南方合羅藪班滌天祈波水淲泉曲<lb/> 　河源地根惡根，魔籍鬼賬。常以洞元金酒、洞明法燈，供奉天<lb/>
+          <pb ed="CK-KZ" n="02p050b" facs="#fac-02p050b"/><lb/> 　王，生炁潤根，通明朗惠，妙覺大度，進登聖仙。』<lb/>
+          　　第二十二章<lb/> 紫素玉篆【圖images/KR5i0001_KR5i0001-02_50b3-6.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請紫素左元君，名翳无仞，字安來上同。上部八景神，常鎭我<lb/>
+          頭面之境。嚴固守之，使萬邪不干，千精滅亡。紫雲充於泥丸，太<lb/> 素鎭於鼻孔，景雲被於口齒，玉林聚於髮膚，散七祖之積尸，解<lb/>
+          <pb ed="CK-KZ" n="02p051a" facs="#fac-02p051a"/><lb/> 七世之罪仇，上登天帝堂，永爲天仙侶。』<lb/>
+          　存想面上景雲之炁，上昇頂上。再微聲咒曰：<lb/> 『翳鬱生眞，眞炁生空。靈光昱昱，紫雲融融。上致流津，下布我宮。<lb/>
+          身生水火，體變玉光。飛仙羽蓋，昇入神公。授書玉經，成我仙宗。』<lb/> 　咒完，吸頂雲，三咽，結一神，帝王相，紅衣冠，下布心宮，穿尾閭<lb/>
+          　夾脊，上泥丸，下布面上玄達戶，坐守之。<lb/> 　　太初九素金華景元君道經第二十二<lb/> #+BEGIN_VERSE 元始天王曰：　 『太初九素炁，　 炁出華景中。　
+          法垣舞仙旗，<lb/> 逡巡五老翁。　 夫人名啟珠，　 執籍歸紫房。　 元父左回明，<lb/> 混合太微童。　 洞淸明智惠，　 大意朗元通。　 根塵悉消滅，<lb/>
+          <pb ed="CK-KZ" n="02p051b" facs="#fac-02p051b"/><lb/> 有無皆虛空。　 妙行全十眞，　 名大心神通。　 道備登玉淸，<lb/>
+          位爲聖仙公。』　 微念咒曰：<lb/> 『冥沖次，　 信明都。　 延命玉，　 駕本根。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『修士久持，得洞淸冥惠大意元通，根塵斷盡，世法除<lb/> 　滅，有無二累，皆悉空寂，全眞妙行，得大心神通。能除東北方<lb/>
+          　明晨耐絕犯武城天惡根地根，魔籍鬼賬。常以法財，供奉天<lb/> 　王，及施一切，普令具足，成大富王，圓滿千通，享玉淸上品聖<lb/> 　賢之貴。』<lb/> 　　朗念：<lb/>
+          <pb ed="CK-KZ" n="02p052a" facs="#fac-02p052a"/><lb/> #+BEGIN_VERSE 『天王元始，　 靑毫眉放。　 古今之稱，　
+          上極無上。』<lb/> #+END_VERSE <pb ed="CK-KZ" n="02p053a" facs="#fac-02p053a"/><lb/>
+          元始大洞玉經卷下<lb/> #+BEGIN_VERSE 　學仙絕華念，　 念念相因積。　 去來亂我神，　 神躁靡不厯。<lb/> 　滅念停虛閑，　 蕭蕭入空寂。　 請經若飢渴，　
+          持念如金石。<lb/> 　保子飛玄路，　 五靈度符籍。<lb/> #+END_VERSE 元始天王以大洞高上混沌太无元天寶地靈之炁，結一寶珠，<lb/>
+          名之曰蒼胡頡。曰：『吾以此寶從道妙一，善貸生根，孕玄分元，誕<lb/> 始傳眞，化生諸天，凝成道炁，大哉至寶，唯我獨存。今爲玉宸道<lb/>
+          君，重出斯寶，諸天帝王天眞大聖，瞻望寶光，其光分敷百千萬<lb/> 億，結成大洞仙經玉文。凝而成雲，煥而成章。諸天帝王天眞大<lb/> 聖，以淸明識，以始通觀，以華舌通。齊聲宣詠大洞雲章，音徹萬<lb/>
+          <pb ed="CK-KZ" n="02p053b" facs="#fac-02p053b"/><lb/> 天，流響九地。天界地界水界神鄕一切神靈，不離本座，俱覩雲<lb/>
+          章絢目，仙梵厯耳皆悉，百生障滅，萬劫塵消，三途九幽，十方惡<lb/> 趣，咸承光音所及。十纏九結六染七塵，於是頃間一時解脱。』是<lb/>
+          時太玄道父前詣蕭臺，再拜稽首，求授寶珠所結大洞玉經玉<lb/> 文雲章，庶以導化天人，俾眾生俱免萬災，咸消眾罪，不沉惡趣，<lb/> 俱得一乘，宏是願言，慇懃啟請。<lb/>
+          元始天王命元辰大聖玉晨道君，盡俯仰威儀，手付太玄道父<lb/> 蒼胡頡寶。<lb/> 元始天王告曰：『此蒼胡頡寶與檀熾鈞音，若非太玄，何得求請。<lb/> 唯子慈心願重，可𢌿寶章。<lb/>
+          <pb ed="CK-KZ" n="02p054a" facs="#fac-02p054a"/><lb/> 　檀熾是先天無形法器，鈞音是先天無形法音。』<lb/>
+          　　第二十三章<lb/> 黃素玉篆【圖images/KR5i0001_KR5i0001-02_54a3-6.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請黃素中元君，名圓華黃仞，字淑景輪，常鎭我胸腹之境。嚴<lb/>
+          固守之，令我鬼魔伏制，三尸滅形，黃雲散於肢體，金液充於太<lb/> 倉，晨景之喗上華太眞之炁運光七祖父母罪解，受胎更生南<lb/>
+          <pb ed="CK-KZ" n="02p054b" facs="#fac-02p054b"/><lb/> 宮。』<lb/> 　存想心中日出景雲，上昇頂上。再微聲咒曰：<lb/>
+          『九天上景，化生華暉。晃朗太空，曜眞紫微。上至中黃，百神降迴。<lb/> 散根離苦，八難豁開。七祖同昇，福履巍巍。使我成仙，八景齊飛。』<lb/>
+          　咒完，吸頂雲，三咽結二金甲神，下佈肺宮，化爲兩輪黃光，二<lb/> 　神在光内坐，守之。<lb/> 　　九皇上眞司命君道經第二十三<lb/> #+BEGIN_VERSE
+          元始天王曰：　 『九皇上眞炁，　 四司天仙王。　 飛霞散天日，<lb/> 凝煥六合房。　 上眞朝玉淸，　 乘景晨中暉。　 五辰號發紐，<lb/> 捧籍啓虛皇。　 逸綠登紫淸，　
+          金符刻羽宮。　 領玄蒼胡珠，<lb/>
+          <pb ed="CK-KZ" n="02p055a" facs="#fac-02p055a"/><lb/> 宏濟登普光。　 運度玄中人，　 嚥味生五芽。　 結集成胎仙，<lb/>
+          丹母全眞陽。　 主伴合元範，　 大易生玄光。』　 微念咒曰：<lb/> 『掌堂逮，　 元眇靈。　 去劫迴，　 未始交。』<lb/> #+END_VERSE
+          　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『太易一玄妙行，息門氣通，初入信根，始於心地，次第<lb/>
+          　生長，滋茂成林。蓋由斷疑，遂生信解。乃曰：一度證修一曲水，<lb/> 　天行一百功，從聞入見，一和合攝，皆起初聞。由是天寶爲之<lb/>
+          　開光，黑帝爲之通血，北斗落死，定名玄籍。』<lb/> 　　第二十四章<lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p055b" facs="#fac-02p055b"/><lb/> 白素玉篆【圖images/KR5i0001_KR5i0001-02_55b1-4.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請白素右元君，名啓明蕭仞，字金門上，常鎭我下關之境，小<lb/>
+          腹至腳底。嚴固守之，令我宿[禾*𡻕]无滯，地戶鬼滅，明王玉液上淘<lb/> 於陰極之宮，神素金炁逆充於兩腕之内，脾受九靈之潤，腳生<lb/>
+          重玄之雲，累祖解於冥罪，七世散除祻根，更上南丹，上宴帝軒。』<lb/> 　存想臍下三寸下丹田，其形方圓一寸，男子藏精，女子懷姙，<lb/>
+          <pb ed="CK-KZ" n="02p056a" facs="#fac-02p056a"/><lb/> 　出月光玄雲之炁，上昇頂上。再微聲咒曰：<lb/>
+          『白素啟明，九天同生。高虛素含，浮景玉淸。回眞曲仙，流灑八溟。<lb/> 通幽達微，朗耀華精。使我内徹，五孔開明。神公來遊，我道克成。』<lb/>
+          　咒完，吸頂雲，六咽，結六神，如力士形，分左右下布心宮，穿小<lb/> 　腹二慾之孔、兩膀胱，下布二足心，乘黑雲，守之。<lb/> 　　天皇上眞玉華三元君道經第二十四<lb/>
+          #+BEGIN_VERSE 元始天王曰：　 『天皇上眞炁，　 三元乘晨回。　 法垣興朱霄，<lb/> 帝昌啓玉扉。　 拔戶命門内，　 解結桃康階。　 歛神保五籍，<lb/>
+          越轉入太微。　 單入而雙修，　 一曲水天開。　 海日自東生，<lb/> 元命生太初。　 三五混一，　　 六合津平。　　 公子奉符，<lb/>
+          <pb ed="CK-KZ" n="02p056b" facs="#fac-02p056b"/><lb/> 司命保生。　 紫房洞曜，　 泥丸安甯。　 百關備神，　
+          五華飛冥。<lb/> 雲颷流逸，　 八景浮淸。　 併羽大帝，　 攜帶寒庭。　 沈映天津，<lb/> 絕滅胞莖。　 七世累玄，　 解結南庭。』　 微念咒曰：<lb/> 『保劫乘，　
+          結六庭。　 生雙門，　 入仙胎。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『太初二元妙行，息門大通，觀起信心，動得信訣，念信<lb/> 　不忘，守信不失，爲信而行。夫五信在中，心和見和。乃曰：二度<lb/>
+          　二點火，地行五百功。從目入覩，觀定則神澄，神澄則炁淸，始<lb/> 　名正觀。二和含攝，神目方瞳。由是靈寶開長夜之幽，赤帝養<lb/> 　通和之炁，南斗上生，注記丹文。』<lb/>
+          <pb ed="CK-KZ" n="02p057a" facs="#fac-02p057a"/><lb/> 　　第二十五章<lb/> 日中玉篆【圖images/KR5i0001_KR5i0001-02_57a2-5.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請日中司命君，名接生，字通靈，一名上景，一名圓光，一名眇<lb/>
+          景，一名九曜，一名微玄，一名曜羅司命童，號赤炁王，内名將軍<lb/> 梁，乃日中玉神。常鎭我左手掌心，通眞之戶。接生君嚴固守之，<lb/> 使我四大正明，玉華保眞，魔炁滅絕，生神固靈，七祖解脱，魂魄<lb/>
+          <pb ed="CK-KZ" n="02p057b" facs="#fac-02p057b"/><lb/> 更生。』<lb/>
+          　存想左手掌心眞炁三華，紅赤白雲上昇頂上。再微聲咒曰：<lb/> 『四大乘天，天元來歸。三華吐曜，司命景飛。爲我招仙，七祖散開。<lb/> 上登太虛，日月同暉。』<lb/>
+          　咒完，吸頂雲，三咽，結一神，日君相，手執日輪，紅衣冠，下布心<lb/> 　宮，入左膀胱，穿玉莖中，透尾閭夾脊，上昇泥丸，注於左目頰<lb/>
+          　腮内，由肩厯臂髓中入左手掌心通眞之戶，守之。<lb/> 　　太一上元禁君道經第二十五<lb/> #+BEGIN_VERSE 元始天王曰：　 『太一上元禁，　 日中司命童。　
+          煥然神光明，<lb/> 披霞昇帝墉。　 列坐震靈席，　 混合五日房。　 白炁育上生，<lb/>
+          <pb ed="CK-KZ" n="02p058a" facs="#fac-02p058a"/><lb/> 靑君按延昌。　 左攜精上門，　 右抱合和嬰。　 我生日月華，<lb/>
+          友賓赤炁王。　 八景照泥丸，　 朗然洞房中。　 嬰兒爲赤子，<lb/> 混離生玉容。　 五道秀金華，　 位爲上淸公。　 七祖斷玄滯，<lb/> 身神乘仙風。　 徘徊三淸上，　
+          和樂返胎嬰。　 太始三炁周，<lb/> 眞文肇生明。　 太一上元，　　 五神安城。　　 七轉三迴，<lb/> 攝鬼命靈。　 方岳眞人，　 奉符執經。　 除落死籍，　
+          刻金書生。<lb/> 太帝有教，　 營衞紫房。　 九眞備守，　 五老保關。　 三宮司命，<lb/> 促對帝言。　 七世絕災，　 玄葉无愆。　 種德空同，　 散結祻根。』<lb/>
+          微念咒曰：<lb/> 『丹門昌，　 左帝根。　 无常子，　 保大明，　 將軍梁。』<lb/>
+          <pb ed="CK-KZ" n="02p058b" facs="#fac-02p058b"/><lb/> #+END_VERSE 　咒三遍，畢，叩齒三通，咽津，如前。<lb/>
+          　玄契曰：『太始三炁妙行，觀門定通，記信金石，至信大成，善信<lb/> 　能修，堅信進趣，方名正信，十信大全。意和則生炁延，志和則<lb/>
+          　大美溢，炁和則三炁聚。乃曰：三度中三木，天數分一千大功。<lb/> 　從聞入見，從見入道。由是神寶爲之制萬靈，靑帝爲之護魂<lb/>
+          　爽，東斗注長生之算，木公書靑簡之名，乃誦此經得力也。』<lb/> 　　第二十六章<lb/> 月中玉篆【圖images/KR5i0001_KR5i0001-02_58b-8-10.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p059a" facs="#fac-02p059a"/><lb/> 　服符畢，叩齒三通。微聲朗念：<lb/>
+          『謹請月中桃君，名萬盈，子字通景，一名靑帝母，號芬艷嬰，常鎭<lb/> 我右手掌心通眞之戶。桃君嚴固守之，令我四運通明，三神固<lb/> 精，保固萬炁，與神長甯。』<lb/>
+          　存想右手掌心出丹暉色雲，上昇頂上。再微聲咒曰：<lb/> 『元靈黃房内，月中號萬盈。左宴朱領臺，右攜仙皇庭。寢景三秀<lb/>
+          房，結我神始生。同飛入玄玄，七祖返華嬰。』<lb/> 　咒完，吸頂雲，三咽，結一神，月君相，手執月輪，白衣巾，下布心<lb/>
+          　宮，入右膀胱，穿玉莖中，透尾閭夾脊，上昇泥丸，注右目頰腮<lb/> 　内，由肩㦄臂髓中，入右手掌心通眞之戶，守之。<lb/>
+          <pb ed="CK-KZ" n="02p059b" facs="#fac-02p059b"/><lb/> 　　元靈黃房眞晨君道經第二十六<lb/> #+BEGIN_VERSE
+          元始天王曰：　 『元靈黃房中，　 内有黃甯童。　 左有堅玉君，<lb/> 右有帝昌皇。　 浮黃翳神炁，　 鬱鬱虛靈容。　 靑肝明童子，<lb/> 開朗徹八聰。　 太一儔㐀蘭，　
+          奉符入玉宮。　 拔赦七世罪，<lb/> 迴元期十通。　 混合帝一室，　 五老變孩蒙。　 太素梵行初，<lb/> 一善四金通。』　 微念咒曰：<lb/> 『變世炁，　 三道遷。　
+          理命非，　 幸連劫。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『太素四梵妙行，觀門生通，初宏一善，精水沾濡，枯朽<lb/> 　發荄，是曰精和，精和則神和，神和則氣淸，氣淸而和，故曰淸<lb/>
+          <pb ed="CK-KZ" n="02p060a" facs="#fac-02p060a"/><lb/> 　和。四度克成四金，地數五百功分。由是太一以具神身，白帝<lb/>
+          　以侍魄元，西斗記名，玉靈瑤篇。』<lb/> 　　第二十七章<lb/> 陽光玉篆【圖images/KR5i0001_KR5i0001-02_60a4-7.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請左目童子，名靈飛，一名飛靈，字陽光，常鎭我左目之瞳。童<lb/> 子嚴固守之，令我陽生於内，淸淨於外，二炁交通，四朗八會，徹<lb/>
+          <pb ed="CK-KZ" n="02p060b" facs="#fac-02p060b"/><lb/> 見無方，方方自泰。』<lb/>
+          　存想左目眞炁日華之雲，上昇頂上。再微聲咒曰：<lb/> 『四極太靈，元君精映。日華充溢，童子流光。二景相照，通我明梁。<lb/>
+          三丹啓眞，道我開張。毛羽羅裙，飛上玉京。』<lb/> 　咒完，吸頂雲，三咽，結一童子，手執日輪，光從頂至心宮，入玉<lb/>
+          　莖中，透尾閭夾脊玉枕，上昇泥丸。入左目中瞳人内，搖睛七<lb/> 　遍，不得動右目瞳，命神守之。<lb/> 　　太極主四眞人元君道經第二十七<lb/> #+BEGIN_VERSE
+          元始天王曰：　 『太極主四眞，　 凌羽逸上淸。　 七轉召司命，<lb/> 太一揚威明。　 司錄保儲命，　 三舉震靈符。　 魔王來受事，<lb/>
+          <pb ed="CK-KZ" n="02p061a" facs="#fac-02p061a"/><lb/> 仙官束鬼精。　 月中靑帝母，　 號曰芬艷嬰。　 太張上五符，<lb/>
+          安來上玉名。　 混化六合内，　 洞房列火兵。　 太極五靈沖，<lb/> 橫文帝子賓。　 去兆死籍，　　 名遷玉門。　　 帝一保身，<lb/> 五老衞神。　　 上登太明，　　
+          金輪霄玄。』　　 微念咒曰：<lb/> 『登來張，　 乘法謨。　 靈夀臺，　 宜生人。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『太極五靈妙行，觀門思神，次興四善。聞善則玄上貫<lb/> 　顙，六丁洞光。視善則一元方瞳，八史洞明。語善則通命含潄。<lb/>
+          　五文玉華。履善則扶就立通，地關生命。一性初合，五度克成<lb/> 　五橫，文就天五，太中五百功成。總炁中靈帝君，由是結元命<lb/>
+          <pb ed="CK-KZ" n="02p061b" facs="#fac-02p061b"/><lb/> 　形，黃帝中主，萬神衞屯，中斗大魁，總監眾靈。』<lb/>
+          　　第二十八章<lb/> 陰精玉篆【圖images/KR5i0001_KR5i0001-02_61b3-6.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請右目童子，名晨嬰，字陰精，常鎭我右目之瞳。童子嚴固守<lb/>
+          之，令我陰映内朗，洞觀外明，三神同煙，徹見玉淸。』<lb/> 　存想右目中眞炁月華之雲，上昇頂上。再微聲咒曰：<lb/>
+          <pb ed="CK-KZ" n="02p062a" facs="#fac-02p062a"/><lb/> 『七晨飛華，華散三元。混合成眞，上招月魂。爲我降靈，啓我仙門。<lb/>
+          七祖同飛，上朝帝君。』<lb/> 　咒完，吸頂雲，三咽，結一童女，手執月輪，光從頂至心宮，入玉<lb/> 　莖中，透尾閭夾脊玉枕，上昇泥丸，入右目中瞳人内。搖睛七<lb/>
+          　遍，不得動左目瞳，命神守之。<lb/> 　　四斗中眞七晨散華君道經第二十八<lb/> #+BEGIN_VERSE 元始天王曰：　 『斗中四眞人，　 散花玉淸臺。　
+          帝鄕中玄生，<lb/> 一回眾眞來。　 香風散三寶，　 五臟映靑夷。　 蒼胡頡光華，<lb/> 檀熾鈞吉祥。　 火中六炁淸，　 曲水襄天河。　 六度功圓成，<lb/>
+          五魔伐六陰。　 中結元始王，　 高觀六合庭。　 天帝奏先，<lb/>
+          <pb ed="CK-KZ" n="02p062b" facs="#fac-02p062b"/><lb/> 拔擢七玄。　 種死成樹，　 沉滯胞根。　 太一揮風，　
+          號曰寄頻。<lb/> 斷絕血穢，　 斬伐住煙。　 白帝西華，　 爲我北神。』　 微念咒曰：<lb/> 『解曲玄，　 鏡重車。　 長濟樂，　 脱憂苦。』<lb/>
+          #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『太中六合行明觀門，念善行善，无礙无障，至善不踰。<lb/>
+          　住善保安，定善崇基，全成十善。十華通榮，命同智合，曲水襄<lb/> 　流，六度功圓，一千功成。自初至六，三千六百滿證大勳。由是<lb/>
+          　九天爲子生眞人，五帝爲子伐六陰，旋斗㦄箕而度天門，八<lb/> 　景㝠合而肇玄玄。』<lb/> 　　第二十九章<lb/>
+          <pb ed="CK-KZ" n="02p063a" facs="#fac-02p063a"/><lb/> 胎仙玉篆【圖images/KR5i0001_KR5i0001-02_63a1-4.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請肺神童子，名素明，字元英，常鎭我肺部五關之位。嚴固守<lb/>
+          之，令我華蓋上精玄暉，充徹五關，神室有光，萬魔不入，百會受<lb/> 靈。』<lb/> 　存想肺部喉下眞炁暉光，上昇頂上。再微聲咒曰：<lb/> 『童子素明，黃雲九⬤。滄臺飛輪，三神協眞。號曰玄上景，列位高<lb/>
+          <pb ed="CK-KZ" n="02p063b" facs="#fac-02p063b"/><lb/> 皇賓。總攝命百神，攜我入紫煙。』<lb/>
+          　咒完，吸神光，五咽，結五神，如童子狀。左三右二，下布心宮，上<lb/> 　充華蓋，昇重樓，厯泥丸，下鵲橋，左三右二，分貫鼻凹，入二目<lb/> 　左右。搖睛九遍，守之。<lb/>
+          　　辰中黃景君道經第二十九　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『辰中黃景炁，　 三秀登霄庭。　 滄臺飛羽輪，<lb/> 迎延道己成。　 司命奉帝書，　
+          號爲玄度卿。　 保生大霞宮，<lb/> 列賓館上淸。　 命門合延精，　 守我身黃甯。　 左攜元素君，<lb/> 右攝朱鬱靈。　 太和度七覺，　 點火生眞文。　
+          紫華領胎仙，<lb/> 元命眞中神。』　 微念咒曰：<lb/>
+          <pb ed="CK-KZ" n="02p064a" facs="#fac-02p064a"/><lb/> 總命本，　 登龍津。　 玄劫會，　 萬履阿。』<lb/>
+          #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『太和七覺妙行，十華觀門。紫華天一，精通太无。丹華<lb/>
+          　地二，炁通凝玄。靑華天三，神通萬生。素華地四，梵通十方。黃<lb/> 　華天五，始通太淸。瓊華地六，始通冥陰。金華天七，始通太玄。<lb/>
+          　綠華地八，元通上淸。碧華天九，元通玉虛。瑤華地十，玄通玉<lb/> 　淸混洞太无，十華接空。地居天中，千行始登。點火赤混，惠合<lb/>
+          　沖眞。聞合見合，合德變形。是曰玄中太皇，眞中有神。』<lb/> 　　第三十章<lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p064b" facs="#fac-02p064b"/><lb/> 胎神玉篆【圖images/KR5i0001_KR5i0001-02_64b1-4.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請胎中一元白炁君，名務玄，子字育上生。太一精魂，名玄歸<lb/>
+          子，字盛昌，號八靈。二神常鎭我五臟之上、結喉之本。嚴固守之，<lb/> 令我三華之色，入帝一之府。九明之津，生六胎之下。九玄散祻，<lb/>
+          七祖解結，身登玉堂，位列太一。』<lb/> 　存想結喉卽喉下包高處，一名金樓重樓，一名三思臺，主通<lb/>
+          <pb ed="CK-KZ" n="02p065a" facs="#fac-02p065a"/><lb/> 　上下炁。出紅光雲，上昇頂上。再微聲咒曰：<lb/>
+          『金闕煥玉淸，三炁映丹霞。明光鬱金靈，五色吐三華。流金咽寢<lb/> 堂，結我胎生華。玉符召百神，威章徵萬魔。保此億劫仙，道明无<lb/> 凶邪。』<lb/>
+          　咒完，吸頂雲，三咽，結三神。白炁君白衮冕，在上。又二神分左<lb/> 　右，冠簡，從頂下布喉結左右，守之。<lb/> 　　金闕後聖太平李眞天帝上景君道經第三十　朗念<lb/>
+          #+BEGIN_VERSE 元始天王曰：　 『金闕上景炁，　 十方暉紫煙。　 三命太一尊，<lb/> 五召太元神。　 七轉召岳眞，　 玉符告三官。　 拔籍三途下，<lb/>
+          受生高上宸。　 太帝八靈王，　 一化回慶雲。　 桃君守六合，<lb/>
+          <pb ed="CK-KZ" n="02p065b" facs="#fac-02p065b"/><lb/> 勒精衞泥丸。　 太淸八景觀，　 十德眞文宣。　 保子神中神，<lb/>
+          元命生自然。　 震靈攝魔，　　 三舉登壇。　　 所召促到，<lb/> 混雜對陳。　　 元靈上帝，　　 混合全形。』　　 微念咒曰：<lb/> 『暉延勒，　 得曰賢。　 籍會元，　
+          帝符子。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『太淸八景妙行，十德貫形。用德合體，進德坦平，成德<lb/>
+          　廣大，智德内淸，惠德發光，明德圓華，靈德普惠，玄德大方，大<lb/> 　德自然，普德濟攝，三千行滿，眞文下敷，滿願成眞。理合化合，<lb/>
+          　德合道合，保子萬神，洞曜八冥。由是中理五炁，混合百神。』<lb/> 　　第三十一章<lb/>
+          <pb ed="CK-KZ" n="02p066a" facs="#fac-02p066a"/><lb/> 結中玉篆【圖images/KR5i0001_KR5i0001-02_66a1-4.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請胃口内結中靑炁君，名按延康，字合和嬰元君精魂，名保<lb/>
+          谷童，字明光。二神常鎭我胃口之中。嚴固守之，令我太倉豐溢，<lb/> 命門堅完，雲霞鬱於黃庭，精約滿於玉都，中彭滅形，黃裳元吉。』<lb/>
+          　存想胃中玉色雲，上昇頂上。再微聲咒曰：<lb/> 『離合九靈，二眞幽密。太虛重天，上攜太一。雌雄混合，同還妙室。<lb/>
+          <pb ed="CK-KZ" n="02p066b" facs="#fac-02p066b"/><lb/> 上變九仙，下解胎結。七祖慶欣，五苦解脱。使君飛騰，靈化本質。』<lb/>
+          　咒完，吸頂雲，三咽，結二神，靑衣，過喉入胃口内，分左右，守之。<lb/> 　　太虛後聖旡景彭室眞君道經第三十一　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　
+          『太虛空無景，　 霞中有彭室。　 九雲合重扉，<lb/> 帝君淨幽密。　 八眞合景君，　 上攜女太一。　 雌雄混玉房，<lb/> 九遍還返七。　 分形散六合，　 泥丸易分別。　
+          太眞九光輪，<lb/> 十住丿(音撇)文結。　 保子元炁通，　 五炁理中頡。　 混一歸帝闕，<lb/> 永夀无終劫。　 變化飛上淸，　 三千行超越。』　 微念咒曰：<lb/>
+          『乘元輪，　 入幽宗。　 祻車滅，　 養无景。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          <pb ed="CK-KZ" n="02p067a" facs="#fac-02p067a"/><lb/> 　玄契曰：『太眞九光妙行，十全捨觀，雙修仙化。胞仙胎仙魂仙，<lb/>
+          　魄藏府中。仙靈仙元仙華仙岳仙元，仙命神仙。梵炁始炁元<lb/> 　炁玄炁道炁，中理眞人。變眞化神，三千行成。丿文含潄。靑炁<lb/>
+          　自然，十轉回靈，萬炁齊仙，乃誦經所致也。』<lb/> 　　第三十二章<lb/> 節中玉篆【圖images/KR5i0001_KR5i0001-02_67a6-10.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p067b" facs="#fac-02p067b"/><lb/> 　服符畢，叩齒三通。微聲朗念：<lb/>
+          『謹請節中黑炁君，名斌來生，字精上門。帝眞精魂，名幽臺子三，<lb/> 字灌上。二神常鎭我九陽之口、伏梁之下。嚴固守之，令我天根<lb/>
+          固密，九竅疏通，萬神朝謁於上帝，一道貫徹於層霄，見天地之<lb/> 心，妙陰陽之始。』<lb/> 　九陽口是生水處，伏梁下戶，大小腸盡頭相近間處，陰囊之<lb/>
+          　後、府門之前，一陰中央是也。存想下元玉光雲炁，上昇頂上。<lb/> 　再微聲咒曰：<lb/> 『太玄何寥寥，黑光生上虛。帝明洞明景，九炁合神廬。變化十方<lb/> 頃，倐忽肇明初。萬眞鍊我仙，百關自淸居。七玄斷胞木，九玄昇<lb/>
+          <pb ed="CK-KZ" n="02p068a" facs="#fac-02p068a"/><lb/> 福堂。上招景中子，與我登飛輿。』<lb/>
+          　咒完，吸頂雲，三咽，結二神，黑衣冠，從上炁管下布九陽之口<lb/> 　小腸盡頭處，守之。<lb/> 　　太玄都九炁丈人主仙君道經第三十二　朗念<lb/>
+          #+BEGIN_VERSE 元始天王曰：　 『太玄九炁上，　 煙迴太暉間。　 神光秀空峰，<lb/> 五道煥三天。　 駕景登絕霄，　 乘風蕩滯神。　 日中一運珠，<lb/>
+          理心入淸間。　 混合三五宮，　 累變億萬年。　 伐絕胞樹生，<lb/> 永斷血尸根。　 七祖散積滯，　 返華生幽玄。　 萬炁生萬神，<lb/> 齊化成仙壬。　 太玄啟十明，　
+          妙行登十眞。』　 微念咒曰：<lb/> 『旡何景，　 奉神沖。　 見玉賓，　 拔鑾塗。』<lb/> #+END_VERSE <pb ed="CK-KZ" n="02p068b"
+            facs="#fac-02p068b"/><lb/> 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『太玄十明妙行，十眞精眞。玄珠炁眞，玄力神眞，玄通<lb/>
+          　性眞，玄一元眞，玄妙命眞，玄光形眞，玄全德眞，玄洞道眞，玄<lb/> 　應全眞。太玄十眞妙行，梵行諸天，橫文固根。萬行周圓，六位<lb/>
+          　己陞，妙行大全，形成炁精，鍊化紫金。長生无窮，太玄眞人，皆<lb/> 　誦經所致也。』<lb/> 　　第三十三章<lb/> 胞中玉篆【圖images/KR5i0001_KR5i0001-02_68b8-10.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p069a" facs="#fac-02p069a"/><lb/> 　服符畢，叩齒三通。微聲朗念：<lb/>
+          『謹請胞中黃炁君，名祖明車，字神无極。天帝精魂，名理維藏，字<lb/> 法運珠。二神常鎭我小腸之端、二孔之本。嚴固守之，令我胞胎<lb/>
+          靖密，榮衞流通，黃雲上烝於元陽，金液充滿於玄妙，斟酌慶光，<lb/> 保安蘭室，七祖散祻，九玄上生。』<lb/> 　小腸之端，胞囊繫焉。胞有二帶，合於小腸之内。左一帶管便<lb/>
+          　溺，右一帶管漏精，故曰二孔。存想胞中黃雲，上昇頂上。再微<lb/> 　聲咒曰：<lb/> 『上淸曜玄臺，八景乘天紀。黃炁協神眞，精魂對帝子。太一度命<lb/> 籍五符固不死。攜仙帶晨暉，迴風返形始。拔苦出七祖，同歡九<lb/>
+          <pb ed="CK-KZ" n="02p069b" facs="#fac-02p069b"/><lb/> 玄裏。』<lb/>
+          　咒完，吸頂雲，三咽，結二神，黃冕衣冠，下布小腸二孔，守之。<lb/> 　　上淸八皇老君道經第三十三　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『上淸絕霞外，　
+          八皇運九天。　 幽寥玄帝子，<lb/> 攜此景中人。　 晨登天老堂，　 夕宴金華庭。　 羽節命太一，<lb/> 錦旛召萬神。　 堅我六仙府，　 伐滅胞樹根。　
+          解結生七祖，<lb/> 散禍甯九玄。　 赤城丹臺女，　 扶兆入金門。　 月母靈素蘭，<lb/> 守閉死炁關。　 死炁自今絕，　 生津從茲延。　 萬神萬炁仙，<lb/>
+          超脱位眞王。　 十眞妙行全，　 太玄會明陽。　 无上大洞尊，<lb/> 一炁同龍光。　 太无太素，　　 洞景幽玄。　　 人生天形，<lb/>
+          <pb ed="CK-KZ" n="02p070a" facs="#fac-02p070a"/><lb/> 上道泥丸。　 九宮森羅，　 丹樓五間。　 嬰兒六炁，　
+          盈潤淸淵。<lb/> 太一凝血，　 司命鎭魂。　 桃康備魄，　 養光命門。　 公子攜精，<lb/> 洞陽回神。　 九眞保骨，　 太素理眞。　 百節萬液，　 千津開關。<lb/>
+          上憩日月，　 五帝九神。　 淡滅五臟，　 華生玉根。　 胃宮朱腸，<lb/> 生血通源。　 三命長生，　 營護大全。』　 微念咒曰：<lb/> 『映遂劫，　 度連絕。　 濟寒熱，　
+          得全炁。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『修人已身，精炁全命，鍊化紫金，六位已陞，妙行大全，<lb/>
+          　長生无窮，太玄眞人。至此回光開度胎根，七祖九玄並解𡨚<lb/> 　結，斷除債訟，閉塞死戶。應同炁同根，蘇懋生津，延益萬神，同<lb/>
+          <pb ed="CK-KZ" n="02p070b" facs="#fac-02p070b"/><lb/> 　超眞王，和合萬炁，妙行並全，皆號太玄，會明陽天，我獨超出，<lb/>
+          　證大洞尊帝一龍光，號上玄通。』<lb/> 　　第三十四章<lb/> 血中玉篆【圖images/KR5i0001_KR5i0001-02_70b4-7.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請血中赤炁君，名混離子，字叔寶堅。司命精魂，名發紐子，字<lb/> 慶玄。二神常鎭我兩腳踝骨下、向外腕中之戶。嚴固守之，令我<lb/>
+          <pb ed="CK-KZ" n="02p071a" facs="#fac-02p071a"/><lb/> 五帝之液，盈於六腑，靈潤虛澤，充於血肉，絕節不空，地門塡塞，<lb/>
+          七祖結散，更生丹界，我得仙王，合道保德。』<lb/> 　存想二腳外踝骨赤雲炁二道，左右昇頂。微聲咒曰：<lb/>
+          『晨景煥東霞，丹景映高淸。二眞叶神宗，落落七華生。五老飛帝<lb/> 席，太一保童嬰。錦雲映幽夜，朗朗開重㝠。七祖勒符籍，南極受<lb/>
+          胎靈。高晨盼雲輿，運我昇仙軿。拔解億世基，同歡萬劫程。』<lb/> 　咒完，吸頂雲，七咽，結七神。一神帝王相，居中。六神力士形，各<lb/>
+          　紅衣冠，分左右。自頂降下心宮，分布兩腳外踝骨之戶，守之。<lb/> 　中一神透入尾閭夾脊，上昇泥丸，注額上髮際，守之。宜神存<lb/> 　於上也。<lb/>
+          <pb ed="CK-KZ" n="02p071b" facs="#fac-02p071b"/><lb/> 　　東華方諸君高晨師玉保王靑童君道經第三十四　朗<lb/>念<lb/>
+          #+BEGIN_VERSE 元始天王曰：　 『東華發始暉，　 高晨映上淸。　 洞煥圓珠靄，<lb/> 朗朗紫曜明。　 七神回帝席，　 五老飛玉軿。　 太一景中王，<lb/>
+          司命攝萬神。　 汎然雲波間，　 寂盼泥丸城。　 七轉召三官，<lb/> 北君稽首呈。　 五岳應命到，　 拔死書長生。　 三舉震靈符，<lb/> 玄解大魔精。　 七祖生福堂，　
+          玄華保黃甯。』　 微念咒曰：<lb/> 『觀軒寢，　 明賓鬱。　 三連生，　 虛无冲。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『修人七祖九玄，上生天堂，億曾萬祖，玄華齊生。内保<lb/>
+          <pb ed="CK-KZ" n="02p072a" facs="#fac-02p072a"/><lb/> 　黃甯種族，俱昇，皆注仙册，列籍南丹，萬世代族墓山塜訟，考<lb/>
+          　謫鬼賬，隨大洞經一時和平，地惡二根削除落滅，與道爲一，<lb/> 　長生自然。』<lb/> 　　第三十五章<lb/> 七神玉篆【圖images/KR5i0001_KR5i0001-02_72a5-8.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請上玄元父君，名高同生，字左回明。玄母叔火王，名阿郁生，<lb/>
+          <pb ed="CK-KZ" n="02p072b" facs="#fac-02p072b"/><lb/> 字右回光。帝皇太一，名重㝠空，字幽寥无。九帝尊君，名日明眞，<lb/>
+          字飛眾帝生。太帝精魂，名陽堂玉，字八靈。天帝九關開魄，名回<lb/> 祿道，字絕㝠。天紀帝魂大魔王，名照无阿，字廣神。凡七神，常鎭<lb/>
+          我臍中一寸内本命之宮，胞胎大結之中。七神嚴固守之，令我<lb/> 命根永堅，胎炁恒平，雌雄混於黃房，玄牝通乎太極，立躋仙阼，<lb/> 入眾妙門。』<lb/>
+          　存想臍内出七色雲炁，上昇頂上。再微聲咒曰：<lb/> 『玄父玄母，七眞舉仙。神公太帝，九老并位。爲我固生，拔度千界。<lb/>
+          日月同符，九帝合契。坐命天魔，萬靈來拜。浮景三舉，上保億世。』<lb/> 　咒完，吸頂雲，七咽，結七神。中一神元父，衮冕，騎獅子。六神力<lb/>
+          <pb ed="CK-KZ" n="02p073a" facs="#fac-02p073a"/><lb/> 　士形，分左右，下布命門内，守之。』<lb/>
+          　　扶桑大帝九老仙都君道經第三十五<lb/> #+BEGIN_VERSE 元始天王曰：　 『太帝九老經，　 校仙登扶桑。　 七轉召天帝，<lb/> 司命乘神綱。　 五岳啓靈戶，　
+          傳制大魔王。　 河海皆受事，<lb/> 立示應會方。　 保符泥丸内，　 守神曰桃康。　 回明易死籍，<lb/> 記仙叔火王。　 拔絕三塗籍，　 去禍生上英。　
+          九玄登朱宮，<lb/> 兆身會明陽。　 上友方盈子，　 下攜理維藏。　 左攝明車君，<lb/> 右輔歸盛昌。　 混一玉景炁，　 化兆吉以强。　 返嬰元命童，<lb/>
+          檀熾吉祥鈞。　 天一元根仙，　 自在光明輪。』　 微念咒曰：<lb/> 『盈劫運，　 邕玉昇。　 車離苦，　 去百毒。』<lb/> #+END_VERSE <pb
+            ed="CK-KZ" n="02p073b" facs="#fac-02p073b"/><lb/> 　咒三遍，畢，叩齒咽津，如前。<lb/>
+          　玄契曰：『修士誦經，證无上乘門，可以宏慈，回度天人，登太淸<lb/> 　仙王，太極眞人也。』<lb/> 　　第三十六章<lb/> 三素玉篆【圖images/KR5i0001_KR5i0001-02_73b5-8.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請三素老君，名罕張生，字神道生。正一左仙，名仲成子，字西<lb/>
+          <pb ed="CK-KZ" n="02p074a" facs="#fac-02p074a"/><lb/> 華尊，一名帝賓。正一右仙，名曲文子，字靈和，一名光堅。常鎭我<lb/>
+          鼻下人中。嚴固守之，令我統領萬神，趨吉避凶，七祖父母，上生<lb/> 玉堂。』<lb/> 　存想人中出黃白靑雲，上昇頂上。再微聲咒曰：<lb/>
+          『玉眞生帝景，萬華乘雲發。三老輔二仙，共鎭死戶窟。神映七華<lb/> 生，朽骨蒙更脱。超逸三界庭，五苦咸解脱。得入九天表，上朝高<lb/> 朱日。』<lb/>
+          　咒完，吸頂雲，三咽，結三神。中老君，黃衣，左靑衣，右白衣，下布<lb/> 　心宮，透尾閭夾脊，上昇泥丸，注面門，入人中。守之。<lb/> 　　小有玉淸萬華先生主圖玉君道經第三十六　朗念<lb/>
+          <pb ed="CK-KZ" n="02p074b" facs="#fac-02p074b"/><lb/> #+BEGIN_VERSE 元始天王曰：　 『玉淸萬華宮，　
+          高仙藏帝經。　 主圖九天表，<lb/> 洞觀无中生。　 七轉召萬眞，　 五岳一來庭。　 三官招眾魔，<lb/> 司籙校所呈。　 拔籍重泉曲，　 仙名書太淸。　
+          七世解牢結，<lb/> 穢血悉沉零。　 返胎朱火室，　 更受洞神靈。　 伯史衞神軀，<lb/> 令我保黃甯。』　 微念咒曰：<lb/> 『合帝伯，　 方超凝。　 理來生，　
+          福田延。』<lb/> #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『修士久持此章，位列天仙，萬神拱護，諸天臨軒，上帝<lb/>
+          　式臨，甄別善功，西白安魂，南朱衞魄，北黑助炁，東靑益血，中<lb/> 　黃元老，輔衞上眞，三尸除滅，九靈合神，日月兩曜，三台七星，<lb/>
+          <pb ed="CK-KZ" n="02p075a" facs="#fac-02p075a"/><lb/> 　同放光明，蔭庇成功。』<lb/> 　　第三十七章<lb/> 五帝玉篆【圖images/KR5i0001_KR5i0001-02_75a3-6.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請西方白帝，名彰安華，字西華，一字凌梵七靈。常鎭男之外<lb/>
+          腎，陰囊之中。令我腎子堅固，七魄歸眞，滋生元陽。(女之兩乳是也。)　謹<lb/> 請中央黃帝玄一老子，名靈虛夫含光露，字靈時道，一字魂明。<lb/>
+          <pb ed="CK-KZ" n="02p075b" facs="#fac-02p075b"/><lb/>
+          常鎭我脾胃之中，通精之竅。令我天根永固，克獲上仙。(卽陰莖中出精<lb/> 竅，女曰下戶。)　謹請北方黑帝，名保成昌，字北伐。常鎭我膀胱之中，<lb/>
+          以分淸濁，令我益血生神，靈根堅固。(卽尿胞也。小腸水滿，則膀胱太陽炁上烝之。然後小<lb/> 腸之水，隨陽炁滲入膀胱，化爲尿便也。)　謹請東方靑帝，名彫梁際，字靑平。常鎭<lb/>
+          我五臟之外，令我上膈淸爽，三魂永久，二目朗明，徹視九霄。(五臟<lb/> 唯肺肝心，居上膈也。)　謹請南方赤帝，名長來覺，字南和。常鎭我口中舌<lb/>
+          下二竅，令我華池神水淸明，滋潤百脈，養炁消痰，華蓋滋潤。<lb/> 恭請五帝，各居本位，周流榮衞，百關通暢，宿疾普消，七祖九玄<lb/>
+          解散胎結，上生南宮，以爲帝賓。我入八景，迴駕瓊輪，上昇九天，<lb/> 白日飛仙。』<lb/>
+          <pb ed="CK-KZ" n="02p076a" facs="#fac-02p076a"/><lb/> 　存想五臟，出靑黃白赤黑雲炁，上昇頂上。再微聲咒曰：<lb/>
+          『五帝朝眞，輔仙玄伯。上帝景暉，吐靈敷席。翳翳神曜，徘徊重幕。<lb/> 羽景寶籙，太一命籍。五炁總魂，三精固魄。金仙鍊容，停年返日。<lb/> 拔出幽根，日月同宅。』<lb/>
+          　咒完，吸頂雲，分五次咽，結成五帝，如五岳聖帝之狀，各服本<lb/> 　色衣。　第一咽，結白帝，冠冕，白衮袍，又乘白雲，下布心宮，入<lb/>
+          　陰囊中，混合，透尾閭夾脊，過玉枕，斜出右肩月光内，守之。<lb/> 　第二咽，結黃帝，冠冕，黃衮袍，乘黃雲，下布心宮。入陰莖之端，<lb/>
+          　混合，上昇臍輪，守之。　第三咽，結黑帝，冠冕，黑衮袍，乘黑雲，<lb/> 　下布心宮，入膀胱中，混合，透尾閭，過夾脊，穿出後心背，守之。<lb/>
+          <pb ed="CK-KZ" n="02p076b" facs="#fac-02p076b"/><lb/> 　　第四咽，結靑帝，冠冕，靑衮袍，乘靑雲，下布五臟中，混合，透<lb/>
+          　尾閭夾脊，過玉枕，斜出左肩日光中，守之。　第五咽，結赤帝，<lb/> 　冠冕，赤衮袍，乘赤雲，下布舌下，混合，由鵲橋上昇泥丸，入前<lb/> 　髮際一寸，守之。<lb/>
+          　　玄洲二十九眞伯上帝司禁君道經第三十七　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『玄洲絕三津，　 羽景太无庭。　 回霄飛重漠，<lb/> 委化混萬精。　
+          五雲鬱絕空，　 七霞落圓明。　 朗朗幽寥子，<lb/> 梵昌濟黃甯。　 五老飛絳華，　 散香攜玉靈。　 金質濯帝川，<lb/> 綠煙靄流瓊。　 神拔三途積，　 仙胎結兆形。　
+          上淸玉皇師，<lb/> 玉晨大道君。　 與心絳宮神，　 飛證太玄尊。』　 微念咒曰：<lb/>
+          <pb ed="CK-KZ" n="02p077a" facs="#fac-02p077a"/><lb/> 『開神華，　 大紀元。　 三毒除，　 乘福田。』<lb/>
+          #+END_VERSE 　咒三遍，畢，叩齒咽津，如前。<lb/> 　玄契曰：『修士久久持誦，兆身祖族皆位眞仙，位登上淸眞王，<lb/> 　太一眞人之果。』<lb/>
+          　　第三十八章<lb/> 三元玉篆【圖images/KR5i0001_KR5i0001-02_77a6-9.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/>
+          <pb ed="CK-KZ" n="02p077b" facs="#fac-02p077b"/><lb/> 『謹請泥丸上元帝卿，名昔元堅，字回化靈，一名幽車伯，一名董<lb/>
+          史華。一名肇勒精。黃庭下弼卿，名歸上明，字谷下玄。一名奉申<lb/> 伯，一名承光，生絳宮中。輔卿名亞丹君，字少靈，一名通幽子。常<lb/>
+          鎭我三元之宮，衞我本命，守我帝一之室，保於九天之籙，死名<lb/> 滅絕，超登帝一眞人。』<lb/> 　存想三宮，靑黃白三色雲炁，上昇頂上。再微聲咒曰：<lb/>
+          『命自有原，原出自天。上中下田，是爲三元。明堂烱烱，絳闕軒軒。<lb/> 無量涵蓋，紫戶爐煙。不騫不竭，引緒綿延。輔我通靈，助我液精。<lb/>
+          超證無上，入眾妙門。道隨身具，聖神合眞。』<lb/> 　咒完，吸頂雲，三咽，結三神，如三寶相。下布本命之宮，卽臍下<lb/>
+          <pb ed="CK-KZ" n="02p078a" facs="#fac-02p078a"/><lb/> 　命門也。復昇心下一寸，爲靈臺絳宮，卽帝一之室。三眞端坐，<lb/>
+          　守之。<lb/> 　　太元景中君刋峩嵋山中洞宮玉戶太素君道經第三十<lb/>八　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『三眞生太无，　 玉戶映晨霞。　
+          太素洞玄靈，<lb/> 丹靈森朱柯。　 回神九重府，　 南昌發瓊華。　 百關納津液，<lb/> 停年三秀阿。　 兆身騰玉淸，　 七祖離幽途。　 長保不終劫，<lb/>
+          萬世爲仙家。　 位爲聖統尊，　 玉淸大洞神。』　 微念咒曰：<lb/> 『陵昌玉，　 百塗君。　 得合契，　 登神鄕。』<lb/> #+END_VERSE 　咒三遍畢，叩齒咽津，如前。<lb/>
+          <pb ed="CK-KZ" n="02p078b" facs="#fac-02p078b"/><lb/> 　玄契曰：『修士誦經至此，超登無上妙道，位登玉淸聖王大一<lb/>
+          　聖君。』<lb/> 　　第三十九章<lb/> 帝一玉篆【圖images/KR5i0001_KR5i0001-02_78b4-7.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/> 　服符畢，叩齒三通。微聲朗念：<lb/> 『謹請大洞帝一尊君，名父甯在，字合母延精。迴風混合，鎭衞一<lb/> 身之關，統三十八戶之神，常在人中上唇之内，光映目中童子。<lb/>
+          <pb ed="CK-KZ" n="02p079a" facs="#fac-02p079a"/><lb/> 自无而有之，自有而无之，自有不有，自无不无，掌前後任督二<lb/>
+          脈，爲周身陰陽之祖，五炁眞元之會，號眞一之所，變萬歸一之<lb/> 道，形神俱妙，與道合眞。』<lb/> 　自第一章太微小童君以下，至上三帝卿，共三十八戶。存想<lb/>
+          　百神咸集，遶我一身。便合緊雙目，存思三十九神，總變化白<lb/> 　炁，如白煙之狀，從頂虛玄中來，入我口中，充滿五臟，鬱鬱。良<lb/>
+          　久，覺白炁從下部出，又從陰莖中出，又從二足心出，又從二<lb/> 　手掌心出，貫⬤手足上下一身，白炁混合。相見良久，白炁忽<lb/>
+          　變成紫炁，從口入頭腦，下布五臟，充滿腹中。良久，又從陰莖<lb/> 　中出，二足心出，手心出，貫遶一體，鬱然上下，與紫氣合形，不<lb/>
+          <pb ed="CK-KZ" n="02p079b" facs="#fac-02p079b"/><lb/> 　相見也。須臾，存想紫雲之炁，充滿左右，及一室内。又存想口<lb/>
+          　中出風炁，吹扇紫雲之煙，仍迴轉更相⬤遶，忽結成一眞人，<lb/> 　男形，如初生小兒，長四寸，號曰大洞帝一尊君。入我口中舌<lb/>
+          　下，遶入鼻孔，昇紫房。眉中入二寸右傍，名紫房。又至六合頂<lb/> 　宮，向外端坐，左手把我五朱符命，右手把我五簿籍。尊君口<lb/>
+          　左有日光，徑九分，口右有月光，徑一寸。口吐迴風之炁，吹日<lb/> 　月光，皆變白色。令白光入臟腑，一身洞徹，如白日。良久，身心<lb/> 　渾忘。再微聲咒曰：<lb/>
+          『大洞帝一，太素尊靈。父甯母精，二合雙成。百眞大混，一迴始生。<lb/> 身結八煙，變胎元嬰。日月寶光，洞我軀形。太一在上，與帝合并。<lb/>
+          <pb ed="CK-KZ" n="02p080a" facs="#fac-02p080a"/><lb/> 泥丸保玉，五臟華明。長合日月，手執洞經。位爲仙公，晨昇上淸。<lb/>
+          三十九章，金符羽庭。』<lb/> 　存想帝一尊君五色眞炁，上昇頂上。又微聲咒曰：<lb/> 『九靈通妙道，金仙混扶桑。帝一變百神，合靈西丹皇。上爲胎仙<lb/>
+          母，下號稱神宗。曜景絕雲𦕈，蕭蕭紫微宮。爲我執命籍，保眞三<lb/> 素房。妙景空中降，鍊我返嬰䝉。七祖絕苦源，超逸九福堂。』<lb/>
+          　咒完，吸頂雲，十二嚥，結一嬰童，居紫白圓光内，下布一身之<lb/> 　中，散炁九竅之内，聚炁在舌尖之上。事畢，入人中坐，守之。<lb/>
+          　　西元龜山九靈眞仙母靑金丹君道經第三十九　朗念<lb/> #+BEGIN_VERSE 元始天王曰：　 『西元九靈炁，　 金丹流雲宫。　 上極旋曜杪，<lb/>
+          <pb ed="CK-KZ" n="02p080b" facs="#fac-02p080b"/><lb/> 暉景太霞空。　 動回九天輪，　 靜沉八流綱。　 室有胎仙母，<lb/>
+          攜襟太帝皇。　 玄一靈時生，　 三老素罕張。　 左把五符籍，<lb/> 右攜理神宗。　 同登龍珠闕，　 稽首玉淸房。　 㧞棄死滅根，<lb/> 養形三五中。　 七祖解尸結，　
+          受福明朱芳。　 三證聖中尊，<lb/> 符化元炁生。』　 微念咒曰：<lb/> 『極炁夀，　 受乘明。　 合伯矜，　 駕變劫。』<lb/> #+END_VERSE
+          　咒三遍，畢，叩齒咽津，如前。<lb/> 玉宸道君言：『我師元始天王，授此大洞玉經，其旨玄奧，修眞妙<lb/>
+          行，初定通息，太和一千，中觀變眞，離相消塵，元合五千，坐在立<lb/> 亡，大定全眞，妙行通靈。初曰通炁，次曰通神，終曰通靈，十通成<lb/>
+          <pb ed="CK-KZ" n="02p081a" facs="#fac-02p081a"/><lb/> 眞。道備登宸，超脱飛昇，過度三界，往來三淸，證品大洞太一帝<lb/>
+          尊，六度十通，功圓行成，千和萬合，自然成眞。』<lb/> 　　大洞總眞玉符<lb/> 　　【圖images/KR5i0001_KR5i0001-02_81a4-10.jpg】<lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p081b" facs="#fac-02p081b"/><lb/> 　總三十九符，會眞炁於帝一之所。<lb/>
+          　玄契曰：『元始天王爲玉宸道君演玄批元，極始通終，自天及<lb/> 　人，俾獲成仙，眞要文也。學士誦之，悟入登仙。鬼神誦之，悟入<lb/>
+          　登眞。凡夫誦之，悟入長生。幽魂聞之，超脱更生。死厄聞之，度<lb/> 　生天堂。枯朽老病聞之，延津。嬰孺孩童聞之，聰明。上士得之，<lb/>
+          　飛騰玉淸，位爲聖尊，與道合眞。』<lb/> 太上無極總眞文昌大洞玉經卷下<lb/> 　按：誦三部八景經，乃元始生人一身之神祖也。不知此名，則<lb/>
+          　仙道道成，七祖不度。若解結之日，不先祝此者，則結節不解。<lb/> 　三魂失而爲下鬼也。盲人但守中黃，老死不免一鬼也。每日<lb/>
+          <pb ed="CK-KZ" n="02p082a" facs="#fac-02p082a"/><lb/> 　三時，並夜睡一醒，就呼其名。男子存想二十四神，如童子形，<lb/>
+          　長短不一，或一寸一分，或三寸及五寸者。女人存想爲童女<lb/> 　形。每日靜室飲食無人處，先呼二十四神名。不出千日，神眞<lb/> 　現形，我得上仙也。<lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p082b" facs="#fac-02p082b"/><lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <pb ed="CK-KZ" n="02p083a" facs="#fac-02p083a"/><lb/> 太微帝君三部八景回元經<lb/>
+          　叩中齒二十四通，小聲微呼上部八神名，每神三呼，一叩一<lb/> 　嚥，送各方位。<lb/> 腦神名覺元子，字道都。　髮神名玄文華，字道衡。　(皮膚)神名通<lb/>
+          眾仲，字道連。　目神名虛監生，字道童。　(項髓)神名靈謨蓋，字道<lb/> 周。　膂神名益厯輔，字道柱。　鼻神名冲龍玉，字道微。　舌神<lb/> 名始梁峙，字道岐。<lb/>
+          　祝曰：　『上景八神，一合人身。帝君玄母，五神各陳。舉形遁化，<lb/> 　流變適眞。千乘萬騎，俱昇帝晨。白元無英，道養太賓。八靈翼<lb/> 　體，玉華含煙。恍惚十周，徑造日門。』<lb/>
+          <pb ed="CK-KZ" n="02p083b" facs="#fac-02p083b"/><lb/> 　叩中齒二十四通，小聲微呼中部八神名。<lb/>
+          喉神名百流放，字道通。　肺神名素靈生，字道平。　心神名煥<lb/> 陽昌，字道明。　膽神名龍德拘，字道放。　左腎名春元眞，字道<lb/>
+          卿。　右腎名象地黃，字道生。　脾神名寶元全，字道騫。　肝神<lb/> 名開君童，字道靑。<lb/> 　祝曰：　『中景八神，四變九飛。煉魂正身，明景同暉。帝君解結，<lb/>
+          　胎鍊四歸。上通玄母，散靈步威。得與八神，合輦齊扉。千乘萬<lb/> 　騎，上登太微。』<lb/> 　叩中齒二十四通，小聲微呼下部八神名。<lb/> 胃神名同來育，字道展。　(腸中)神名兆滕康，字道還。　(大小腸中神名)蓬<lb/>
+          <pb ed="CK-KZ" n="02p084a" facs="#fac-02p084a"/><lb/>
+          送留，字道厨。　(胴名腸神)名受厚勃，字道虛。　(胸膈)神名廣瑛宅，字道<lb/> 仲。　(兩脇)神名辟假馬，字道成。　(左陰左陽神名)扶流起，字道圭。　(右陰右陽<lb/>
+          神名)苞表明，字道生。<lb/> 　祝曰：　『下景八神，散形化靈。紫煙鬱生，含元守精。太一元父，<lb/> 　帝君挺生。七爽免籍，司命記生。魂魄以安，五華育明。千乘萬<lb/>
+          　騎，與我同并。先造太素，北揖上淸。』<lb/> 　叩齒二十四通，運液二十四次。又呼守中一神<lb/> (道一内神)名逮无馬，字道極生。<lb/>
+          　祝曰：　『玄上内眞，養形侍晨。總紐攝綱，九度八旋。斗星内朗，<lb/> 　宮館九陳。帝君合昌，九道七咽。出液内精，和灌眾神。五臟生<lb/>
+          <pb ed="CK-KZ" n="02p084b" facs="#fac-02p084b"/><lb/> 　華，返老童顏。千乘萬騎，與我昇天。上朝太陛，高揖玉晨。』<lb/>
+          　存想二目中，有白光，如雞子大，在我面前。須臾化作二明鏡，<lb/> 　照我身上下二十四神，洞明朗徹，各守本宮。<lb/>
+          　祝曰：『大明寶鏡，分形散花。鑒朗元神，制卻萬魔。飛行上淸，披<lb/> 　雲巾羅。役使千靈，封山召河。』　(起身離座，)　回向。<lb/>
+          　聞經已後，惟願眾生深入法門，皈依信受。爲諸眾生，作善因<lb/> 　緣。如蒙開悟，仰荷玄恩。<lb/> #+BEGIN_VERSE 大道洞玄虛，　 有無念不起。　 煉質入仙眞，　
+          遂成金剛體。<lb/> 超度三界難，　 地獄五苦解。　 受皈太上經，　 靜念稽首禮。<lb/> #+END_VERSE 　　至心稽首，禮謝。<lb/>
+          <pb ed="CK-KZ" n="02p085a" facs="#fac-02p085a"/><lb/> 太上無極大道，<lb/> 華堂内景尊經，<lb/>
+          玄中大法師。<lb/> 　咒曰：　『上皇太眞，使我昇靈。淸齋澡煉，誦詠金經。七玄披散，<lb/> 　上朝太虛。延年長存，尅名銘書。』<lb/>
+          　閉目，叩齒三通，嚥津三次。復念：<lb/> (臣)誦仙經已訖，向來身中所出三五功曹，左右官使者，侍香金<lb/>
+          童，傳言玉女，五帝直符，三部八景二十四神，五岳神仙眞人，三<lb/> 炁正神，左右龍虎君，天仙地仙，五靈香官，直日香官，各三十六<lb/> 人。當令召致十方正炁，自然生金液丹碧芝英九玄玉眞之華，<lb/>
+          <pb ed="CK-KZ" n="02p085b" facs="#fac-02p085b"/><lb/> 會集香火鑪前，同灌臣身，各還金房玉室。在左還左，在右還右，<lb/>
+          毋令差互。後召復到，一如故事。令臣宿疾普消，神淸炁爽，自然<lb/> 學道得道，求仙得仙，飛行太空，騰景九天，金童玉女侍衞香煙<lb/> 聞臣向來所奏，上達。<lb/>
+          三淸三寶九宸生神上帝萬聖御前。<lb/> 　嚥津三。次叩齒三通。<lb/> 　向來聽經衞經聖眾，解壇散席，各還所司。神風靜穆，山海肅<lb/>
+          　淸，千邪伏匿，百靈護形，驅斥不祥，所願如意，千和萬合，元亨<lb/> 　利貞。　急急如律令。<lb/> 　　至心皈命禮<lb/>
+          <pb ed="CK-KZ" n="02p086a" facs="#fac-02p086a"/><lb/> 一元之始，萬道之宗。鬱羅蕭臺，玉山上京。處上極无上大羅之<lb/>
+          境。檀熾鈞音，蒼胡頡寶，總玄之又玄眾妙之門。建立三才，開張<lb/> 萬範，凝三炁而結爲三境，初肇天根。命九宸而列位九霄，總司<lb/>
+          雷令。大悲大願大聖大慈虚無自然元始天尊。<lb/> 　　至心皈命禮<lb/> 不驕帝境，玉眞慶宮，現九十八化之行藏，顯億千萬種之神異。<lb/>
+          飛鸞開化於在在，如意救劫以生生。至孝至仁，功存乎儒道釋<lb/> 教。不驕不樂，職盡乎天地水官。功德難量，威靈莫測，大悲大願<lb/>
+          大聖大慈九天輔元開化主宰司錄職貢舉眞君七曲靈應保<lb/> 德宏仁大帝談經演教消劫行化更生永命天尊。<lb/>
+          <pb ed="CK-KZ" n="02p086b" facs="#fac-02p086b"/><lb/> 　　至心皈命禮<lb/>
+          玉淸内相，金闕選仙，化身爲三教之師，掌法判五雷之令。黃梁<lb/> 夢覺，忘世上之功名。寶劍光騰，掃人間之妖怪。四生六道，有感<lb/>
+          必孚。三界十方，無求不應。黃鶴樓中留聖蹟，玉淸殿内煉丹砂，<lb/> 存芝像於山崖，顯仙踪於玄洞，衍法門之香火，爲後嗣之梯航。<lb/>
+          大聖大慈大仁大孝開山啓教靈應祖師天雷上相靈寶眞人<lb/> 純陽演正警化孚佑帝君興行妙道天尊。<lb/> 　向來諷誦仙經，悉已周圓，祈福延生，消災解厄，同賴善功，證<lb/>
+          　無上道。謹運眞香，再申稱念<lb/> 大羅元始天尊。(三稱。)<lb/>
+          <pb ed="CK-KZ" n="02p087a" facs="#fac-02p087a"/><lb/> 更生永命天尊。(三稱。)<lb/>
+          興行妙道天尊。(三稱。)覃恩不可思議功德。<lb/> 　凡誦經修行，每早向東，梳髮，卽默念太極綠髮，櫛髮之始，泥<lb/>
+          　丸生華，保精長存。右爲穩月，左爲日根，六合淸縺，百神受恩。<lb/> 　念畢，梳一百二十梳，明目延年。至吃飯時，手捧飯碗，叩齒三<lb/>
+          　通，心念謹請身中三十九神，三部八景一萬六千人神，享飡<lb/> 　法食，化生金液。咒曰：『二玄上道，四極淸冷。水一帝君，百神黃<lb/>
+          　甯。受糧二宮，灌漑脾靈。上飡太和，飡味五馨。魂胎受命，七液<lb/> 　流停。百關通和，五臟華明。金液滋身，與道合眞。雙星會景，飛<lb/> 　行上淸。吃飯完，心祝曰：百穀入胃，與神合炁。頃補血液，尸邪<lb/>
+          <pb ed="CK-KZ" n="02p087b" facs="#fac-02p087b"/><lb/> 　亡墜。飛登金闕，長生天地。役使六丁，靈通奉衞。』<lb/>
+          <pb ed="CK-KZ" n="02p088a" facs="#fac-02p088a"/><lb/> 宏教眞君後跋<lb/>
+          此序卽刋於前，不但可以弭患。而本經大旨，已昭然若揭，夢因<lb/> 善體之超。子矢此心，以往，存心，利人於物，必有所濟。一念之發，<lb/>
+          一善之動，皆蒙上鑒，斷不虛也。外行旣全，内修自然，可以入步，<lb/> 福與慧本相因也。勉旃。<lb/>
+          <pb ed="CK-KZ" n="02p089a" facs="#fac-02p089a"/><lb/> 後跋<lb/>
+          大洞仙經乃玉淸秘密之傳，出世之梯航，登仙之徑路也。凡修<lb/> 眞之士，持經法籙，務要發精進心，矢恒久志。每日早起，梳洗盥<lb/>
+          潄，整肅衣冠，登堂，焚香燃燈，淨茶三盞，淨水一盂，持咒啓聖。畢，<lb/> 興身向東坐，誦存運三十九章，每章各有神主之。宜先朝泥丸，<lb/>
+          然後復居本位，嚴固守之。有自前而下者，有自後而上者，各依<lb/> 經式，服符存運。内有嚥津者，非是口口呑液，只存頂中眞液，以<lb/>
+          目意送注中宮，或三或五，或七或九。臨末，方呑一口。存神，如道<lb/> 士相，金冠法衣，或靑白衣，或九梁冠等形。始運，從頂、心下布中<lb/> 宮，名迴風混合。從尾閭、夾脊至頂門，名默朝上帝。經久不懈，自<lb/>
+          <pb ed="CK-KZ" n="02p089b" facs="#fac-02p089b"/><lb/> 獲靈通。初則一日存思九章，久熟日日存完。倘行住坐臥，一心<lb/>
+          在頂，一紀不缺，白日飛昇。昔漢靈帝光和二年正月朔，有葛眞<lb/> 君在天台山精思念道，感　太上老君同玄一眞人親降，出大<lb/>
+          洞玉經，葛君拜而受之。大茅君息靜茅山，魏元君化貧女，入女<lb/> 妬菴修道，不覺腹大，似有姙者。眾姑惡而斥之。魏君曰：非姙也，<lb/>
+          乃仙經也。自以刀剖腹，得經一本，名曰大洞經。遂與大茅君，捧<lb/> 在手中。至今山中有破肚池存焉。余覽往聖持經證果者，代有<lb/>
+          偉人。幸遘劉君，授以世廟秘本，快睹符籙之全。因刋施一藏，以<lb/> 廣其傳。得遇者乃三生之幸。天不負人在乎。力行者勉爲之耳。<lb/>
+          　江西臨江府淸江縣奉道弟子楊攸謹跋。<lb/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
